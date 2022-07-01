@@ -1,0 +1,867 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SvsPatMax</name>
+    </assembly>
+    <members>
+        <member name="T:SvsPatMax.PatMaxForm">
+            <summary>
+            本类是匹配界面
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_Disp">
+            <summary>
+            显示控件
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_dispSmall">
+            <summary>
+            小的显示窗口
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_method">
+            <summary>
+            模板方法类
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_bModual">
+            <summary>
+            是否模块使用
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_roiCreateType">
+            <summary>
+            创建区域组合的界面
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_roiFindType">
+            <summary>
+            匹配区域组合的界面
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_listRoi">
+            <summary>
+            存储ROI
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_hoImage">
+            <summary>
+            输入图像
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_bTrain">
+            <summary>
+            是否训练
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_hoReducedImage">
+            <summary>
+            小显示窗口显示的图片
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_bStandard">
+            <summary>
+            标准参数(false：向下)
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_bGaoji">
+            <summary>
+            高级参数（false:向下）
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_bStandardUser">
+            <summary>
+            用户标准参数(false：向下)
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_bGaojiUser">
+            <summary>
+            用户高级参数（false:向下）
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_bFirst">
+            <summary>
+            是否首次加载
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_bCreateState">
+            <summary>
+            创建状态
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_strCreateMessage">
+            <summary>
+            创建信息
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_bFindState">
+            <summary>
+            匹配状态
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_dTime">
+            <summary>
+            运行时间
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.m_MaskMethod">
+            <summary>
+            掩模方法类
+            </summary>
+        </member>
+        <member name="M:SvsPatMax.PatMaxForm.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="M:SvsPatMax.PatMaxForm.UpdateCtrl">
+            <summary>
+            自动选择、链接等图像更新
+            </summary>
+        </member>
+        <member name="M:SvsPatMax.PatMaxForm.UpdateCreateParaToCtrl">
+            <summary>
+            将参数类数据更新至控件
+            </summary>
+        </member>
+        <member name="M:SvsPatMax.PatMaxForm.UpdateFindParaToCtrl">
+            <summary>
+            将参数更新到应用界面
+            </summary>
+        </member>
+        <member name="M:SvsPatMax.PatMaxForm.UpdateResultGraphic">
+            <summary>
+            更新区域
+            </summary>
+        </member>
+        <member name="M:SvsPatMax.PatMaxForm.UpdateResultPara">
+            <summary>
+            将匹配结果更新到表格中
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.PatMaxForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:SvsPatMax.PatMaxForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:SvsPatMax.PatMaxForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:SvsPatMax.Properties.Resources">
+            <summary>
+              一个强类型的资源类，用于查找本地化的字符串等。
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.Properties.Resources.ResourceManager">
+            <summary>
+              返回此类使用的缓存的 ResourceManager 实例。
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.Properties.Resources.Culture">
+            <summary>
+              使用此强类型资源类，为所有资源查找
+              重写当前线程的 CurrentUICulture 属性。
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.Properties.Resources.closed">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.Properties.Resources.不自动选择">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.Properties.Resources.保存1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.Properties.Resources.向上">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.Properties.Resources.向下">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.Properties.Resources.掩模">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.Properties.Resources.断开">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.Properties.Resources.无标题">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.Properties.Resources.自动选择">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.Properties.Resources.链接">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="T:SvsPatMax.SvsPatMaxMethod">
+            <summary>
+            主要内容：本类是模板匹配的方法类
+            时    间：2019/8/31
+            作    者：王雅鹏
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.Para">
+            <summary>
+            参数类
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.ModualFormName">
+            <summary>
+            模块Form名
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.PatMaxName">
+            <summary>
+            模板名
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.InputImage">
+            <summary>
+            输入图片
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.HvAffinetrans">
+            <summary>
+            仿射变换
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.Score">
+            <summary>
+            匹配得分
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.ScaleRow">
+            <summary>
+            行缩放比例
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.ScaleCol">
+            <summary>
+            列缩放比例
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.Row">
+            <summary>
+            行坐标
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.Col">
+            <summary>
+            列坐标
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.Angle">
+            <summary>
+            角度
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.RegModelReg">
+            <summary>
+            模板区域
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvModelId">
+            <summary>
+            模板Id
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.ModelID">
+            <summary>
+            模板ID
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.CreateContourModel">
+            <summary>
+            创建时的模板轮廓
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.FindCenterCross">
+            <summary>
+            匹配到的中心坐标十字
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.FindContourModel">
+            <summary>
+            匹配到的模板轮廓
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.MaskReg">
+            <summary>
+            掩模区域
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvRowCenter">
+            <summary>
+            原图匹配结果参数
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvColCenter">
+            <summary>
+            原图匹配结果参数
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvAngle">
+            <summary>
+            原图匹配结果参数
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvRowScale">
+            <summary>
+            原图匹配结果参数
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvColScale">
+            <summary>
+            原图匹配结果参数
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvScore">
+            <summary>
+            原图匹配结果参数
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvRowCenterNow">
+            <summary>
+            当前图像匹配结果参数
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvColCenterNow">
+            <summary>
+            当前图像匹配结果参数
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvAngleNow">
+            <summary>
+            当前图像匹配结果参数
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvRowScaleNow">
+            <summary>
+            当前图像匹配结果参数
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvColScaleNow">
+            <summary>
+            当前图像匹配结果参数
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvScoreNow">
+            <summary>
+            当前图像匹配结果参数
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hoThresholdReg">
+            <summary>
+            阈值选择后的区域
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hoThresholdRegOpening">
+            <summary>
+            开运算后的区域
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hoThresholdRegClosing">
+            <summary>
+            闭运算后的区域
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hoRegConnection">
+            <summary>
+            连通后的区域
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hoAeaSelectShape">
+            <summary>
+            面积选择后的区域
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hoPaint">
+            <summary>
+            重绘后的图片
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvArea">
+            <summary>
+            areacenter算子后的信息
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvRow">
+            <summary>
+            areacenter算子后的信息
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.SvsPatMaxMethod.m_hvCol">
+            <summary>
+            areacenter算子后的信息
+            </summary>
+        </member>
+        <member name="M:SvsPatMax.SvsPatMaxMethod.Save(System.Object,System.String)">
+            <summary>
+            文件化XML序列化
+            </summary>
+            <param name="obj">对象</param>
+            <param name="filename">文件路径</param>
+        </member>
+        <member name="M:SvsPatMax.SvsPatMaxMethod.Load(System.Type,System.String)">
+            <summary>
+            文件化XML反序列化
+            </summary>
+            <param name="type">对象类型</param>
+            <param name="filename">文件路径</param>
+        </member>
+        <member name="M:SvsPatMax.SvsPatMaxMethod.CreateModel(System.Boolean@,System.String@)">
+            <summary>
+            创建模板
+            </summary>
+            <param name="bState">true：成功</param>
+            <param name="strMessage">创建消息</param>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.RunTime">
+            <summary>
+            运行时间
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.RunMsg">
+            <summary>
+            错误描述
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxMethod.ListReg">
+            <summary>
+            存储Reg的List
+            </summary>
+        </member>
+        <member name="M:SvsPatMax.SvsPatMaxMethod.Run">
+            <summary>
+            运行
+            </summary>
+        </member>
+        <member name="T:SvsPatMax.SvsPatMaxPara">
+            <summary>
+            主要内容：本类是模板匹配的参数类
+            时    间：2019/8/26
+            作    者：王雅鹏
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxPara.MaskPara">
+            <summary>
+            掩模模块参数
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxPara.CreatePara">
+            <summary>
+            创建模板参数类
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxPara.FindPara">
+            <summary>
+            匹配参数
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxPara.PretreatementPara">
+            <summary>
+            预处理参数
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxPara.ModelID">
+            <summary>
+            存储为byte类型的模板
+            </summary>
+        </member>
+        <member name="M:SvsPatMax.SvsPatMaxPara.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="T:SvsPatMax.ModelType">
+            <summary>
+            模板类型
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.ModelType.形状">
+            <summary>
+            形状
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.ModelType.轮廓">
+            <summary>
+            轮廓
+            </summary>
+        </member>
+        <member name="F:SvsPatMax.ModelType.灰度">
+            <summary>
+            灰度
+            </summary>
+        </member>
+        <member name="T:SvsPatMax.SvsPretreatmentPara">
+            <summary>
+            主要内容：本类是预处理参数
+            时    间：2019/8/31
+            作    者：王雅鹏
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPretreatmentPara.LowThreshold">
+            <summary>
+            低阈值
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPretreatmentPara.HighThreshold">
+            <summary>
+            高阈值
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPretreatmentPara.Opening">
+            <summary>
+            开运算
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPretreatmentPara.Closing">
+            <summary>
+            闭运算
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPretreatmentPara.LowSize">
+            <summary>
+            小面积
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPretreatmentPara.HighSize">
+            <summary>
+            大面积
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPretreatmentPara.PaintGray">
+            <summary>
+            重绘灰度
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPretreatmentPara.PretreatmentCheck">
+            <summary>
+            是否启用预处理
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPretreatmentPara.ThresholdChecked">
+            <summary>
+            阈值选择
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPretreatmentPara.OpeningChecked">
+            <summary>
+            开运算选择
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPretreatmentPara.ClosingChecked">
+            <summary>
+            闭运算选择
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPretreatmentPara.ConnectChecked">
+            <summary>
+            连通选择
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPretreatmentPara.AreaChecked">
+            <summary>
+            面积选择
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPretreatmentPara.PaintChecked">
+            <summary>
+            重绘选择
+            </summary>
+        </member>
+        <member name="M:SvsPatMax.SvsPretreatmentPara.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="T:SvsPatMax.SvsPatMaxCreatePara">
+            <summary>
+            主要内容：本类是模板匹配的创建参数类
+            时    间：2019/8/26
+            作    者：王雅鹏
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.LowContrast">
+            <summary>
+            低对比度
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.HighContrast">
+            <summary>
+            高对比度
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.ContrastAuto">
+            <summary>
+            高低对比度是否自动选择
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.MinSizeComponent">
+            <summary>
+            最小组件尺寸
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.MinComponentAuto">
+            <summary>
+            最小组件自动选择
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.NumLevel">
+            <summary>
+            金字塔层数
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.NumLevelAto">
+            <summary>
+            金字塔级别自动选择
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.StartPhi">
+            <summary>
+            起始角度
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.PhiExtend">
+            <summary>
+            角度范围
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.RowScaleMin">
+            <summary>
+            行方向最小缩放
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.RowScaleMax">
+            <summary>
+            行方向最大缩放
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.ColScaleMin">
+            <summary>
+            列方向最小缩放
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.ColScaleMax">
+            <summary>
+            列方向最大缩放
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.ScaleConnect">
+            <summary>
+            比例是否关联
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.PhiStep">
+            <summary>
+            角度步长
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.PhiStepAuto">
+            <summary>
+            角度步长自动设置
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.RowScaleStep">
+            <summary>
+            行方向缩放步长
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.RowScaleStepAuto">
+            <summary>
+            行方向缩放步长
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.ColScaleStep">
+            <summary>
+            列方向缩放步长
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.ColStepAuto">
+            <summary>
+            列方向缩放步长
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.Polarity">
+            <summary>
+            极性
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.Optimize">
+            <summary>
+            最优化
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.OptimizeAuto">
+            <summary>
+            最优化自动
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.Pregenerate">
+            <summary>
+            是否预生成                                                           
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.MinContrast">
+            <summary>
+            最小对比度
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.MinContrastAuto">
+            <summary>
+            最小对比度自动
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.ModelTypes">
+            <summary>
+            模板类型
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.CreateRoiPara">
+            <summary>
+            模板区域类型参数
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.ModelContourChecked">
+            <summary>
+            是否显示模板轮廓
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.FindContourChecked">
+            <summary>
+            是否显示模板轮廓
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.ModelRoiChecked">
+            <summary>
+            模板区域
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.SearchRoiChecked">
+            <summary>
+            搜索区域
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.RowModel">
+            <summary>
+            模板图像的行坐标
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.ColModel">
+            <summary>
+            模板图像的列坐标
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxCreatePara.AngleModel">
+            <summary>
+            模板图像的角度
+            </summary>
+        </member>
+        <member name="M:SvsPatMax.SvsPatMaxCreatePara.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="T:SvsPatMax.SvsPatMaxFindPara">
+            <summary>
+            主要内容：本类是模板匹配的匹配参数类
+            时    间：2019/8/27
+            作    者：王雅鹏
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxFindPara.MinScore">
+            <summary>
+            最小分数
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxFindPara.FindMaxNum">
+            <summary>
+            匹配的最大数
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxFindPara.Greed">
+            <summary>
+            贪心算法
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxFindPara.MaxOver">
+            <summary>
+            最大重叠
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxFindPara.SubPix">
+            <summary>
+            亚像素
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxFindPara.MaxDeformation">
+            <summary>
+            最大形变
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxFindPara.FindNumLevel">
+            <summary>
+            匹配的最大金字塔层数
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxFindPara.Time">
+            <summary>
+            超时时间
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxFindPara.TimeCheck">
+            <summary>
+            是否启用超时
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxFindPara.Increased">
+            <summary>
+            增加公差模式
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxFindPara.Intersection">
+            <summary>
+            形状模板可能与图像边缘相交
+            </summary>
+        </member>
+        <member name="P:SvsPatMax.SvsPatMaxFindPara.FindRoiPara">
+            <summary>
+            搜索区域类型参数
+            </summary>
+        </member>
+        <member name="M:SvsPatMax.SvsPatMaxFindPara.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+    </members>
+</doc>

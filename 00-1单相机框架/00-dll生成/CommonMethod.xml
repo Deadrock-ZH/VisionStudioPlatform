@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CommonMethod</name>
+    </assembly>
+    <members>
+        <member name="T:CommonMethod.CommonMethods">
+            <summary>
+            主要内容：本类是胶厚检测的常用方法类
+            时    间：2019/9/19
+            作    者：王雅鹏
+            </summary>
+        </member>
+        <member name="M:CommonMethod.CommonMethods.WriteLogs(System.String,System.String,System.String)">
+            <summary>
+            写日志
+            </summary>
+            <param name="fileName">文件名</param>
+            <param name="type">类型</param>
+            <param name="content">内容</param>
+        </member>
+    </members>
+</doc>

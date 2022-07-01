@@ -1,0 +1,85 @@
+E:\视觉模块\02-SvPatMax\SvPatMax\bin\Debug\SvPatMax.exe.config
+E:\视觉模块\02-SvPatMax\SvPatMax\bin\Debug\SvPatMax.exe
+E:\视觉模块\02-SvPatMax\SvPatMax\bin\Debug\SvPatMax.pdb
+E:\视觉模块\02-SvPatMax\SvPatMax\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块\02-SvPatMax\SvPatMax\bin\Debug\halcondotnet.dll
+E:\视觉模块\02-SvPatMax\SvPatMax\bin\Debug\SvMask.dll
+E:\视觉模块\02-SvPatMax\SvPatMax\bin\Debug\SvsPatMax.dll
+E:\视觉模块\02-SvPatMax\SvPatMax\bin\Debug\System.Net.Http.dll
+E:\视觉模块\02-SvPatMax\SvPatMax\bin\Debug\SvMask.pdb
+E:\视觉模块\02-SvPatMax\SvPatMax\bin\Debug\SvsPatMax.pdb
+E:\视觉模块\02-SvPatMax\SvPatMax\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块\02-SvPatMax\SvPatMax\bin\Debug\System.Net.Http.xml
+E:\视觉模块\02-SvPatMax\SvPatMax\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块\02-SvPatMax\SvPatMax\obj\Debug\SvPatMax.csprojResolveAssemblyReference.cache
+E:\视觉模块\02-SvPatMax\SvPatMax\obj\Debug\SvPatMax.Form1.resources
+E:\视觉模块\02-SvPatMax\SvPatMax\obj\Debug\SvPatMax.Properties.Resources.resources
+E:\视觉模块\02-SvPatMax\SvPatMax\obj\Debug\SvPatMax.csproj.GenerateResource.Cache
+E:\视觉模块\02-SvPatMax\SvPatMax\obj\Debug\SvPatMax.exe
+E:\视觉模块\02-SvPatMax\SvPatMax\obj\Debug\SvPatMax.pdb
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\SvPatMax.exe.config
+E:\视觉模块\04-SvPatMax\SvPatMax\obj\Debug\SvPatMax.exe
+E:\视觉模块\04-SvPatMax\SvPatMax\obj\Debug\SvPatMax.pdb
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\SvPatMax.exe
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\SvPatMax.pdb
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\halcondotnet.dll
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\SvMask.dll
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\SvsPatMax.dll
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\System.Net.Http.dll
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\SvMask.pdb
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\SvsPatMax.pdb
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\System.Net.Http.xml
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块\04-SvPatMax\SvPatMax\obj\Debug\SvPatMax.csprojResolveAssemblyReference.cache
+E:\视觉模块\04-SvPatMax\SvPatMax\obj\Debug\SvPatMax.Form1.resources
+E:\视觉模块\04-SvPatMax\SvPatMax\obj\Debug\SvPatMax.Properties.Resources.resources
+E:\视觉模块\04-SvPatMax\SvPatMax\obj\Debug\SvPatMax.csproj.GenerateResource.Cache
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\SvMask.xml
+E:\视觉模块\04-SvPatMax\SvPatMax\bin\Debug\SvsPatMax.xml
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvPatMax.exe.config
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\obj\Debug\SvPatMax.exe
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\obj\Debug\SvPatMax.pdb
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvPatMax.exe
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvPatMax.pdb
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\halcondotnet.dll
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvMask.dll
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvsPatMax.dll
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvMask.pdb
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvMask.xml
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvsPatMax.pdb
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvsPatMax.xml
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\obj\Debug\SvPatMax.csprojResolveAssemblyReference.cache
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\obj\Debug\SvPatMax.Form1.resources
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\obj\Debug\SvPatMax.Properties.Resources.resources
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvPatMax\obj\Debug\SvPatMax.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\04-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvPatMax.exe.config
+E:\视觉模块 统一接口\04-SvPatMax-掩模添加放射矩阵\SvPatMax\obj\Debug\SvPatMax.exe
+E:\视觉模块 统一接口\04-SvPatMax-掩模添加放射矩阵\SvPatMax\obj\Debug\SvPatMax.pdb
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvPatMax.exe.config
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvPatMax.exe
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvPatMax.pdb
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvsPatMax.dll
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\obj\Debug\SvPatMax.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\obj\Debug\SvPatMax.Form1.resources
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\obj\Debug\SvPatMax.Properties.Resources.resources
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\obj\Debug\SvPatMax.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\obj\Debug\SvPatMax.exe
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvPatMax\obj\Debug\SvPatMax.pdb

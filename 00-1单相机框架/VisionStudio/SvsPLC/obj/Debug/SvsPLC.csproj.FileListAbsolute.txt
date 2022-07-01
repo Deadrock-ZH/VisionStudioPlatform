@@ -1,0 +1,89 @@
+C:\Users\1\Desktop\2V08-整体\SvsPLC\bin\Debug\SvsPLC.dll
+C:\Users\1\Desktop\2V08-整体\SvsPLC\bin\Debug\SvsPLC.pdb
+C:\Users\1\Desktop\2V08-整体\SvsPLC\obj\Debug\SvsPLC.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\2V08-整体\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+C:\Users\1\Desktop\2V08-整体\SvsPLC\obj\Debug\SvsPLC.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\2V08-整体\SvsPLC\obj\Debug\SvsPLC.dll
+C:\Users\1\Desktop\2V08-整体\SvsPLC\obj\Debug\SvsPLC.pdb
+C:\Users\1\Desktop\2V08\SvsPLC\bin\Debug\SvsPLC.dll
+C:\Users\1\Desktop\2V08\SvsPLC\bin\Debug\SvsPLC.pdb
+C:\Users\1\Desktop\2V08\SvsPLC\obj\Debug\SvsPLC.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\2V08\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+C:\Users\1\Desktop\2V08\SvsPLC\obj\Debug\SvsPLC.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\2V08\SvsPLC\obj\Debug\SvsPLC.dll
+C:\Users\1\Desktop\2V08\SvsPLC\obj\Debug\SvsPLC.pdb
+C:\Users\Administrator\Desktop\2V08-20200508修改显示\SvsPLC\bin\Debug\SvsPLC.dll
+C:\Users\Administrator\Desktop\2V08-20200508修改显示\SvsPLC\bin\Debug\SvsPLC.pdb
+C:\Users\Administrator\Desktop\2V08-20200508修改显示\SvsPLC\obj\Debug\SvsPLC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2V08-20200508修改显示\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+C:\Users\Administrator\Desktop\2V08-20200508修改显示\SvsPLC\obj\Debug\SvsPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\2V08-20200508修改显示\SvsPLC\obj\Debug\SvsPLC.dll
+C:\Users\Administrator\Desktop\2V08-20200508修改显示\SvsPLC\obj\Debug\SvsPLC.pdb
+C:\Users\1\Desktop\组立流程\SvsPLC\bin\Debug\SvsPLC.dll
+C:\Users\1\Desktop\组立流程\SvsPLC\bin\Debug\SvsPLC.pdb
+C:\Users\1\Desktop\组立流程\SvsPLC\obj\Debug\SvsPLC.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\组立流程\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+C:\Users\1\Desktop\组立流程\SvsPLC\obj\Debug\SvsPLC.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\组立流程\SvsPLC\obj\Debug\SvsPLC.dll
+C:\Users\1\Desktop\组立流程\SvsPLC\obj\Debug\SvsPLC.pdb
+C:\Users\1\Desktop\组立\组立流程\SvsPLC\bin\Debug\SvsPLC.dll
+C:\Users\1\Desktop\组立\组立流程\SvsPLC\bin\Debug\SvsPLC.pdb
+C:\Users\1\Desktop\组立\组立流程\SvsPLC\obj\Debug\SvsPLC.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\组立\组立流程\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+C:\Users\1\Desktop\组立\组立流程\SvsPLC\obj\Debug\SvsPLC.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\组立\组立流程\SvsPLC\obj\Debug\SvsPLC.dll
+C:\Users\1\Desktop\组立\组立流程\SvsPLC\obj\Debug\SvsPLC.pdb
+C:\Users\Administrator\Desktop\20200619二维码JTA500改造\SvsPLC\bin\Debug\SvsPLC.dll
+C:\Users\Administrator\Desktop\20200619二维码JTA500改造\SvsPLC\bin\Debug\SvsPLC.pdb
+C:\Users\Administrator\Desktop\20200619二维码JTA500改造\SvsPLC\obj\Debug\SvsPLC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20200619二维码JTA500改造\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+C:\Users\Administrator\Desktop\20200619二维码JTA500改造\SvsPLC\obj\Debug\SvsPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20200619二维码JTA500改造\SvsPLC\obj\Debug\SvsPLC.dll
+C:\Users\Administrator\Desktop\20200619二维码JTA500改造\SvsPLC\obj\Debug\SvsPLC.pdb
+G:\20200623二维码JTA500改造\SvsPLC\bin\Debug\SvsPLC.dll
+G:\20200623二维码JTA500改造\SvsPLC\bin\Debug\SvsPLC.pdb
+G:\20200623二维码JTA500改造\SvsPLC\obj\Debug\SvsPLC.csprojResolveAssemblyReference.cache
+G:\20200623二维码JTA500改造\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+G:\20200623二维码JTA500改造\SvsPLC\obj\Debug\SvsPLC.csproj.GenerateResource.Cache
+G:\20200623二维码JTA500改造\SvsPLC\obj\Debug\SvsPLC.dll
+G:\20200623二维码JTA500改造\SvsPLC\obj\Debug\SvsPLC.pdb
+F:\CYY输出材料2020\软件-项目资料\二维码JTA600\20200825二维码JTA600\SvsPLC\bin\Debug\SvsPLC.dll
+F:\CYY输出材料2020\软件-项目资料\二维码JTA600\20200825二维码JTA600\SvsPLC\bin\Debug\SvsPLC.pdb
+F:\CYY输出材料2020\软件-项目资料\二维码JTA600\20200825二维码JTA600\SvsPLC\obj\Debug\SvsPLC.csprojResolveAssemblyReference.cache
+F:\CYY输出材料2020\软件-项目资料\二维码JTA600\20200825二维码JTA600\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+F:\CYY输出材料2020\软件-项目资料\二维码JTA600\20200825二维码JTA600\SvsPLC\obj\Debug\SvsPLC.csproj.GenerateResource.Cache
+F:\CYY输出材料2020\软件-项目资料\二维码JTA600\20200825二维码JTA600\SvsPLC\obj\Debug\SvsPLC.dll
+F:\CYY输出材料2020\软件-项目资料\二维码JTA600\20200825二维码JTA600\SvsPLC\obj\Debug\SvsPLC.pdb
+D:\软件\20201022二维码JTA600(四个影像都能选择Mark识别,通讯改好)\SvsPLC\bin\Debug\SvsPLC.dll
+D:\软件\20201022二维码JTA600(四个影像都能选择Mark识别,通讯改好)\SvsPLC\bin\Debug\SvsPLC.pdb
+D:\软件\20201022二维码JTA600(四个影像都能选择Mark识别,通讯改好)\SvsPLC\obj\Debug\SvsPLC.csprojResolveAssemblyReference.cache
+D:\软件\20201022二维码JTA600(四个影像都能选择Mark识别,通讯改好)\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+D:\软件\20201022二维码JTA600(四个影像都能选择Mark识别,通讯改好)\SvsPLC\obj\Debug\SvsPLC.csproj.GenerateResource.Cache
+D:\软件\20201022二维码JTA600(四个影像都能选择Mark识别,通讯改好)\SvsPLC\obj\Debug\SvsPLC.dll
+D:\软件\20201022二维码JTA600(四个影像都能选择Mark识别,通讯改好)\SvsPLC\obj\Debug\SvsPLC.pdb
+C:\Users\chenyuany\Desktop\全自动组立线20210323\SvsPLC\bin\Debug\SvsPLC.dll
+C:\Users\chenyuany\Desktop\全自动组立线20210323\SvsPLC\bin\Debug\SvsPLC.pdb
+C:\Users\chenyuany\Desktop\全自动组立线20210323\SvsPLC\obj\Debug\SvsPLC.csprojResolveAssemblyReference.cache
+C:\Users\chenyuany\Desktop\全自动组立线20210323\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+C:\Users\chenyuany\Desktop\全自动组立线20210323\SvsPLC\obj\Debug\SvsPLC.csproj.GenerateResource.Cache
+C:\Users\chenyuany\Desktop\全自动组立线20210323\SvsPLC\obj\Debug\SvsPLC.dll
+C:\Users\chenyuany\Desktop\全自动组立线20210323\SvsPLC\obj\Debug\SvsPLC.pdb
+C:\Users\chenyuany\Desktop\全自动组立线20210416-写通讯模块\SvsPLC\bin\Debug\SvsPLC.dll
+C:\Users\chenyuany\Desktop\全自动组立线20210416-写通讯模块\SvsPLC\bin\Debug\SvsPLC.pdb
+C:\Users\chenyuany\Desktop\全自动组立线20210416-写通讯模块\SvsPLC\bin\Debug\halcondotnet.dll
+C:\Users\chenyuany\Desktop\全自动组立线20210416-写通讯模块\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+C:\Users\chenyuany\Desktop\全自动组立线20210416-写通讯模块\SvsPLC\obj\Debug\SvsPLC.csproj.GenerateResource.Cache
+C:\Users\chenyuany\Desktop\全自动组立线20210416-写通讯模块\SvsPLC\obj\Debug\SvsPLC.dll
+C:\Users\chenyuany\Desktop\全自动组立线20210416-写通讯模块\SvsPLC\obj\Debug\SvsPLC.pdb
+C:\Users\chenyuany\Desktop\全自动组立线20210416-写通讯模块\SvsPLC\obj\Debug\SvsPLC.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\bin\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\bin\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.csprojResolveAssemblyReference.cache

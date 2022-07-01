@@ -1,0 +1,88 @@
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.BlobToolForm.resources
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.Properties.Resources.resources
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\11-BlobTool\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-dll生成\SvBlobTool.dll
+E:\视觉模块 统一接口\00-dll生成\SvBlobTool.pdb
+E:\视觉模块 统一接口\11-BlobTool可选\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.BlobToolForm.resources
+E:\视觉模块 统一接口\11-BlobTool可选\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.Properties.Resources.resources
+E:\视觉模块 统一接口\11-BlobTool可选\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\11-BlobTool可选\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\11-BlobTool可选\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.pdb
+F:\视觉模块 统一接口\00-dll生成\SvBlobTool.dll
+F:\视觉模块 统一接口\00-dll生成\SvBlobTool.pdb
+F:\视觉模块 统一接口\11-BlobTool可选\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.csprojResolveAssemblyReference.cache
+F:\视觉模块 统一接口\11-BlobTool可选\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.BlobToolForm.resources
+F:\视觉模块 统一接口\11-BlobTool可选\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.Properties.Resources.resources
+F:\视觉模块 统一接口\11-BlobTool可选\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.csproj.GenerateResource.Cache
+F:\视觉模块 统一接口\11-BlobTool可选\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.dll
+F:\视觉模块 统一接口\11-BlobTool可选\BlobDemo\SvBlobTool\obj\Debug\SvBlobTool.pdb
+F:\workspace20211122\00-dll生成\SvBlobTool.dll
+F:\workspace20211122\00-dll生成\SvBlobTool.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csprojResolveAssemblyReference.cache
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.BlobToolForm.resources
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.Properties.Resources.resources
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csproj.GenerateResource.Cache
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.pdb
+F:\通用软件维护版本\workspace20211122\00-dll生成\SvBlobTool.dll
+F:\通用软件维护版本\workspace20211122\00-dll生成\SvBlobTool.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csprojResolveAssemblyReference.cache
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.BlobToolForm.resources
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.Properties.Resources.resources
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csproj.GenerateResource.Cache
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csprojResolveAssemblyReference.cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.BlobToolForm.resources
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.Properties.Resources.resources
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csproj.GenerateResource.Cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvBlobTool.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvBlobTool.pdb
+D:\00-1单相机框架\00-dll生成\SvBlobTool.dll
+D:\00-1单相机框架\00-dll生成\SvBlobTool.pdb
+D:\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csprojAssemblyReference.cache
+D:\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.BlobToolForm.resources
+D:\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.Properties.Resources.resources
+D:\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csproj.GenerateResource.cache
+D:\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csproj.CopyComplete
+D:\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.dll
+D:\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.pdb
+D:\code2022\00-1单相机框架\00-dll生成\SvBlobTool.dll
+D:\code2022\00-1单相机框架\00-dll生成\SvBlobTool.pdb
+D:\code2022\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csproj.AssemblyReference.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.BlobToolForm.resources
+D:\code2022\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.Properties.Resources.resources
+D:\code2022\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csproj.GenerateResource.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csproj.CoreCompileInputs.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csproj.CopyComplete
+D:\code2022\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.dll
+D:\code2022\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.pdb
+D:\code2022\备份\00-1单相机框架\00-dll生成\SvBlobTool.dll
+D:\code2022\备份\00-1单相机框架\00-dll生成\SvBlobTool.pdb
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csproj.AssemblyReference.cache
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.BlobToolForm.resources
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.Properties.Resources.resources
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csproj.GenerateResource.cache
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csproj.CoreCompileInputs.cache
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.csproj.CopyComplete
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.dll
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvBlobTool\obj\Debug\SvBlobTool.pdb

@@ -1,0 +1,139 @@
+E:\视觉模块\03-SvsFindLine\SvsFindLineTool\bin\Debug\SvsFindLineTool.dll
+E:\视觉模块\03-SvsFindLine\SvsFindLineTool\bin\Debug\SvsFindLineTool.pdb
+E:\视觉模块\03-SvsFindLine\SvsFindLineTool\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块\03-SvsFindLine\SvsFindLineTool\bin\Debug\halcondotnet.dll
+E:\视觉模块\03-SvsFindLine\SvsFindLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块\03-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.FindLineForm.resources
+E:\视觉模块\03-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.GenerateResource.Cache
+E:\视觉模块\03-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.dll
+E:\视觉模块\03-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.pdb
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\bin\Debug\SvsFindLineTool.dll
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\bin\Debug\SvsFindLineTool.pdb
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\bin\Debug\halcondotnet.dll
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\bin\Debug\SvMask.dll
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\bin\Debug\SvsPatMax.dll
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\bin\Debug\SvMask.pdb
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\bin\Debug\SvsPatMax.pdb
+E:\项目\胶厚软件发布版本\模块dll\SvsFindLineTool.XML
+E:\项目\胶厚软件发布版本\模块dll\SvsFindLineTool.dll
+E:\项目\胶厚软件发布版本\模块dll\SvsFindLineTool.pdb
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.FindLineForm.resources
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.Properties.Resources.resources
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.GenerateResource.Cache
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.dll
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.pdb
+E:\项目\模块dll\SvsFindLineTool.XML
+E:\项目\模块dll\SvsFindLineTool.dll
+E:\项目\模块dll\SvsFindLineTool.pdb
+E:\视觉模块\05-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.FindLineForm.resources
+E:\视觉模块 统一接口\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.Properties.Resources.resources
+E:\视觉模块 统一接口\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.dll
+E:\视觉模块 统一接口\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-\00-dll生成\SvsFindLineTool.XML
+E:\视觉模块 统一接口\00-\00-dll生成\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-\00-dll生成\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\00-\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.FindLineForm.resources
+E:\视觉模块 统一接口\00-\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.Properties.Resources.resources
+E:\视觉模块 统一接口\00-\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\00-\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\00-dll生成\SvsFindLineTool.XML
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\00-dll生成\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\00-dll生成\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\SvsFindLineTool.XML
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.FindLineForm.resources
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架多匹配\00-1单相机多匹配\02-SvsFindLine\SvsFindLineTool\obj\Debug\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\00-dll生成\SvsFindLineTool.XML
+E:\视觉模块 统一接口\00-dll生成\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-dll生成\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\02-SvsFindLine可选\SvsFindLineTool\obj\Debug\SvsFindLineTool.FindLineForm.resources
+E:\视觉模块 统一接口\02-SvsFindLine可选\SvsFindLineTool\obj\Debug\SvsFindLineTool.Properties.Resources.resources
+E:\视觉模块 统一接口\02-SvsFindLine可选\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\02-SvsFindLine可选\SvsFindLineTool\obj\Debug\SvsFindLineTool.dll
+E:\视觉模块 统一接口\02-SvsFindLine可选\SvsFindLineTool\obj\Debug\SvsFindLineTool.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csprojResolveAssemblyReference.cache
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.FindLineForm.resources
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.Properties.Resources.resources
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.GenerateResource.Cache
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.pdb
+F:\workspace20211122\00-1单相机框架\00-dll生成\SvsFindLineTool.XML
+F:\workspace20211122\00-1单相机框架\00-dll生成\SvsFindLineTool.dll
+F:\workspace20211122\00-1单相机框架\00-dll生成\SvsFindLineTool.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\00-dll生成\SvsFindLineTool.XML
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\00-dll生成\SvsFindLineTool.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\00-dll生成\SvsFindLineTool.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csprojResolveAssemblyReference.cache
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.FindLineForm.resources
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.Properties.Resources.resources
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.GenerateResource.Cache
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvsFindLineTool.XML
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvsFindLineTool.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvsFindLineTool.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csprojResolveAssemblyReference.cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.FindLineForm.resources
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.Properties.Resources.resources
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.GenerateResource.Cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.pdb
+D:\00-1单相机框架\00-dll生成\SvsFindLineTool.XML
+D:\00-1单相机框架\00-dll生成\SvsFindLineTool.dll
+D:\00-1单相机框架\00-dll生成\SvsFindLineTool.pdb
+D:\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csprojAssemblyReference.cache
+D:\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.FindLineForm.resources
+D:\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.Properties.Resources.resources
+D:\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.GenerateResource.cache
+D:\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.CopyComplete
+D:\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.dll
+D:\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.pdb
+D:\code2022\00-1单相机框架\00-dll生成\SvsFindLineTool.XML
+D:\code2022\00-1单相机框架\00-dll生成\SvsFindLineTool.dll
+D:\code2022\00-1单相机框架\00-dll生成\SvsFindLineTool.pdb
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.AssemblyReference.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.FindLineForm.resources
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.Properties.Resources.resources
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.GenerateResource.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.CoreCompileInputs.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.CopyComplete
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.dll
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.pdb
+D:\code2022\备份\00-1单相机框架\00-dll生成\SvsFindLineTool.XML
+D:\code2022\备份\00-1单相机框架\00-dll生成\SvsFindLineTool.dll
+D:\code2022\备份\00-1单相机框架\00-dll生成\SvsFindLineTool.pdb
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.AssemblyReference.cache
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.FindLineForm.resources
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.Properties.Resources.resources
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.GenerateResource.cache
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.CoreCompileInputs.cache
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.csproj.CopyComplete
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.dll
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Debug\SvsFindLineTool.pdb

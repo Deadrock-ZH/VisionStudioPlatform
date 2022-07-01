@@ -1,0 +1,4 @@
+E:\通用软件\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Release\SvsFindLineTool.csprojAssemblyReference.cache
+E:\通用软件\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Release\SvsFindLineTool.FindLineForm.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Release\SvsFindLineTool.Properties.Resources.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvsFindLineTool\obj\Release\SvsFindLineTool.csproj.GenerateResource.cache

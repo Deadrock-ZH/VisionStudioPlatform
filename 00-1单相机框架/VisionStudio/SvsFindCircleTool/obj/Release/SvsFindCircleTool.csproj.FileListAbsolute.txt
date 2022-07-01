@@ -1,0 +1,4 @@
+E:\通用软件\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Release\SvsFindCircleTool.csprojAssemblyReference.cache
+E:\通用软件\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Release\SvsFindCircleTool.FindCircleForm.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Release\SvsFindCircleTool.Properties.Resources.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Release\SvsFindCircleTool.csproj.GenerateResource.cache

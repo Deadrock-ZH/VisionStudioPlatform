@@ -1,0 +1,519 @@
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\Native.SvDistancePointLineTool.manifest
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsBlob.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsPatMax.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsBlob.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\Native.ParaResultAll.manifest
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\Native.SvDistancePointLineTool.manifest
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\Native.SvDistancePointLineTool.manifest
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsBlob.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\Native.ParaResultAll.manifest
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\Native.SvDistancePointLineTool.manifest
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\Native.SvDistancePointLineTool.manifest
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsBlob.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsPatMax.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsBlob.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\Native.ParaResultAll.manifest
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\Native.SvDistancePointLineTool.manifest
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\Native.SvDistancePointLineTool.manifest
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvsBlob.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvsPatMax.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvsBlob.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\bin\Debug\Native.ParaResultAll.manifest
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\obj\Debug\Native.SvDistancePointLineTool.manifest
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\Native.SvDistancePointLineTool.manifest
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvsBlob.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvsPatMax.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvsBlob.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\bin\Debug\Native.ParaResultAll.manifest
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\obj\Debug\Native.SvDistancePointLineTool.manifest
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsBlob.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsBlob.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.xml
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.pdb
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\halcondotnet.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvBlobTool.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsBlob.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\System.Net.Http.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.pdb
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.xml
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvBlobTool.pdb
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.pdb
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.xml
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsBlob.pdb
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.pdb
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.xml
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.pdb
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.xml
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.pdb
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.xml
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.pdb
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.xml
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\System.Net.Http.xml
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.pdb
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.xml
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csprojResolveAssemblyReference.cache
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.Cache
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.pdb
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\halcondotnet.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvBlobTool.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsBlob.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\System.Net.Http.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.pdb
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.xml
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvBlobTool.pdb
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.pdb
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.xml
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsBlob.pdb
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.pdb
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.xml
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.pdb
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.xml
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.pdb
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.xml
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.pdb
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.xml
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\System.Net.Http.xml
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.pdb
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.xml
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csprojResolveAssemblyReference.cache
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.Cache
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsBlob.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsBlob.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsBlob.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsBlob.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\halcondotnet.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvBlobTool.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsBlob.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.xml
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvBlobTool.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.xml
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsBlob.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.xml
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.xml
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.xml
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.xml
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csprojResolveAssemblyReference.cache
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.Cache
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.xml
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\halcondotnet.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvBlobTool.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsBlob.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.xml
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvBlobTool.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.xml
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsBlob.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.xml
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.xml
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.xml
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.xml
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.xml
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csprojResolveAssemblyReference.cache
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.Cache
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvDistancePointLineTool.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ParaResultAll.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\GVS.halconDispCtrl.xml
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvBlobTool.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvMask.xml
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsBlob.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsComputeCenter.xml
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindCircleTool.xml
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsFindLineTool.xml
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\SvsPatMax.xml
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\bin\Debug\ToolInterFace.xml
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csprojResolveAssemblyReference.cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.Cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvDistancePointLineTool.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvDistancePointLineTool.pdb
+D:\00-1单相机框架\00-dll生成\SvDistancePointLineTool.dll
+D:\00-1单相机框架\00-dll生成\SvDistancePointLineTool.pdb
+D:\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csprojAssemblyReference.cache
+D:\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+D:\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+D:\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.cache
+D:\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.CopyComplete
+D:\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+D:\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb
+D:\code2022\00-1单相机框架\00-dll生成\SvDistancePointLineTool.dll
+D:\code2022\00-1单相机框架\00-dll生成\SvDistancePointLineTool.pdb
+D:\code2022\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.AssemblyReference.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+D:\code2022\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+D:\code2022\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.CoreCompileInputs.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.CopyComplete
+D:\code2022\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+D:\code2022\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb
+D:\code2022\备份\00-1单相机框架\00-dll生成\SvDistancePointLineTool.dll
+D:\code2022\备份\00-1单相机框架\00-dll生成\SvDistancePointLineTool.pdb
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.AssemblyReference.cache
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.Properties.Resources.resources
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.SvDistancePointLineToolForm.resources
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.GenerateResource.cache
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.CoreCompileInputs.cache
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.csproj.CopyComplete
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.dll
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvDistancePointLineTool\obj\Debug\SvDistancePointLineTool.pdb

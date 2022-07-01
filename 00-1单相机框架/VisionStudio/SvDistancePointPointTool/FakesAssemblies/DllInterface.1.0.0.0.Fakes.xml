@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DllInterface.1.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:DllInterface.Fakes.StubInterfaceDll`4">
+            <summary>DllInterface.InterfaceDll`4 的存根类型</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.#ctor">
+            <summary>初始化 type StubInterfaceDll 的新实例</summary>
+        </member>
+        <member name="P:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#AffineHom">
+            <summary>设置 InterfaceDll`4.get_AffineHom() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.AffineHomGet">
+            <summary>设置 InterfaceDll`4.get_AffineHom() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.AffineHomSetT3">
+            <summary>设置 InterfaceDll`4.set_AffineHom(!3 value) 的 stub</summary>
+        </member>
+        <member name="P:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#Angle">
+            <summary>设置 InterfaceDll`4.get_Angle() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.AngleGet">
+            <summary>设置 InterfaceDll`4.get_Angle() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.AngleSetDouble">
+            <summary>设置 InterfaceDll`4.set_Angle(Double value) 的 stub</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.AttachBackingFieldToAffineHom">
+            <summary>附加委托以将 StubInterfaceDll.AffineHom 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.AttachBackingFieldToAngle">
+            <summary>附加委托以将 StubInterfaceDll.Angle 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.AttachBackingFieldToCol">
+            <summary>附加委托以将 StubInterfaceDll.Col 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.AttachBackingFieldToInputImage">
+            <summary>附加委托以将 StubInterfaceDll.InputImage 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.AttachBackingFieldToListCol">
+            <summary>附加委托以将 StubInterfaceDll.ListCol 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.AttachBackingFieldToListReg">
+            <summary>附加委托以将 StubInterfaceDll.ListReg 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.AttachBackingFieldToListResult">
+            <summary>附加委托以将 StubInterfaceDll.ListResult 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.AttachBackingFieldToListRow">
+            <summary>附加委托以将 StubInterfaceDll.ListRow 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.AttachBackingFieldToPara">
+            <summary>附加委托以将 StubInterfaceDll.Para 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.AttachBackingFieldToRow">
+            <summary>附加委托以将 StubInterfaceDll.Row 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.AttachBackingFieldToRunMsg">
+            <summary>附加委托以将 StubInterfaceDll.RunMsg 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.AttachBackingFieldToRunTime">
+            <summary>附加委托以将 StubInterfaceDll.RunTime 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="P:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#Col">
+            <summary>设置 InterfaceDll`4.get_Col() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.ColGet">
+            <summary>设置 InterfaceDll`4.get_Col() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.ColSetDouble">
+            <summary>设置 InterfaceDll`4.set_Col(Double value) 的 stub</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#GetAffineHom">
+            <summary>设置 InterfaceDll`4.GetAffineHom() 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#GetAngle">
+            <summary>设置 InterfaceDll`4.GetAngle() 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#GetCol">
+            <summary>设置 InterfaceDll`4.GetCol() 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#GetListCol">
+            <summary>设置 InterfaceDll`4.GetListCol() 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#GetListReg">
+            <summary>设置 InterfaceDll`4.GetListReg() 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#GetListResult">
+            <summary>设置 InterfaceDll`4.GetListResult() 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#GetListRow">
+            <summary>设置 InterfaceDll`4.GetListRow() 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#GetPara">
+            <summary>设置 InterfaceDll`4.GetPara() 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#GetRow">
+            <summary>设置 InterfaceDll`4.GetRow() 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#GetRunMsg">
+            <summary>设置 InterfaceDll`4.GetRunMsg() 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#GetRunTime">
+            <summary>设置 InterfaceDll`4.GetRunTime() 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#Load">
+            <summary>设置 InterfaceDll`4.Load() 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#Run">
+            <summary>设置 InterfaceDll`4.Run() 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#Save(`0)">
+            <summary>设置 InterfaceDll`4.Save(!0 Para) 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#SetAffineHom(`3)">
+            <summary>设置 InterfaceDll`4.SetAffineHom(!3 AffineHom) 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#SetImage(`2)">
+            <summary>设置 InterfaceDll`4.SetImage(!2 InputImage) 的 存根</summary>
+        </member>
+        <member name="M:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#SetPara(`0)">
+            <summary>设置 InterfaceDll`4.SetPara(!0 Para) 的 存根</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.GetAffineHom">
+            <summary>设置 InterfaceDll`4.GetAffineHom() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.GetAngle">
+            <summary>设置 InterfaceDll`4.GetAngle() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.GetCol">
+            <summary>设置 InterfaceDll`4.GetCol() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.GetListCol">
+            <summary>设置 InterfaceDll`4.GetListCol() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.GetListReg">
+            <summary>设置 InterfaceDll`4.GetListReg() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.GetListResult">
+            <summary>设置 InterfaceDll`4.GetListResult() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.GetListRow">
+            <summary>设置 InterfaceDll`4.GetListRow() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.GetPara">
+            <summary>设置 InterfaceDll`4.GetPara() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.GetRow">
+            <summary>设置 InterfaceDll`4.GetRow() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.GetRunMsg">
+            <summary>设置 InterfaceDll`4.GetRunMsg() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.GetRunTime">
+            <summary>设置 InterfaceDll`4.GetRunTime() 的 stub</summary>
+        </member>
+        <member name="P:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#InputImage">
+            <summary>设置 InterfaceDll`4.get_InputImage() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.InputImageGet">
+            <summary>设置 InterfaceDll`4.get_InputImage() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.InputImageSetT2">
+            <summary>设置 InterfaceDll`4.set_InputImage(!2 value) 的 stub</summary>
+        </member>
+        <member name="P:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#ListCol">
+            <summary>设置 InterfaceDll`4.get_ListCol() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.ListColGet">
+            <summary>设置 InterfaceDll`4.get_ListCol() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.ListColSetListOfDouble">
+            <summary>设置 InterfaceDll`4.set_ListCol(List`1&lt;Double&gt; value) 的 stub</summary>
+        </member>
+        <member name="P:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#ListReg">
+            <summary>设置 InterfaceDll`4.get_ListReg() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.ListRegGet">
+            <summary>设置 InterfaceDll`4.get_ListReg() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.ListRegSetT1">
+            <summary>设置 InterfaceDll`4.set_ListReg(!1 value) 的 stub</summary>
+        </member>
+        <member name="P:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#ListResult">
+            <summary>设置 InterfaceDll`4.get_ListResult() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.ListResultGet">
+            <summary>设置 InterfaceDll`4.get_ListResult() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.ListResultSetListOfDouble">
+            <summary>设置 InterfaceDll`4.set_ListResult(List`1&lt;Double&gt; value) 的 stub</summary>
+        </member>
+        <member name="P:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#ListRow">
+            <summary>设置 InterfaceDll`4.get_ListRow() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.ListRowGet">
+            <summary>设置 InterfaceDll`4.get_ListRow() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.ListRowSetListOfDouble">
+            <summary>设置 InterfaceDll`4.set_ListRow(List`1&lt;Double&gt; value) 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.Load">
+            <summary>设置 InterfaceDll`4.Load() 的 stub</summary>
+        </member>
+        <member name="P:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#Para">
+            <summary>设置 InterfaceDll`4.get_Para() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.ParaGet">
+            <summary>设置 InterfaceDll`4.get_Para() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.ParaSetT0">
+            <summary>设置 InterfaceDll`4.set_Para(!0 value) 的 stub</summary>
+        </member>
+        <member name="P:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#Row">
+            <summary>设置 InterfaceDll`4.get_Row() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.RowGet">
+            <summary>设置 InterfaceDll`4.get_Row() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.RowSetDouble">
+            <summary>设置 InterfaceDll`4.set_Row(Double value) 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.Run">
+            <summary>设置 InterfaceDll`4.Run() 的 stub</summary>
+        </member>
+        <member name="P:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#RunMsg">
+            <summary>设置 InterfaceDll`4.get_RunMsg() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.RunMsgGet">
+            <summary>设置 InterfaceDll`4.get_RunMsg() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.RunMsgSetString">
+            <summary>设置 InterfaceDll`4.set_RunMsg(String value) 的 stub</summary>
+        </member>
+        <member name="P:DllInterface.Fakes.StubInterfaceDll`4.DllInterface#InterfaceDll{TPara,TReg,TImage,TAffineHom}#RunTime">
+            <summary>设置 InterfaceDll`4.get_RunTime() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.RunTimeGet">
+            <summary>设置 InterfaceDll`4.get_RunTime() 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.RunTimeSetDouble">
+            <summary>设置 InterfaceDll`4.set_RunTime(Double value) 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.SaveT0">
+            <summary>设置 InterfaceDll`4.Save(!0 Para) 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.SetAffineHomT3">
+            <summary>设置 InterfaceDll`4.SetAffineHom(!3 AffineHom) 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.SetImageT2">
+            <summary>设置 InterfaceDll`4.SetImage(!2 InputImage) 的 stub</summary>
+        </member>
+        <member name="F:DllInterface.Fakes.StubInterfaceDll`4.SetParaT0">
+            <summary>设置 InterfaceDll`4.SetPara(!0 Para) 的 stub</summary>
+        </member>
+    </members>
+</doc>

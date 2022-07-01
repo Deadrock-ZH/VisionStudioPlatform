@@ -1,0 +1,122 @@
+E:\项目\GlueThick\SvsFindCircleTool\bin\Debug\SvsFindCircleTool.dll
+E:\项目\GlueThick\SvsFindCircleTool\bin\Debug\SvsFindCircleTool.pdb
+E:\项目\GlueThick\SvsFindCircleTool\bin\Debug\GVS.halconDispCtrl.dll
+E:\项目\GlueThick\SvsFindCircleTool\bin\Debug\halcondotnet.dll
+E:\项目\GlueThick\SvsFindCircleTool\bin\Debug\GVS.halconDispCtrl.pdb
+E:\项目\GlueThick\SvsFindCircleTool\bin\Debug\GVS.halconDispCtrl.xml
+E:\项目\GlueThick\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.FindCircleForm.resources
+E:\项目\GlueThick\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.Properties.Resources.resources
+E:\项目\GlueThick\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.GenerateResource.Cache
+E:\项目\GlueThick\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.dll
+E:\项目\GlueThick\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.pdb
+E:\项目\GlueThick - 副本\SvsFindCircleTool\bin\Debug\SvsFindCircleTool.dll
+E:\项目\GlueThick - 副本\SvsFindCircleTool\bin\Debug\SvsFindCircleTool.pdb
+E:\项目\GlueThick - 副本\SvsFindCircleTool\bin\Debug\GVS.halconDispCtrl.dll
+E:\项目\GlueThick - 副本\SvsFindCircleTool\bin\Debug\halcondotnet.dll
+E:\项目\GlueThick - 副本\SvsFindCircleTool\bin\Debug\GVS.halconDispCtrl.pdb
+E:\项目\GlueThick - 副本\SvsFindCircleTool\bin\Debug\GVS.halconDispCtrl.xml
+E:\项目\GlueThick - 副本\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csprojResolveAssemblyReference.cache
+E:\项目\GlueThick - 副本\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.FindCircleForm.resources
+E:\项目\GlueThick - 副本\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.Properties.Resources.resources
+E:\项目\GlueThick - 副本\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.GenerateResource.Cache
+E:\项目\GlueThick - 副本\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.dll
+E:\项目\GlueThick - 副本\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.pdb
+E:\项目\胶厚软件发布版本\GlueThick - 矩形\SvsFindCircleTool\bin\Debug\SvsFindCircleTool.dll
+E:\项目\胶厚软件发布版本\GlueThick - 矩形\SvsFindCircleTool\bin\Debug\SvsFindCircleTool.pdb
+E:\项目\胶厚软件发布版本\GlueThick - 矩形\SvsFindCircleTool\bin\Debug\GVS.halconDispCtrl.dll
+E:\项目\胶厚软件发布版本\GlueThick - 矩形\SvsFindCircleTool\bin\Debug\halcondotnet.dll
+E:\项目\胶厚软件发布版本\GlueThick - 矩形\SvsFindCircleTool\bin\Debug\GVS.halconDispCtrl.pdb
+E:\项目\胶厚软件发布版本\GlueThick - 矩形\SvsFindCircleTool\bin\Debug\GVS.halconDispCtrl.xml
+E:\项目\胶厚软件发布版本\GlueThick - 矩形\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csprojResolveAssemblyReference.cache
+E:\项目\胶厚软件发布版本\GlueThick - 矩形\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.FindCircleForm.resources
+E:\项目\胶厚软件发布版本\GlueThick - 矩形\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.Properties.Resources.resources
+E:\项目\胶厚软件发布版本\GlueThick - 矩形\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.GenerateResource.Cache
+E:\项目\胶厚软件发布版本\GlueThick - 矩形\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.dll
+E:\项目\胶厚软件发布版本\GlueThick - 矩形\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\03-SvsFindCircle\SvsFindCircleTool\bin\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\03-SvsFindCircle\SvsFindCircleTool\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\03-SvsFindCircle\SvsFindCircleTool\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\03-SvsFindCircle\SvsFindCircleTool\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\03-SvsFindCircle\SvsFindCircleTool\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\03-SvsFindCircle\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.FindCircleForm.resources
+E:\视觉模块 统一接口\03-SvsFindCircle\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.Properties.Resources.resources
+E:\视觉模块 统一接口\03-SvsFindCircle\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\03-SvsFindCircle\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\03-SvsFindCircle\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\03-SvsFindCircle\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-dll生成\SvsFindCircleTool.XML
+E:\视觉模块 统一接口\00-dll生成\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\00-dll生成\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\03-SvsFindCircle可选\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.FindCircleForm.resources
+E:\视觉模块 统一接口\03-SvsFindCircle可选\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.Properties.Resources.resources
+E:\视觉模块 统一接口\03-SvsFindCircle可选\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\03-SvsFindCircle可选\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\03-SvsFindCircle可选\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\03-SvsFindCircle可选\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csprojResolveAssemblyReference.cache
+F:\视觉模块 统一接口\00-dll生成\SvsFindCircleTool.XML
+F:\视觉模块 统一接口\00-dll生成\SvsFindCircleTool.dll
+F:\视觉模块 统一接口\00-dll生成\SvsFindCircleTool.pdb
+F:\视觉模块 统一接口\03-SvsFindCircle可选\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.FindCircleForm.resources
+F:\视觉模块 统一接口\03-SvsFindCircle可选\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.Properties.Resources.resources
+F:\视觉模块 统一接口\03-SvsFindCircle可选\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.GenerateResource.Cache
+F:\视觉模块 统一接口\03-SvsFindCircle可选\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.dll
+F:\视觉模块 统一接口\03-SvsFindCircle可选\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csprojResolveAssemblyReference.cache
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.FindCircleForm.resources
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.Properties.Resources.resources
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.GenerateResource.Cache
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.pdb
+F:\workspace20211122\00-1单相机框架\00-dll生成\SvsFindCircleTool.XML
+F:\workspace20211122\00-1单相机框架\00-dll生成\SvsFindCircleTool.dll
+F:\workspace20211122\00-1单相机框架\00-dll生成\SvsFindCircleTool.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\00-dll生成\SvsFindCircleTool.XML
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\00-dll生成\SvsFindCircleTool.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\00-dll生成\SvsFindCircleTool.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csprojResolveAssemblyReference.cache
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.FindCircleForm.resources
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.Properties.Resources.resources
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.GenerateResource.Cache
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvsFindCircleTool.XML
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvsFindCircleTool.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvsFindCircleTool.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csprojResolveAssemblyReference.cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.FindCircleForm.resources
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.Properties.Resources.resources
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.GenerateResource.Cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.pdb
+D:\00-1单相机框架\00-dll生成\SvsFindCircleTool.XML
+D:\00-1单相机框架\00-dll生成\SvsFindCircleTool.dll
+D:\00-1单相机框架\00-dll生成\SvsFindCircleTool.pdb
+D:\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.FindCircleForm.resources
+D:\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.Properties.Resources.resources
+D:\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.GenerateResource.cache
+D:\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.CopyComplete
+D:\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.dll
+D:\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.pdb
+D:\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csprojAssemblyReference.cache
+D:\code2022\00-1单相机框架\00-dll生成\SvsFindCircleTool.XML
+D:\code2022\00-1单相机框架\00-dll生成\SvsFindCircleTool.dll
+D:\code2022\00-1单相机框架\00-dll生成\SvsFindCircleTool.pdb
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.AssemblyReference.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.FindCircleForm.resources
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.Properties.Resources.resources
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.GenerateResource.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.CoreCompileInputs.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.CopyComplete
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.dll
+D:\code2022\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.pdb
+D:\code2022\备份\00-1单相机框架\00-dll生成\SvsFindCircleTool.XML
+D:\code2022\备份\00-1单相机框架\00-dll生成\SvsFindCircleTool.dll
+D:\code2022\备份\00-1单相机框架\00-dll生成\SvsFindCircleTool.pdb
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.AssemblyReference.cache
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.FindCircleForm.resources
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.Properties.Resources.resources
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.GenerateResource.cache
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.CoreCompileInputs.cache
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.csproj.CopyComplete
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.dll
+D:\code2022\备份\00-1单相机框架\VisionStudio\SvsFindCircleTool\obj\Debug\SvsFindCircleTool.pdb

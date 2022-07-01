@@ -1,0 +1,74 @@
+E:\视觉模块\02-SvPatMax\SvMask\bin\Debug\SvMask.dll
+E:\视觉模块\02-SvPatMax\SvMask\bin\Debug\SvMask.pdb
+E:\视觉模块\02-SvPatMax\SvMask\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块\02-SvPatMax\SvMask\bin\Debug\halcondotnet.dll
+E:\视觉模块\02-SvPatMax\SvMask\bin\Debug\System.Net.Http.dll
+E:\视觉模块\02-SvPatMax\SvMask\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块\02-SvPatMax\SvMask\bin\Debug\System.Net.Http.xml
+E:\视觉模块\02-SvPatMax\SvMask\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块\02-SvPatMax\SvMask\obj\Debug\SvMask.MaskForm.resources
+E:\视觉模块\02-SvPatMax\SvMask\obj\Debug\SvMask.csproj.GenerateResource.Cache
+E:\视觉模块\02-SvPatMax\SvMask\obj\Debug\SvMask.dll
+E:\视觉模块\02-SvPatMax\SvMask\obj\Debug\SvMask.pdb
+E:\视觉模块\04-SvPatMax\SvMask\bin\Debug\SvMask.dll
+E:\视觉模块\04-SvPatMax\SvMask\bin\Debug\SvMask.pdb
+E:\视觉模块\04-SvPatMax\SvMask\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块\04-SvPatMax\SvMask\bin\Debug\halcondotnet.dll
+E:\视觉模块\04-SvPatMax\SvMask\bin\Debug\System.Net.Http.dll
+E:\视觉模块\04-SvPatMax\SvMask\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块\04-SvPatMax\SvMask\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块\04-SvPatMax\SvMask\bin\Debug\System.Net.Http.xml
+E:\视觉模块\04-SvPatMax\SvMask\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块\04-SvPatMax\SvMask\obj\Debug\SvMask.MaskForm.resources
+E:\视觉模块\04-SvPatMax\SvMask\obj\Debug\SvMask.Properties.Resources.resources
+E:\视觉模块\04-SvPatMax\SvMask\obj\Debug\SvMask.csproj.GenerateResource.Cache
+E:\视觉模块\04-SvPatMax\SvMask\obj\Debug\SvMask.dll
+E:\视觉模块\04-SvPatMax\SvMask\obj\Debug\SvMask.pdb
+E:\项目\胶厚软件发布版本\模块dll\SvMask.XML
+E:\项目\胶厚软件发布版本\模块dll\SvMask.dll
+E:\项目\胶厚软件发布版本\模块dll\SvMask.pdb
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvMask\obj\Debug\SvMask.MaskForm.resources
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvMask\obj\Debug\SvMask.Properties.Resources.resources
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvMask\obj\Debug\SvMask.csproj.GenerateResource.Cache
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvMask\obj\Debug\SvMask.dll
+E:\视觉模块\04-SvPatMax-掩模添加放射矩阵\SvMask\obj\Debug\SvMask.pdb
+E:\项目\模块dll\SvMask.XML
+E:\项目\模块dll\SvMask.dll
+E:\项目\模块dll\SvMask.pdb
+E:\视觉模块 统一接口\00-dll生成\SvMask.XML
+E:\视觉模块 统一接口\00-dll生成\SvMask.dll
+E:\视觉模块 统一接口\00-dll生成\SvMask.pdb
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvMask\obj\Debug\SvMask.MaskForm.resources
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvMask\obj\Debug\SvMask.Properties.Resources.resources
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvMask\obj\Debug\SvMask.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvMask\obj\Debug\SvMask.dll
+E:\视觉模块 统一接口\01-SvPatMax-掩模添加放射矩阵\SvMask\obj\Debug\SvMask.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.csprojResolveAssemblyReference.cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.MaskForm.resources
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.Properties.Resources.resources
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.csproj.GenerateResource.Cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\00-dll生成\SvMask.XML
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\00-dll生成\SvMask.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\00-dll生成\SvMask.pdb
+D:\00-1单相机框架\VisionStudio\00-dll生成\SvMask.XML
+D:\00-1单相机框架\VisionStudio\00-dll生成\SvMask.dll
+D:\00-1单相机框架\VisionStudio\00-dll生成\SvMask.pdb
+D:\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.MaskForm.resources
+D:\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.Properties.Resources.resources
+D:\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.csproj.GenerateResource.cache
+D:\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.csproj.CopyComplete
+D:\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.dll
+D:\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.pdb
+D:\code2022\00-1单相机框架\VisionStudio\00-dll生成\SvMask.XML
+D:\code2022\00-1单相机框架\VisionStudio\00-dll生成\SvMask.dll
+D:\code2022\00-1单相机框架\VisionStudio\00-dll生成\SvMask.pdb
+D:\code2022\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.csproj.AssemblyReference.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.MaskForm.resources
+D:\code2022\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.Properties.Resources.resources
+D:\code2022\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.csproj.GenerateResource.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.csproj.CoreCompileInputs.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.csproj.CopyComplete
+D:\code2022\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.dll
+D:\code2022\00-1单相机框架\VisionStudio\SvPatMax\SvMask\obj\Debug\SvMask.pdb

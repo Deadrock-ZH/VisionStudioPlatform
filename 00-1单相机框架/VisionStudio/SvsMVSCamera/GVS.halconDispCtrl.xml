@@ -1,0 +1,4812 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GVS.halconDispCtrl</name>
+    </assembly>
+    <members>
+        <member name="T:GVS.HalconDisp.ViewWindow.Config.CircleCalliper">
+            <summary>
+            内容摘要: 本文件的内容是圆卡尺参数类
+            完成日期：2018年10月31日
+            版    本：V2.2
+            作者：王雅鹏
+            </summary>  
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.RowCenter">
+            <summary>
+             圆的中心行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.ColCenter">
+            <summary>
+            圆的中心列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.Radius">
+            <summary>
+            半径
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.HeightCircle">
+            <summary>
+            圆的卡尺高度
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.WidthCircle">
+            <summary>
+            圆的卡尺宽度
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.CalliperCircleNum">
+            <summary>
+            圆卡尺个数
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.PhiCircle">
+            <summary>
+            圆的卡尺角度
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.XSize">
+            <summary>
+            X的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.ActiveRectangleSize">
+            <summary>
+            选中框的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.ArrowSize">
+            <summary>
+            箭头的大小
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.#ctor(System.Double,System.Double,System.Double)">
+            <summary>
+            带参数的构造函数
+            </summary>
+            <param name="dRowenter">圆心行坐标</param>
+            <param name="dColCenter">圆心列坐标</param>      
+            <param name="dRadius">圆心半径</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.SetRatio(System.Double)">
+            <summary>
+            设置显示尺寸
+            </summary>
+            <param name="dScaleNum">显示比例</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.CopyTo(GVS.HalconDisp.ViewWindow.Config.CircleCalliper@)">
+            <summary>
+            拷贝到
+            </summary>
+            <param name="circleCalliperParas">输出的参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.CopyFrom(GVS.HalconDisp.ViewWindow.Config.CircleCalliper)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="circleCalliperParas">输入参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.CircleCalliper.CopyFrom(GVS.HalconDisp.ViewWindow.Config.CircleCalliper,HalconDotNet.HTuple)">
+            <summary>
+            拷贝自 
+            </summary>
+            <param name="Paras">输入参数类</param>
+            <param name="hv_Affine">仿射变换</param>
+            <returns>是否成功</returns>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Config.Circle">
+            <summary>
+            内容摘要: 本文件的内容是圆参数类
+            完成日期：2018年10月31日
+            版    本：V2.2
+            作者：王雅鹏
+            整理：王雅鹏
+            </summary>      
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Circle.Row">
+            <summary>
+            圆心行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Circle.Column">
+            <summary>
+            圆心列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Circle.Radius">
+            <summary>
+            半径
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Circle.XSize">
+            <summary>
+            X的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Circle.ActiveRectangleSize">
+            <summary>
+            选中框的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Circle.ArrowSize">
+            <summary>
+            箭头的大小
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Circle.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Circle.#ctor(System.Double,System.Double,System.Double)">
+            <summary>
+            带参数的构造函数
+            </summary>
+            <param name="dRow">圆心行坐标</param>
+            <param name="dCol">圆心列坐标</param>
+            <param name="dRadius">圆的半径</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Circle.SetRatio(System.Double)">
+            <summary>
+            设置显示尺寸
+            </summary>
+            <param name="dScaleNum">显示比例</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Circle.CopyTo(GVS.HalconDisp.ViewWindow.Config.Circle@)">
+            <summary>
+            拷贝到
+            </summary>
+            <param name="circleParas">输出的参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Circle.CopyFrom(GVS.HalconDisp.ViewWindow.Config.Circle)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="circleParas">输入参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Circle.CopyFrom(GVS.HalconDisp.ViewWindow.Config.Circle,HalconDotNet.HTuple)">
+            <summary>
+            拷贝自 
+            </summary>
+            <param name="Paras">输入参数类</param>
+            <param name="hv_Affine">仿射变换</param>
+            <returns>是否成功</returns>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection">
+            <summary>
+            内容摘要: 本文件的内容是圆环的参数类
+            完成日期：2019年5月11日
+            版    本：V2.2
+            作者：王雅鹏
+            </summary> 
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.CenterRow">
+            <summary>
+            中心行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.CenterCol">
+            <summary>
+            中心列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.OuterRadius">
+            <summary>
+            外环半径
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.InnerRadius">
+            <summary>
+            内环半径
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.StartAngle">
+            <summary>
+            起始角度
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.EndAngle">
+            <summary>
+            终止角度
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.StartRowOut">
+            <summary>
+            外环起点行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.StartColOut">
+            <summary>
+            外环起点列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.EndRowOut">
+            <summary>
+            外环起点行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.MiddleRow">
+            <summary>
+            拖动点行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.MiddleCol">
+            <summary>
+            拖动点列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.MiddleRowOut">
+            <summary>
+            外环中点行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.MiddleColOut">
+            <summary>
+            外环中点列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.EndColOut">
+            <summary>
+            外环终点列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.StartRowInner">
+            <summary>
+            内环起点行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.StartColInner">
+            <summary>
+            内环起点列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.MiddleRowInner">
+            <summary>
+            内环中点行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.MiddleColInner">
+            <summary>
+            内环中点列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.EndRowInner">
+            <summary>
+            内环终点行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.EndColInner">
+            <summary>
+            内环终点列坐标
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.XSize">
+            <summary>
+            X的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.ActiveRectangleSize">
+            <summary>
+            选中框的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.ArrowSize">
+            <summary>
+            箭头的大小
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.#ctor(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            带参数的构造函数
+            </summary>
+            <param name="dRow">圆心行坐标</param>
+            <param name="dCol">圆心列坐标</param>
+            <param name="dInnerRadius">圆的半径</param>
+            <param name="dOutRadius">外圆半径</param>
+            <param name="dStartAngle">起始角度</param>
+            <param name="dEndAngle">终止角度</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.SetRatio(System.Double)">
+            <summary>
+            设置显示尺寸
+            </summary>
+            <param name="dScaleNum">显示比例</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.CopyTo(GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection@)">
+            <summary>
+            拷贝到
+            </summary>
+            <param name="circluAnnulusParas">输出的参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.CopyFrom(GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="circluAnnulusParas">输入参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection.CopyFrom(GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection,HalconDotNet.HTuple)">
+            <summary>
+            拷贝自 
+            </summary>
+            <param name="circluAnnulusParas">输入参数类</param>
+            <param name="hv_Affine">仿射变换</param>
+            <returns>是否成功</returns>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Config.Ellipse">
+            <summary>
+            内容摘要: 本文件的内容是圆参数类
+            完成日期：2018年1月28日
+            版    本：V2.2
+            作者：王雅鹏
+            整理：王雅鹏
+            </summary>      
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Ellipse.Row">
+            <summary>
+            椭圆心行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Ellipse.Column">
+            <summary>
+            椭圆心列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Ellipse.Radius1">
+            <summary>
+            椭圆长轴
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Ellipse.Radius2">
+            <summary>
+            椭圆短轴
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Ellipse.Phi">
+            <summary>
+            角度
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Ellipse.XSize">
+            <summary>
+            X的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Ellipse.ActiveRectangleSize">
+            <summary>
+            选中框的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Ellipse.ArrowSize">
+            <summary>
+            箭头的大小
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Ellipse.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Ellipse.#ctor(System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            带参数的构造函数
+            </summary>
+            <param name="dRow">椭圆心行坐标</param>
+            <param name="dCol">椭圆心列坐标</param>
+            <param name="dRadius1">椭圆的长轴</param>
+            /// <param name="dRadius2">椭圆的短轴</param>
+            <param name="dPhi">角度</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Ellipse.SetRatio(System.Double)">
+            <summary>
+            设置显示尺寸
+            </summary>
+            <param name="dScaleNum">显示比例</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Ellipse.CopyTo(GVS.HalconDisp.ViewWindow.Config.Ellipse@)">
+            <summary>
+            拷贝到
+            </summary>
+            <param name="ellipseParas">输出的参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Ellipse.CopyFrom(GVS.HalconDisp.ViewWindow.Config.Ellipse)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="ellipseParas">输入参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Ellipse.CopyFrom(GVS.HalconDisp.ViewWindow.Config.Ellipse,HalconDotNet.HTuple)">
+            <summary>
+            拷贝自 
+            </summary>
+            <param name="Paras">输入参数类</param>
+            <param name="hv_Affine">仿射变换</param>
+            <returns>是否成功</returns>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Config.LineSegment">
+            <summary>
+            内容摘要: 本文件的内容是线段的参数类
+            完成日期：2018年10月31日
+            版    本：V2.1
+            作者：王雅鹏
+            整理：王雅鹏
+            </summary> 
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineSegment.RowBegin">
+            <summary>
+            线的起始行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineSegment.ColumnBegin">
+            <summary>
+            线的起始列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineSegment.RowEnd">
+            <summary>
+            线的终点行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineSegment.ColumnEnd">
+            <summary>
+            线的终点列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineSegment.Color">
+            <summary>
+            颜色显示
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineSegment.XSize">
+            <summary>
+            X的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineSegment.ActiveRectangleSize">
+            <summary>
+            选中框的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineSegment.ArrowSize">
+            <summary>
+            箭头的大小
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.LineSegment.SetRatio(System.Double)">
+            <summary>
+            设置显示尺寸
+            </summary>
+            <param name="dScaleNum">显示比例</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.LineSegment.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.LineSegment.#ctor(System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="rowBegin">起点行坐标</param>
+            <param name="columnBegin">起点列坐标</param>
+            <param name="rowEnd">终点行坐标</param>
+            <param name="columnEnd">终点列坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.LineSegment.CopyTo(GVS.HalconDisp.ViewWindow.Config.LineSegment@)">
+            <summary>
+            拷贝到
+            </summary>
+            <param name="lineSegmentParas">输出的参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.LineSegment.CopyFrom(GVS.HalconDisp.ViewWindow.Config.LineSegment)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="lineSegmentParas">输入参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.LineSegment.CopyFrom(GVS.HalconDisp.ViewWindow.Config.LineSegment,HalconDotNet.HTuple)">
+            <summary>
+            拷贝自 
+            </summary>
+            <param name="Paras">输入参数类</param>
+            <param name="hv_Affine">仿射变换</param>
+            <returns>是否成功</returns>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Config.Point">
+            <summary>
+            内容摘要: 本文件的内容是点参数类
+            完成日期：2018年10月23日
+            版    本：V2.1
+            作者：王雅鹏
+            </summary>    
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Point.Row">
+            <summary>
+            点行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Point.Col">
+            <summary>
+            点的列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Point.XSize">
+            <summary>
+            X的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Point.ActiveRectangleSize">
+            <summary>
+            选中框的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Point.ArrowSize">
+            <summary>
+            箭头的大小
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Point.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Point.#ctor(System.Double,System.Double)">
+            <summary>
+            带参数的构造函数
+            </summary>
+            <param name="dRow">点的行坐标</param>
+            <param name="dCol">点的列坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Point.SetRatio(System.Double)">
+            <summary>
+            根据图像大小显示点
+            </summary>
+            <param name="dRatio">比例</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Point.CopyTo(GVS.HalconDisp.ViewWindow.Config.Point@)">
+            <summary>
+            拷贝到
+            </summary>
+            <param name="pointParas">输出的参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Point.CopyFrom(GVS.HalconDisp.ViewWindow.Config.Point)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="pointParas">输入参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Point.CopyFrom(GVS.HalconDisp.ViewWindow.Config.Point,HalconDotNet.HTuple)">
+            <summary>
+            拷贝自 
+            </summary>
+            <param name="Paras">输入参数类</param>
+            <param name="hv_Affine">仿射变换</param>
+            <returns>是否成功</returns>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Config.Line">
+            <summary>
+            内容摘要: 本文件的内容是带方向的线的参数类
+            完成日期：2018年10月31日
+            版    本：V2.1
+            作者：王雅鹏
+            整理：王雅鹏
+            </summary>   
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Line.RowBegin">
+            <summary>
+            线的起始行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Line.ColumnBegin">
+            <summary>
+            线的起始列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Line.RowEnd">
+            <summary>
+            线的终点行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Line.ColumnEnd">
+            <summary>
+            线的终点列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Line.Color">
+            <summary>
+            颜色显示
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Line.XSize">
+            <summary>
+            X的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Line.ActiveRectangleSize">
+            <summary>
+            选中框的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Line.ArrowSize">
+            <summary>
+            箭头的大小
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Line.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Line.#ctor(System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="rowBegin">起点行坐标</param>
+            <param name="columnBegin">起点列坐标</param>
+            <param name="rowEnd">终点行坐标</param>
+            <param name="columnEnd">终点列坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Line.SetRatio(System.Double)">
+            <summary>
+            设置显示尺寸
+            </summary>
+            <param name="dScaleNum">显示比例</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Line.CopyTo(GVS.HalconDisp.ViewWindow.Config.Line@)">
+            <summary>
+            拷贝到
+            </summary>
+            <param name="lineParas">输出的参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Line.CopyFrom(GVS.HalconDisp.ViewWindow.Config.Line)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="lineParas">输入参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Line.CopyFrom(GVS.HalconDisp.ViewWindow.Config.Line,HalconDotNet.HTuple)">
+            <summary>
+            拷贝自 
+            </summary>
+            <param name="Paras">输入参数类</param>
+            <param name="hv_Affine">仿射变换</param>
+            <returns>是否成功</returns>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Config.PolygonLine">
+            <summary>
+            内容摘要: 本文件的内容是折线参数类
+            完成日期：2018年11月26日
+            版    本：V2.1
+            作者：王雅鹏
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.PolygonLine.ListPolygonLineRow">
+            <summary>
+            折线行坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.PolygonLine.ListPolygonLineCol">
+            <summary>
+            折线列坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.PolygonLine.XSize">
+            <summary>
+            X的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.PolygonLine.ActiveRectangleSize">
+            <summary>
+            选中框的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.PolygonLine.ArrowSize">
+            <summary>
+            箭头的大小
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.PolygonLine.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.PolygonLine.#ctor(System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            带参数的构造函数
+            </summary>
+            <param name="dRowBegin">起点行坐标</param>
+            <param name="dColBegin">起点列坐标</param>
+            <param name="dRowEnd">终点行坐标</param>
+            <param name="dColEnd">终点列坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.PolygonLine.SetRatio(System.Double)">
+            <summary>
+            根据图像大小显示点
+            </summary>
+            <param name="dRatio">比例</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.PolygonLine.CopyTo(GVS.HalconDisp.ViewWindow.Config.PolygonLine@)">
+            <summary>
+            拷贝到
+            </summary>
+            <param name="polygonLineParas">输出的参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.PolygonLine.CopyFrom(GVS.HalconDisp.ViewWindow.Config.PolygonLine)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="polygonLineParas">输入参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.PolygonLine.CopyFrom(GVS.HalconDisp.ViewWindow.Config.PolygonLine,HalconDotNet.HTuple)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="polygonLineParas">输入参数类</param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Config.Rectangle1">
+            <summary>
+            内容摘要:本类是矩形1工具参数类
+            完成日期：2018年12月30日
+            版    本：V2.2
+            作    者:王雅鹏
+            整    理：王雅鹏
+            </summary>    
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Rectangle1.ArrayRow">
+            <summary>
+            点的行坐标顶点
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Rectangle1.ArrayCol">
+            <summary>
+            添加的点的列坐标顶点
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Rectangle1.XSize">
+            <summary>
+            X的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Rectangle1.ActiveRectangleSize">
+            <summary>
+            选中框的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Rectangle1.ArrowSize">
+            <summary>
+            箭头的大小
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Rectangle1.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Rectangle1.#ctor(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            带参数的构造函数
+            </summary>
+            <param name="dRowBegin">起点行坐标</param>
+            <param name="dColBegin">起点列坐标</param>
+            <param name="dRowRightUp">右上角点行坐标</param>
+            <param name="dColRightUp">右上角列坐标</param>
+            <param name="dRowRightDown">右下角行坐标</param>
+            <param name="dColRightDown">右下角列坐标</param>
+            <param name="dRowEnd">左下角行坐标</param>
+            <param name="dColEnd">左下家列坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Rectangle1.SetRatio(System.Double)">
+            <summary>
+            根据图像大小显示点
+            </summary>
+            <param name="dRatio">比例</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Rectangle1.CopyTo(GVS.HalconDisp.ViewWindow.Config.Rectangle1@)">
+            <summary>
+            拷贝到
+            </summary>
+            <param name="rect1">输出的参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Rectangle1.CopyFrom(GVS.HalconDisp.ViewWindow.Config.Rectangle1)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="rect1">输入参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Rectangle1.CopyFrom(GVS.HalconDisp.ViewWindow.Config.Rectangle1,HalconDotNet.HTuple)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="rect1">输入参数类</param>
+            <param name="hv_Affine">仿射矩阵</param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Config.Polygon">
+            <summary>
+            内容摘要: 本文件的内容是多边形参数类
+            完成日期：2018年11月26日
+            版    本：V2.1
+            作者：王雅鹏
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Polygon.ListPointRowPeak">
+            <summary>
+            点的行坐标顶点
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Polygon.ListPointColPeak">
+            <summary>
+            添加的点的列坐标顶点
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Polygon.XSize">
+            <summary>
+            X的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Polygon.ActiveRectangleSize">
+            <summary>
+            选中框的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Polygon.ArrowSize">
+            <summary>
+            箭头的大小
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Polygon.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Polygon.#ctor(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            带参数的构造函数
+            </summary>
+            <param name="dRowBegin">起点行坐标</param>
+            <param name="dColBegin">起点列坐标</param>
+            <param name="dRowRightUp">右上角点行坐标</param>
+            <param name="dColRightUp">右上角列坐标</param>
+            <param name="dRowRightDown">右下角行坐标</param>
+            <param name="dColRightDown">右下角列坐标</param>
+            <param name="dRowEnd">左下角行坐标</param>
+            <param name="dColEnd">左下家列坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Polygon.SetRatio(System.Double)">
+            <summary>
+            根据图像大小显示点
+            </summary>
+            <param name="dRatio">比例</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Polygon.CopyTo(GVS.HalconDisp.ViewWindow.Config.Polygon@)">
+            <summary>
+            拷贝到
+            </summary>
+            <param name="polygonLineParas">输出的参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Polygon.CopyFrom(GVS.HalconDisp.ViewWindow.Config.Polygon)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="polygonLineParas">输入参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Polygon.CopyFrom(GVS.HalconDisp.ViewWindow.Config.Polygon,HalconDotNet.HTuple)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="polygonLineParas">输入参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.SerializeHelper.Save(System.Object,System.String)">
+            <summary>
+            文件化XML序列化
+            </summary>
+            <param name="obj">对象</param>
+            <param name="filename">文件路径</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.SerializeHelper.Load(System.Type,System.String)">
+            <summary>
+            文件化XML反序列化
+            </summary>
+            <param name="type">对象类型</param>
+            <param name="filename">文件路径</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.SerializeHelper.ToXml``1(``0)">
+            <summary>
+            文本化XML序列化
+            </summary>
+            <param name="item">对象</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.SerializeHelper.FromXml``1(System.String)">
+            <summary>
+            文本化XML反序列化
+            </summary>
+            <param name="str">字符串序列</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.SerializeHelper.ToSoap``1(``0)">
+            <summary>
+            SoapFormatter序列化
+            </summary>
+            <param name="item">对象</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.SerializeHelper.FromSoap``1(System.String)">
+            <summary>
+            SoapFormatter反序列化
+            </summary>
+            <param name="str">字符串序列</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.SerializeHelper.ToBinary``1(``0)">
+            <summary>
+            BinaryFormatter序列化
+            </summary>
+            <param name="item">对象</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.SerializeHelper.FromBinary``1(System.String)">
+            <summary>
+            BinaryFormatter反序列化
+            </summary>
+            <param name="str">字符串序列</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.SerializeHelper.GetBytes(System.Object)">
+            <summary>
+            获取对象序列化的二进制版本
+            </summary>
+            <param name="pObj">对象实体</param>
+            <returns>如果对象实体为Null，则返回结果为Null。</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.SerializeHelper.GetXmlDoc(System.Object)">
+            <summary>
+            获取对象序列化的XmlDocument版本
+            </summary>
+            <param name="pObj">对象实体</param>
+            <returns>如果对象实体为Null，则返回结果为Null。</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.SerializeHelper.GetObject``1(System.Byte[])">
+            <summary>
+            从已序列化数据中(byte[])获取对象实体
+            </summary>
+            <typeparam name="T">要返回的数据类型</typeparam>
+            <param name="binData">二进制数据</param>
+            <returns>对象实体</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.SerializeHelper.GetObject``1(System.Xml.XmlDocument)">
+            <summary>
+            从已序列化数据(XmlDocument)中获取对象实体
+            </summary>
+            <typeparam name="T">要返回的数据类型</typeparam>
+            <param name="xmlDoc">已序列化的文档对象</param>
+            <returns>对象实体</returns>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Config.LineCalliper">
+            <summary>
+            内容摘要:本类是线卡尺工具参数类
+            完成日期：2018年10月30日
+            版    本：V2.1
+            作    者:王雅鹏
+            整    理：王雅鹏
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.CalliperCount">
+            <summary>
+            卡尺数量
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.Phi">
+            <summary>
+            卡尺角度
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.RecWidth">
+            <summary>
+            卡尺宽度
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.RecHeight">
+            <summary>
+            卡尺高度
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.RowBegin">
+            <summary>
+            直线起始点 Row
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.ColumnBegin">
+            <summary>
+            直线起始点 column
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.RowEnd">
+            <summary>
+            直线终点 Row
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.ColumnEnd">
+            <summary>
+            直线终点 Column
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.Color">
+            <summary>
+            颜色
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.LineLength">
+            <summary>
+            线长
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.LineAngle">
+            <summary>
+            角度
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.Sigma">
+            <summary>
+            高斯滤波值
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.GrayContrast">
+            <summary>
+            对比度
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.Direction">
+            <summary>
+            极性
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.SelectType">
+            <summary>
+            选择点类型
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.IgnoreNum">
+            <summary>
+            忽略点个数
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.XSize">
+            <summary>
+            X的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.ActiveRectangleSize">
+            <summary>
+            选中框的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.LineCalliper.ArrowSize">
+            <summary>
+            箭头的大小
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.LineCalliper.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.LineCalliper.#ctor(System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            带参数的构造函数
+            </summary>
+            <param name="dRowBegin">起始点行坐标</param>
+            <param name="dColBegin">起始点啊列坐标</param>
+            <param name="dRowEnd">终点行坐标</param>
+            <param name="dColEnd">终点列坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.LineCalliper.SetRatio(System.Double)">
+            <summary>
+            设置显示尺寸
+            </summary>
+            <param name="dScaleNum">显示比例</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.LineCalliper.CopyTo(GVS.HalconDisp.ViewWindow.Config.LineCalliper@)">
+            <summary>
+            拷贝到
+            </summary>
+            <param name="lineCalliperParas">输出的参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.LineCalliper.CopyFrom(GVS.HalconDisp.ViewWindow.Config.LineCalliper)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="lineCalliperParas">输入参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.LineCalliper.CopyFrom(GVS.HalconDisp.ViewWindow.Config.LineCalliper,HalconDotNet.HTuple)">
+            <summary>
+            拷贝自 
+            </summary>
+            <param name="Paras">输入参数类</param>
+            <param name="hv_Affine">仿射变换</param>
+            <returns>是否成功</returns>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Config.Rectangle2">
+            <summary>
+            内容摘要:本类是带方向矩形工具参数类
+            完成日期：2018年12月30日
+            版    本：V2.2
+            作    者:王雅鹏
+            整    理：王雅鹏
+            </summary>    
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Rectangle2.ArrayRow">
+            <summary>
+            点的行坐标顶点
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Rectangle2.ArrayCol">
+            <summary>
+            添加的点的列坐标顶点
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Rectangle2.XSize">
+            <summary>
+            X的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Rectangle2.ActiveRectangleSize">
+            <summary>
+            选中框的大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Config.Rectangle2.ArrowSize">
+            <summary>
+            箭头的大小
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Rectangle2.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Rectangle2.#ctor(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            带参数的构造函数
+            </summary>
+            <param name="dRowBegin">起点行坐标</param>
+            <param name="dColBegin">起点列坐标</param>
+            <param name="dRowRightUp">右上角点行坐标</param>
+            <param name="dColRightUp">右上角列坐标</param>
+            <param name="dRowRightDown">右下角行坐标</param>
+            <param name="dColRightDown">右下角列坐标</param>
+            <param name="dRowEnd">左下角行坐标</param>
+            <param name="dColEnd">左下家列坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Rectangle2.SetRatio(System.Double)">
+            <summary>
+            根据图像大小显示点
+            </summary>
+            <param name="dRatio">比例</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Rectangle2.CopyTo(GVS.HalconDisp.ViewWindow.Config.Rectangle2@)">
+            <summary>
+            拷贝到
+            </summary>
+            <param name="rect2">输出的参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Rectangle2.CopyFrom(GVS.HalconDisp.ViewWindow.Config.Rectangle2)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="rect2">输入参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Config.Rectangle2.CopyFrom(GVS.HalconDisp.ViewWindow.Config.Rectangle2,HalconDotNet.HTuple)">
+            <summary>
+            拷贝自
+            </summary>
+            <param name="rect2">输入参数类</param>
+            <param name="hv_Affine">仿射矩阵</param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection">
+            <summary>
+            内容摘要:本类是圆环工具实现
+            完成日期：2019年5月11日
+            版    本：V2.2
+            作    者:王雅鹏
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.m_circleAnnulusSection">
+            <summary>
+             圆卡尺参数对象
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.PointOrder">
+            <summary>
+            生成圆的方向
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.m_dMiddleRowOut">
+            <summary>
+             外圆中心
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.m_dMiddleColOut">
+            <summary>
+             外圆中心
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.m_dMiddleRowInner">
+            <summary>
+             内圆中心
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.m_dMiddleColInner">
+            <summary>
+             内圆中心
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.m_dMiddleRowCenter">
+            <summary>
+            中环中心
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.m_dMiddleColCenter">
+            <summary>
+            中环中心
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.m_dStartRowCenter">
+            <summary>
+             起点中心点
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.m_dStartColCenter">
+            <summary>
+             起点中心点
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.m_dEndRowCenter">
+            <summary>
+             终点中心点
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.m_dEndColCenter">
+            <summary>
+             终点中心点
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.#ctor(GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="m_circleAnnulusSection">圆卡尺参数</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.createCircularAnnulusSection(GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection)">
+            <summary>
+            生成圆卡尺方法
+            </summary>
+            <param name="m_circleAnnulusSection">圆卡尺参数</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.createROI(System.Double,System.Double)">
+            <summary>
+            在鼠标位置创建ROI
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.draw(HalconDotNet.HWindow)">
+            <summary>
+            绘制ROI
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.distToClosestHandle(System.Double,System.Double)">
+            <summary> 
+            计算图像上x,y与ROI的距离 
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.displayActive(HalconDotNet.HWindow)">
+            <summary> 
+            重绘活动的ROI
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.getRegion">
+            <summary>
+            获取与ROI参数一致的region.
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircularAnnulusSection.moveByHandle(System.Double,System.Double)">
+            <summary>
+            重新计算ROI的坐标
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.ROIEllipse">
+            <summary>
+            内容摘要:本类是圆工具实现
+            完成日期：2018年1月28日
+            版    本：V2.1
+            作    者:王雅鹏
+            整    理：王雅鹏
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIEllipse.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIEllipse.#ctor(System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            构造方法
+            </summary>
+            <param name="dRow">圆心行坐标</param>
+            <param name="dCol">圆心列坐标</param>
+            <param name="dRadius">半径</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIEllipse.createEllipse(GVS.HalconDisp.ViewWindow.Config.Ellipse)">
+            <summary>
+            生成圆
+            </summary>
+            <param name="ellipseDraw">圆参数</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIEllipse.createEllipse(System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            创建指定大小的圆
+            </summary>
+            <param name="dRow">圆心行坐标</param>
+            <param name="dCol">圆心列坐标</param>
+            <param name="dRadius1">长轴1</param>
+            <param name="dRadius2">短轴</param>
+            <param name="dPhi">角度</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIEllipse.createROI(System.Double,System.Double)">
+            <summary>
+            在指定位置上创建ROI
+            </summary>
+            <param name="dMidX">鼠标列坐标</param>
+            <param name="dMidY">鼠标行坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIEllipse.draw(HalconDotNet.HWindow)">
+            <summary>
+            在窗口上重绘ROI
+            </summary>
+            <param name="window">halcon窗口</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIEllipse.distToClosestHandle(System.Double,System.Double)">
+            <summary>
+            返回与鼠标位置的距离
+            </summary>
+            <param name="dX">鼠标x坐标</param>
+            <param name="dY">坐标鼠标y</param>
+            <returns>返回距离</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIEllipse.displayActive(HalconDotNet.HWindow)">
+            <summary>
+            在窗口上重绘活动的roi
+            </summary>
+            <param name="window">halcon窗口</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIEllipse.getRegion">
+            <summary>
+            获取与ROI同参数的region
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIEllipse.getDistanceFromStartPoint(System.Double,System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="dRow"></param>
+            <param name="dCol"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIEllipse.getModelData">
+             <summary>
+            获取ROI的模板信息
+             </summary> 
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIEllipse.moveByHandle(System.Double,System.Double)">
+             <summary> 
+            鼠标点击某个点时相应的动作
+             </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.DisMessage">
+            <summary>
+            内容摘要: 本文件的内容是信息显示
+            完成日期：2017年11月13日
+            版    本：V1.0
+            作    者：王雅鹏
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Model.DisMessage.Mes">
+            <summary>
+            显示信息
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Model.DisMessage.Row">
+            <summary>
+            X坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Model.DisMessage.Col">
+            <summary>
+            Y坐标
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Model.DisMessage.FontColor">
+            <summary>
+            显示颜色
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Model.DisMessage.BOx">
+            <summary>
+            显示背景框
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.DisMessage.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.DisMessage.Clone">
+            <summary>
+            输出副本
+            </summary>
+            <returns>返回消息</returns>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.GraphicsContext">
+            <summary>
+            This class contains the graphical context of an HALCON object. The
+            set of graphical modes is defined by the hashlist 'graphicalSettings'.
+            If the list is empty, then there is no difference to the graphical
+            setting defined by the system by default. Otherwise, the provided
+            HALCON window is adjusted according to the entries of the supplied
+            graphical context (when calling applyContext()) 
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.GC_COLOR">
+            <summary>
+            Graphical mode for the output color (see dev_set_color)
+            </summary>        
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.GC_COLORED">
+            <summary>
+            Graphical mode for the multi-color output (see dev_set_colored)
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.GC_LINEWIDTH">
+            <summary>
+            Graphical mode for the line width (see set_line_width)
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.GC_DRAWMODE">
+            <summary>
+            Graphical mode for the drawing (see set_draw)
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.GC_SHAPE">
+            <summary>
+            Graphical mode for the drawing shape (see set_shape)
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.GC_LUT">
+            <summary>
+            Graphical mode for the LUT (lookup table) (see set_lut)
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.GC_PAINT">
+            <summary>
+            Graphical mode for the painting (see set_paint)
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.GC_LINESTYLE">
+            <summary>
+            Graphical mode for the line style (see set_line_style)
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.graphicalSettings">
+            <summary> 
+            Hashlist containing entries for graphical modes (defined by GC_*), 
+            which is then linked to some HALCON object to describe its 
+            graphical context.
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.stateOfSettings">
+            <summary> 
+            Backup of the last graphical context applied to the window.
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.gcNotification">
+            <summary> 
+            Option to delegate messages from the graphical context 
+            to some observer class 
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.#ctor">
+            <summary> 
+            Creates a graphical context with no initial 
+            graphical modes 
+            </summary> 
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.#ctor(System.Collections.Hashtable)">
+            <summary> 
+            Creates an instance of the graphical context with 
+            the modes defined in the hashtable 'settings' 
+            </summary>
+            <param name="settings"> 
+            List of modes, which describes the graphical context 
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.applyContext(HalconDotNet.HWindow,System.Collections.Hashtable)">
+            <summary>Applies graphical context to the HALCON window</summary>
+            <param name="window">Active HALCON window</param>
+            <param name="cContext">
+            List that contains graphical modes for window
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.setColorAttribute(System.String)">
+            <summary>Sets a value for the graphical mode GC_COLOR</summary>
+            <param name="val"> 
+            A single color, e.g. "blue", "green" ...etc. 
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.setColoredAttribute(System.Int32)">
+            <summary>Sets a value for the graphical mode GC_COLORED</summary>
+            <param name="val"> 
+            The colored mode, which can be either "colored3" or "colored6"
+            or "colored12" 
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.setDrawModeAttribute(System.String)">
+            <summary>Sets a value for the graphical mode GC_DRAWMODE</summary>
+            <param name="val"> 
+            One of the possible draw modes: "margin" or "fill" 
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.setLineWidthAttribute(System.Int32)">
+            <summary>Sets a value for the graphical mode GC_LINEWIDTH</summary>
+            <param name="val"> 
+            The line width, which can range from 1 to 50 
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.setLutAttribute(System.String)">
+            <summary>Sets a value for the graphical mode GC_LUT</summary>
+            <param name="val"> 
+            One of the possible modes of look up tables. For 
+            further information on particular setups, please refer to the
+            Reference Manual entry of the operator set_lut.
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.setPaintAttribute(System.String)">
+            <summary>Sets a value for the graphical mode GC_PAINT</summary>
+            <param name="val"> 
+            One of the possible paint modes. For further 
+            information on particular setups, please refer refer to the
+            Reference Manual entry of the operator set_paint.
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.setShapeAttribute(System.String)">
+            <summary>Sets a value for the graphical mode GC_SHAPE</summary>
+            <param name="val">
+            One of the possible shape modes. For further 
+            information on particular setups, please refer refer to the
+            Reference Manual entry of the operator set_shape.
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.setLineStyleAttribute(HalconDotNet.HTuple)">
+            <summary>Sets a value for the graphical mode GC_LINESTYLE</summary>
+            <param name="val"> 
+            A line style mode, which works 
+            identical to the input for the HDevelop operator 
+            'set_line_style'. For particular information on this 
+            topic, please refer to the Reference Manual entry of the operator
+            set_line_style.
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.addValue(System.String,System.Int32)">
+            <summary> 
+            Adds a value to the hashlist 'graphicalSettings' for the 
+            graphical mode described by the parameter 'key' 
+            </summary>
+            <param name="key"> 
+            A graphical mode defined by the constant GC_* 
+            </param>
+            <param name="val"> 
+            Defines the value as an int for this graphical
+            mode 'key' 
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.addValue(System.String,System.String)">
+            <summary>
+            Adds a value to the hashlist 'graphicalSettings' for the 
+            graphical mode, described by the parameter 'key'
+            </summary>
+            <param name="key"> 
+            A graphical mode defined by the constant GC_* 
+            </param>
+            <param name="val"> 
+            Defines the value as a string for this 
+            graphical mode 'key' 
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.addValue(System.String,HalconDotNet.HTuple)">
+            <summary> 
+            Adds a value to the hashlist 'graphicalSettings' for the 
+            graphical mode, described by the parameter 'key'
+            </summary>
+            <param name="key">
+            A graphical mode defined by the constant GC_* 
+            </param>
+            <param name="val"> 
+            Defines the value as a HTuple for this 
+            graphical mode 'key' 
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.clear">
+            <summary> 
+            Clears the list of graphical settings. 
+            There will be no graphical changes made prior 
+            before drawing objects, since there are no 
+            graphical entries to be applied to the window.
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.copy">
+            <summary> 
+            Returns an exact clone of this graphicsContext instance 
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.getGraphicsAttribute(System.String)">
+            <summary> 
+            If the hashtable contains the key, the corresponding 
+            hashtable value is returned 
+            </summary>
+            <param name="key"> 
+            One of the graphical keys starting with GC_* 
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.GraphicsContext.copyContextList">
+            <summary> 
+            Returns a copy of the hashtable that carries the 
+            entries for the current graphical context 
+            </summary>
+            <returns> current graphical context </returns>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.HObjectEntry">
+            <summary>
+            This class is an auxiliary class, which is used to 
+            link a graphical context to an HALCON object. The graphical 
+            context is described by a hashtable, which contains a list of
+            graphical modes (e.g GC_COLOR, GC_LINEWIDTH and GC_PAINT) 
+            and their corresponding values (e.g "blue", "4", "3D-plot"). These
+            graphical states are applied to the window before displaying the
+            object.
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HObjectEntry.gContext">
+            <summary>Hashlist defining the graphical context for HObj</summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HObjectEntry.HObj">
+            <summary>HALCON object</summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HObjectEntry.#ctor(HalconDotNet.HObject,System.Collections.Hashtable)">
+            <summary>Constructor</summary>
+            <param name="obj">
+            HALCON object that is linked to the graphical context gc. 
+            </param>
+            <param name="gc"> 
+            Hashlist of graphical states that are applied before the object
+            is displayed. 
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HObjectEntry.clear">
+            <summary>
+            Clears the entries of the class members Hobj and gContext
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.IconicDelegate">
+            <summary>
+            
+            </summary>
+            <param name="val"></param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.FuncDelegate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.HWndCtrl">
+            <summary>
+            This class works as a wrapper class for the HALCON window
+            HWindow. HWndCtrl is in charge of the visualization.
+            You can move and zoom the visible image part by using GUI component 
+            inputs or with the mouse. The class HWndCtrl uses a graphics stack 
+            to manage the iconic objects for the display. Each object is linked 
+            to a graphical context, which determines how the object is to be drawn.
+            The context can be changed by calling changeGraphicSettings().
+            The graphical "modes" are defined by the class GraphicsContext and 
+            map most of the dev_set_* operators provided in HDevelop.
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.MODE_VIEW_NONE">
+            <summary>No action is performed on mouse events</summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.MODE_VIEW_ZOOM">
+            <summary>Zoom is performed on mouse events</summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.MODE_VIEW_MOVE">
+            <summary>Move is performed on mouse events</summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.MODE_VIEW_ZOOMWINDOW">
+            <summary>Magnification is performed on mouse events</summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.MODE_INCLUDE_ROI">
+            <summary>
+            ²Ù×÷°üº¬ROI
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.MODE_EXCLUDE_ROI">
+            <summary>
+            ²Ù×÷²»°üº¬ROI
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.EVENT_UPDATE_IMAGE">
+            <summary>
+            Constant describes delegate message to signal new image
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.ERR_READING_IMG">
+            <summary>
+            Constant describes delegate message to signal error
+            when reading an image from file
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.ERR_DEFINING_GC">
+            <summary> 
+            Constant describes delegate message to signal error
+            when defining a graphical context
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.MAXNUMOBJLIST">
+            <summary> 
+            Maximum number of HALCON objects that can be put on the graphics 
+            stack without loss. For each additional object, the first entry 
+            is removed from the stack again.
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.viewPort">
+            <summary>HALCON window</summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.roiManager">
+            <summary>
+            Instance of ROIController, which manages ROI interaction
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.drawModel">
+            <summary>
+            Ëõ·ÅÊÂ¼þ¿ª¹Ø
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.MoveImageEnabled">
+            <summary>
+            ÊÇ·ñÆ½ÒÆ¿ª¹Ø 
+            laoneng
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.exceptionText">
+            <summary>Error message when an exception is thrown</summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.addInfoDelegate">
+            <summary>
+            Delegate to add information to the HALCON window after 
+            the paint routine has finished
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.NotifyIconObserver">
+            <summary>
+            Delegate to notify about failed tasks of the HWndCtrl instance
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.HObjImageList">
+            <summary> 
+            List of HALCON objects to be drawn into the HALCON window. 
+            The list shouldn't contain more than MAXNUMOBJLIST objects, 
+            otherwise the first entry is removed from the list.
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.mGC">
+            <summary>
+            Instance that describes the graphical context for the
+            HALCON window. According on the graphical settings
+            attached to each HALCON object, this graphical context list 
+            is updated constantly.
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.#ctor(HalconDotNet.HWindowControl)">
+            <summary> 
+            Initializes the image dimension, mouse delegation, and the 
+            graphical context setup of the instance.
+            </summary>
+            <param name="view"> HALCON window </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.setImagePart(HalconDotNet.HImage)">
+            <summary>
+            Read dimensions of the image to adjust own window settings
+            </summary>
+            <param name="image">HALCON image</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.setImagePart(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Adjust window settings by the values supplied for the left 
+            upper corner and the right lower corner
+            </summary>
+            <param name="r1">y coordinate of left upper corner</param>
+            <param name="c1">x coordinate of left upper corner</param>
+            <param name="r2">y coordinate of right lower corner</param>
+            <param name="c2">x coordinate of right lower corner</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.setViewState(System.Int32)">
+            <summary>
+            Sets the view mode for mouse events in the HALCON window
+            (zoom, move, magnify or none).
+            </summary>
+            <param name="mode">One of the MODE_VIEW_* constants</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.setDispLevel(System.Int32)">
+            <summary>
+            Paint or don't paint the ROIs into the HALCON window by 
+            defining the parameter to be equal to 1 or not equal to 1.
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.zoomImage(System.Double)">
+            <summary>
+            Scales the image in the HALCON window according to the 
+            value scaleFactor
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.scaleWindow(System.Double)">
+            <summary>
+            Scales the HALCON window according to the value scale
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.setZoomWndFactor">
+            <summary>
+            Recalculates the image-window-factor, which needs to be added to 
+            the scale factor for zooming an image. This way the zoom gets 
+            adjusted to the window-image relation, expressed by the equation 
+            imageWidth/viewPort.Width.
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.setZoomWndFactor(System.Double)">
+            <summary>
+            Sets the image-window-factor to the value zoomF
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.resetAll">
+            <summary>
+            Resets all parameters that concern the HALCON window display 
+            setup to their initial values and clears the ROI list.
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.setGUICompRangeX(System.Int32[],System.Int32)">
+            <summary>
+            To initialize the move function using a GUI component, the HWndCtrl
+            first needs to know the range supplied by the GUI component. 
+            For the x direction it is specified by xRange, which is 
+            calculated as follows: GuiComponentX.Max()-GuiComponentX.Min().
+            The starting value of the GUI component has to be supplied 
+            by the parameter Init
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.setGUICompRangeY(System.Int32[],System.Int32)">
+            <summary>
+            To initialize the move function using a GUI component, the HWndCtrl
+            first needs to know the range supplied by the GUI component. 
+            For the y direction it is specified by yRange, which is 
+            calculated as follows: GuiComponentY.Max()-GuiComponentY.Min().
+            The starting value of the GUI component has to be supplied 
+            by the parameter Init
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.resetGUIInitValues(System.Int32,System.Int32)">
+            <summary>
+            Resets to the starting value of the GUI component.
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.moveXByGUIHandle(System.Int32)">
+            <summary>
+            Moves the image by the value valX supplied by the GUI component
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.moveYByGUIHandle(System.Int32)">
+            <summary>
+            Moves the image by the value valY supplied by the GUI component
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.zoomByGUIHandle(System.Double)">
+            <summary>
+            Zooms the image by the value valF supplied by the GUI component
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.repaint">
+            <summary>
+            Triggers a repaint of the HALCON window
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.repaint(HalconDotNet.HWindow)">
+            <summary>
+            Repaints the HALCON window 'window'
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.addIconicVar(HalconDotNet.HObject)">
+            <summary>
+            Adds an iconic object to the graphics stack similar to the way
+            it is defined for the HDevelop graphics stack.
+            </summary>
+            <param name="obj">Iconic object</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.clearList">
+            <summary>
+            Clears all entries from the graphics stack 
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.getListCount">
+            <summary>
+            Returns the number of items on the graphics stack
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.changeGraphicSettings(System.String,System.String)">
+            <summary>
+            Changes the current graphical context by setting the specified mode
+            (constant starting by GC_*) to the specified value.
+            </summary>
+            <param name="mode">
+            Constant that is provided by the class GraphicsContext
+            and describes the mode that has to be changed, 
+            e.g., GraphicsContext.GC_COLOR
+            </param>
+            <param name="val">
+            Value, provided as a string, 
+            the mode is to be changed to, e.g., "blue" 
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.changeGraphicSettings(System.String,System.Int32)">
+            <summary>
+            Changes the current graphical context by setting the specified mode
+            (constant starting by GC_*) to the specified value.
+            </summary>
+            <param name="mode">
+            Constant that is provided by the class GraphicsContext
+            and describes the mode that has to be changed, 
+            e.g., GraphicsContext.GC_LINEWIDTH
+            </param>
+            <param name="val">
+            Value, provided as an integer, the mode is to be changed to, 
+            e.g., 5 
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.changeGraphicSettings(System.String,HalconDotNet.HTuple)">
+            <summary>
+            Changes the current graphical context by setting the specified mode
+            (constant starting by GC_*) to the specified value.
+            </summary>
+            <param name="mode">
+            Constant that is provided by the class GraphicsContext
+            and describes the mode that has to be changed, 
+            e.g.,  GraphicsContext.GC_LINESTYLE
+            </param>
+            <param name="val">
+            Value, provided as an HTuple instance, the mode is 
+            to be changed to, e.g., new HTuple(new int[]{2,2})
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.clearGraphicContext">
+            <summary>
+            Clears all entries from the graphical context list
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.getGraphicContext">
+            <summary>
+            Returns a clone of the graphical context list (hashtable)
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.setROIController(GVS.HalconDisp.ViewWindow.Model.ROIController)">
+            <summary>
+            Registers an instance of an ROIController with this window 
+            controller (and vice versa).
+            </summary>
+            <param name="rC"> 
+            Controller that manages interactive ROIs for the HALCON window 
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.addImageShow(HalconDotNet.HObject)">
+            <summary>
+            Ìí¼ÓÉè¶¨ÏÔÊ¾µÄÍ¼Ïñ
+            </summary>
+            <param name="image"></param>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.hObjectList">
+            <summary>
+            hObjectListÓÃÀ´´æ´¢´æÈëµÄHObject
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.MessageList">
+            <summary>
+            ´æ´¢ÏÔÊ¾ÐÅÏ¢
+            ÍõÑÅÅô 2018/10/11
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.DispObj(HalconDotNet.HObject)">
+            <summary>
+            Ä¬ÈÏºìÑÕÉ«ÏÔÊ¾
+            </summary>
+            <param name="hObj">´«ÈëµÄregion.xld,image</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.DispObj(HalconDotNet.HObject,System.String,System.String)">
+            <summary>
+            ÖØÐÂ¿ª±ÙÄÚ´æ±£´æ ·ÀÖ¹±»´«ÈëµÄHObjectÔÚÆäËûµØ·½disposeºó,²»ÄÜÖØÏÖ
+            </summary>
+            <param name="hObj">´«ÈëµÄregion.xld,image</param>
+            <param name="color">ÑÕÉ«</param>
+             /// <param name="filltype">Ìî³äÀàÐÍ</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.DispObj(HalconDotNet.HObject,System.String)">
+            <summary>
+            ÖØÐÂ¿ª±ÙÄÚ´æ±£´æ ·ÀÖ¹±»´«ÈëµÄHObjectÔÚÆäËûµØ·½disposeºó,²»ÄÜÖØÏÖ
+            </summary>
+            <param name="hObj">´«ÈëµÄregion.xld,image</param>
+            <param name="color">ÑÕÉ«</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.DispMessage(System.String,System.String,System.Int32,System.Int32,System.Boolean)">
+            <summary>
+            ÔÚ´°¿ÚÏÔÊ¾ÐÅÏ¢
+            ÍõÑÅÅô/2018/10/11
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.DispMessage(System.String,System.String,System.Int32,System.Int32,System.Boolean,System.String,System.String,System.Int32)">
+            <summary>
+            ÔÚ´°¿ÚÏÔÊ¾ÐÅÏ¢
+            ÍõÑÅÅô/2019/1/29
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.clearHObjectList">
+            <summary>
+            Ã¿´Î´«ÈëÐÂµÄ±³¾°ImageÊ±,Çå¿ÕhObjectList,±ÜÃâÄÚ´æÃ»ÓÐ±»ÊÍ·Å
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.clearMessageList">
+            <summary>
+            ÇåÀíÄÚ´æ
+            ÍõÑÅÅô2018/10/11
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.showHObjectList">
+            <summary>
+            ½«hObjectListÖÐµÄHObject,°´ÕÕÏÈºóË³ÐòÏÔÊ¾³öÀ´
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.HWndCtrl.showMessageList">
+            <summary>
+            ÏÔÊ¾ÐÅÏ¢
+            ÍõÑÅÅô2018/10/11
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.ROI">
+            <summary>
+            ROI¸¸Àà£¬
+            ¶¨ÒåÊ¹ÓÃ¹¤¾ßµÄÐé·½·¨
+            </summary>    
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Model.ROI.Color">
+            <summary>
+            ÏÔÊ¾ROIÑÕÉ«
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewWindow.Model.ROI.Type">
+            <summary>
+            ROIÀàÐÍ
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROI.NumHandles">
+            <summary>
+            ROI»î¶¯²¿·Ö
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROI.activeHandleIdx">
+            <summary>
+            ROI»î¶¯²¿·ÖË÷Òý
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROI.OperatorFlag">
+            <summary>
+            Flag to define the ROI to be 'positive' or 'negative'.
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROI.flagLineStyle">
+            <summary>Parameter to define the line style of the ROI.</summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROI.POSITIVE_FLAG">
+            <summary>Constant for a positive ROI flag.</summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROI.NEGATIVE_FLAG">
+            <summary>Constant for a negative ROI flag.</summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.#ctor">
+            <summary>Constructor of abstract ROI class.</summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createRectangle1(System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨¾ØÐÎ1
+            </summary>
+            <param name="row1">ÆðµãÐÐ×ø±ê</param>
+            <param name="col1">ÆðµãÁÐ×ø±ê</param>
+            <param name="row2">ÖÕµãÐÐ×ø±ê</param>
+            <param name="col2">ÖÕµãÁÐ×ø±ê</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createRectangle2(System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨¾ØÐÎ2
+            </summary>
+            <param name="row">ÆðµãÐÐ×ø±ê</param>
+            <param name="col">ÆðµãÁÐ×ø±ê</param>
+            <param name="phi">½Ç¶È</param>
+            <param name="length1">ÖÕµãÐÐ×ø±ê</param>
+            <param name="length2">ÖÕµãÁÐ×ø±ê</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createCircle(System.Double,System.Double,System.Double)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨Ô²
+            </summary>
+            <param name="row">Ô²ÐÄÐÐ×ø±ê</param>
+            <param name="col">Ô²ÐÄÁÐ×ø±ê</param>
+            <param name="radius">Ô²°ë¾¶</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createEllipse(System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨Ô²
+            </summary>
+            <param name="row">Ô²ÐÄÐÐ×ø±ê</param>
+            <param name="col">Ô²ÐÄÁÐ×ø±ê</param>
+            <param name="radius">Ô²°ë¾¶</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createLine(System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨Ïß
+            </summary>
+            <param name="beginRow">ÏßµÄÆðµãÐÐ×ø±ê</param>
+            <param name="beginCol">ÏßµÄÆðµãÁÐ×ø±ê</param>
+            <param name="endRow">ÏßµÄÖÕµãÐÐ×ø±ê</param>
+            <param name="endCol">ÏßµÄÖÕµãÁÐ×ø±ê</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createLine(GVS.HalconDisp.ViewWindow.Config.Line)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨Ïß
+            </summary>
+            <param name="line">ÏßµÄ²ÎÊýÀà</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createLineSegment(GVS.HalconDisp.ViewWindow.Config.LineSegment)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨Ïß
+            </summary>
+            <param name="lineSegment">ÏßµÄ²ÎÊýÀà</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createPoint(System.Double,System.Double)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨µã
+            </summary>
+            <param name="beginRow">µãµÄÐÐ×ø±ê</param>
+            <param name="beginCol">µãµÄÁÐ×ø±ê</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createLineCalliper(GVS.HalconDisp.ViewWindow.Config.LineCalliper)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨Ïß¿¨³ß
+            </summary>
+            <param name="lineDraw">Ïß¿¨³ß²ÎÊýÀà</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createRect2(GVS.HalconDisp.ViewWindow.Config.Rectangle2)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏÉú³É¾ØÐÎ2
+            </summary>
+            <param name="rect2Draw">¾ØÐÎ2²ÎÊýÀà</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createRect1(GVS.HalconDisp.ViewWindow.Config.Rectangle1)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏÉú³É¾ØÐÎ1
+            </summary>
+            <param name="rect2Draw">¾ØÐÎ1²ÎÊýÀà</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createPoint(GVS.HalconDisp.ViewWindow.Config.Point)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨µã
+            </summary>
+            <param name="pointDraw">µãµÄ²ÎÊýÀà</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createCircleCalliper(GVS.HalconDisp.ViewWindow.Config.CircleCalliper)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨Ô²¿¨³ß
+            </summary>
+            <param name="CircleCalliper">Ô²¿¨³ß²ÎÊýÀà</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createCircularAnnulusSection(GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨Ô²»·
+            </summary>
+            <param name="circularAnnulusSection">Ô²»·²ÎÊýÀà</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createCircle(GVS.HalconDisp.ViewWindow.Config.Circle)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨Ô²
+            </summary>
+            <param name="circleDraw">Ô²²ÎÊýÀà</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createEllipse(GVS.HalconDisp.ViewWindow.Config.Ellipse)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨Ô²
+            </summary>
+            <param name="circleDraw">Ô²²ÎÊýÀà</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createPolygon(GVS.HalconDisp.ViewWindow.Config.Polygon)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏÉú³É¶à±ßÐÎ
+            </summary>
+            <param name="polygonDraw"></param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createPolygonLine(GVS.HalconDisp.ViewWindow.Config.PolygonLine)">
+            <summary>
+            Éú³ÉÕÛÏß
+            </summary>
+            <param name="polygonLine">ÕÛÏß²ÎÊýÀà</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.createROI(System.Double,System.Double)">
+            <summary>Creates a new ROI instance at the mouse position.</summary>
+            <param name="midX">
+            x (=column) coordinate for ROI
+            </param>
+            <param name="midY">
+            y (=row) coordinate for ROI
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.draw(HalconDotNet.HWindow)">
+            <summary>
+            ÔÚ´°¿ÚÖØ»æROI
+            </summary>
+            <param name="window">µ±Ç°´°¿Ú</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.distToClosestHandle(System.Double,System.Double)">
+            <summary> 
+            Returns the distance of the ROI handle being
+            closest to the image point(x,y)
+            </summary>
+            <param name="x">x (=column) coordinate</param>
+            <param name="y">y (=row) coordinate</param>
+            <returns> 
+            Distance of the closest ROI handle.
+            </returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.displayActive(HalconDotNet.HWindow)">
+            <summary> 
+            Paints the active handle of the ROI object into the supplied window. 
+            </summary>
+            <param name="window">HALCON window</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.moveByHandle(System.Double,System.Double)">
+            <summary> 
+            Recalculates the shape of the ROI. Translation is 
+            performed at the active handle of the ROI object 
+            for the image coordinate (x,y).
+            </summary>
+            <param name="x">x (=column) coordinate</param>
+            <param name="y">y (=row) coordinate</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.getRegion">
+            <summary>Gets the HALCON region described by the ROI.</summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.getDistanceFromStartPoint(System.Double,System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="row"></param>
+            <param name="col"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.getModelData">
+            <summary>
+            Gets the model information described by 
+            the ROI.
+            </summary> 
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.getNumHandles">
+            <summary>Number of handles defined for the ROI.</summary>
+            <returns>Number of handles</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.getActHandleIdx">
+            <summary>Gets the active handle of the ROI.</summary>
+            <returns>Index of the active handle (from the handle list)</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.getOperatorFlag">
+            <summary>
+            Gets the sign of the ROI object, being either 
+            'positive' or 'negative'. This sign is used when creating a model
+            region for matching applications from a list of ROIs.
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROI.setOperatorFlag(System.Int32)">
+            <summary>
+            Sets the sign of a ROI object to be positive or negative. 
+            The sign is used when creating a model region for matching
+            applications by summing up all positive and negative ROI models
+            created so far.
+            </summary>
+            <param name="flag">Sign of ROI object</param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.ROICircleCalliper">
+            <summary>
+            内容摘要:本类是圆卡尺工具实现
+            完成日期：2018年10月30日
+            版    本：V2.1
+            作    者:王雅鹏
+            整    理：王雅鹏
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROICircleCalliper.m_circleCalliperDraw">
+            圆卡尺参数对象
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircleCalliper.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircleCalliper.#ctor(GVS.HalconDisp.ViewWindow.Config.CircleCalliper)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="CircleCalliperDraw">圆卡尺参数</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircleCalliper.createCircleCalliper(GVS.HalconDisp.ViewWindow.Config.CircleCalliper)">
+            <summary>
+            生成圆卡尺方法
+            </summary>
+            <param name="circleCalliperDraw">圆卡尺参数</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircleCalliper.createROI(System.Double,System.Double)">
+            <summary>
+            在鼠标位置创建ROI
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircleCalliper.draw(HalconDotNet.HWindow)">
+            <summary>
+            绘制ROI
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircleCalliper.distToClosestHandle(System.Double,System.Double)">
+            <summary> 
+            计算图像上x,y与ROI的距离 
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircleCalliper.displayActive(HalconDotNet.HWindow)">
+            <summary> 
+            重绘活动的ROI
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircleCalliper.getRegion">
+            <summary>
+            获取与ROI参数一致的region.
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircleCalliper.moveByHandle(System.Double,System.Double)">
+            <summary>
+            重新计算ROI的坐标
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.ROICircle">
+            <summary>
+            ÄÚÈÝÕªÒª:±¾ÀàÊÇÔ²¹¤¾ßÊµÏÖ
+            Íê³ÉÈÕÆÚ£º2018Äê10ÔÂ30ÈÕ
+            °æ    ±¾£ºV2.1
+            ×÷    Õß:ÍõÑÅÅô
+            Õû    Àí£ºÍõÑÅÅô
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircle.#ctor">
+            <summary>
+            ¹¹Ôì·½·¨
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircle.#ctor(System.Double,System.Double,System.Double)">
+            <summary>
+            ¹¹Ôì·½·¨
+            </summary>
+            <param name="dRow">Ô²ÐÄÐÐ×ø±ê</param>
+            <param name="dCol">Ô²ÐÄÁÐ×ø±ê</param>
+            <param name="dRadius">°ë¾¶</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircle.createCircle(GVS.HalconDisp.ViewWindow.Config.Circle)">
+            <summary>
+            Éú³ÉÔ²
+            </summary>
+            <param name="circleDraw">Ô²²ÎÊý</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircle.createCircle(System.Double,System.Double,System.Double)">
+            <summary>
+            ´´½¨Ö¸¶¨´óÐ¡µÄÔ²
+            </summary>
+            <param name="dRow">Ô²ÐÄÐÐ×ø±ê</param>
+            <param name="dCol">Ô²ÐÄÁÐ×ø±ê</param>
+            <param name="dRadius">°ë¾¶</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircle.createROI(System.Double,System.Double)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨ROI
+            </summary>
+            <param name="dMidX">Êó±êÁÐ×ø±ê</param>
+            <param name="dMidY">Êó±êÐÐ×ø±ê</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircle.draw(HalconDotNet.HWindow)">
+            <summary>
+            ÔÚ´°¿ÚÉÏÖØ»æROI
+            </summary>
+            <param name="window">halcon´°¿Ú</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircle.distToClosestHandle(System.Double,System.Double)">
+            <summary>
+            ·µ»ØÓëÊó±êÎ»ÖÃµÄ¾àÀë
+            </summary>
+            <param name="dX">Êó±êx×ø±ê</param>
+            <param name="dY">×ø±êÊó±êy</param>
+            <returns>·µ»Ø¾àÀë</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircle.displayActive(HalconDotNet.HWindow)">
+            <summary>
+            ÔÚ´°¿ÚÉÏÖØ»æ»î¶¯µÄroi
+            </summary>
+            <param name="window">halcon´°¿Ú</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircle.getRegion">
+            <summary>
+            »ñÈ¡ÓëROIÍ¬²ÎÊýµÄregion
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircle.getDistanceFromStartPoint(System.Double,System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="dRow"></param>
+            <param name="dCol"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircle.getModelData">
+             <summary>
+            »ñÈ¡ROIµÄÄ£°åÐÅÏ¢
+             </summary> 
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROICircle.moveByHandle(System.Double,System.Double)">
+             <summary> 
+            Êó±êµã»÷Ä³¸öµãÊ±ÏàÓ¦µÄ¶¯×÷
+             </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.ROIController">
+            <summary>
+            This class creates and manages ROI objects. It responds 
+            to  mouse device inputs using the methods mouseDownAction and 
+            mouseMoveAction. You don't have to know this class in detail when you 
+            build your own C# project. But you must consider a few things if 
+            you want to use interactive ROIs in your application: There is a
+            quite close connection between the ROIController and the HWndCtrl 
+            class, which means that you must 'register' the ROIController
+            with the HWndCtrl, so the HWndCtrl knows it has to forward user input
+            (like mouse events) to the ROIController class.  
+            The visualization and manipulation of the ROI objects is done 
+            by the ROIController.
+            This class provides special support for the matching
+            applications by calculating a model region from the list of ROIs. For
+            this, ROIs are added and subtracted according to their sign.
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROIController.MODE_ROI_POS">
+            <summary>
+            Constant for setting the ROI mode: positive ROI sign.
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROIController.MODE_ROI_NEG">
+            <summary>
+            Constant for setting the ROI mode: negative ROI sign.
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROIController.MODE_ROI_NONE">
+            <summary>
+            Constant for setting the ROI mode: no model region is computed as
+            the sum of all ROI objects.
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROIController.EVENT_UPDATE_ROI">
+            <summary>Constant describing an update of the model region</summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROIController.EVENT_MOVING_ROI">
+            <summary>Constant describing an update of the model region</summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROIController.activeROIidx">
+            <summary>Index of the active ROI object</summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROIController.ROIList">
+            <summary>List containing all created ROI objects so far</summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROIController.ModelROI">
+            <summary>
+            Region obtained by summing up all negative 
+            and positive ROI objects from the ROIList 
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROIController.viewController">
+            <summary>
+            Reference to the HWndCtrl, the ROI Controller is registered to
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROIController.NotifyRCObserver">
+            <summary>
+            Delegate that notifies about changes made in the model region
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.#ctor">
+            <summary>Constructor</summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.setViewController(GVS.HalconDisp.ViewWindow.Model.HWndCtrl)">
+            <summary>Registers the HWndCtrl to this ROIController instance</summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.getModelRegion">
+            <summary>Gets the ModelROI object</summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.getROIList">
+            <summary>Gets the List of ROIs created so far</summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.getActiveROI">
+            <summary>Get the active ROI</summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.getActiveROIIdx">
+            <summary>
+            »ñÈ¡»î¶¯ROIµÄË÷Òý
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.setActiveROIIdx(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="active"></param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.getDelROIIdx">
+            <summary>
+            ·µ»ØÉ¾³ýµÄROIµÄË÷Òý
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.setROIShape(GVS.HalconDisp.ViewWindow.Model.ROI)">
+            <summary>
+            To create a new ROI object the application class initializes a 
+            'seed' ROI instance and passes it to the ROIController.
+            The ROIController now responds by manipulating this new ROI
+            instance.
+            </summary>
+            <param name="r">
+            'Seed' ROI object forwarded by the application forms class.
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.setROISign(System.Int32)">
+            <summary>
+            Sets the sign of a ROI object to the value 'mode' (MODE_ROI_NONE,
+            MODE_ROI_POS,MODE_ROI_NEG)
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.removeActive">
+            <summary>
+            Removes the ROI object that is marked as active. 
+            If no ROI object is active, then nothing happens. 
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.remove(GVS.HalconDisp.ViewWindow.Model.ROI)">
+            <summary>
+            É¾³ýÄ³Ò»Ïî
+            lyj 20190220
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.removeAllActive">
+            <summary>
+            ÒÆ³ýËùÓÐROI(ÍõÑÅÅô)
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.defineModelROI">
+            <summary>
+            Calculates the ModelROI region for all objects contained 
+            in ROIList, by adding and subtracting the positive and 
+            negative ROI objects.
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.reset">
+            <summary>
+            Clears all variables managing ROI objects
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.resetROI">
+            <summary>
+            Deletes this ROI instance if a 'seed' ROI object has been passed
+            to the ROIController by the application class.
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.setDrawColor(System.String,System.String,System.String)">
+            <summary>Defines the colors for the ROI objects</summary>
+            <param name="aColor">Color for the active ROI object</param>
+            <param name="inaColor">Color for the inactive ROI objects</param>
+            <param name="aHdlColor">
+            Color for the active handle of the active ROI object
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.paintData(HalconDotNet.HWindow)">
+            <summary>
+            Paints all objects from the ROIList into the HALCON window
+            </summary>
+            <param name="window">HALCON window</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.mouseDownAction(System.Double,System.Double)">
+            <summary>
+            Reaction of ROI objects to the 'mouse button down' event: changing
+            the shape of the ROI and adding it to the ROIList if it is a 'seed'
+            ROI.
+            </summary>
+            <param name="imgX">x coordinate of mouse event</param>
+            <param name="imgY">y coordinate of mouse event</param>
+            <returns></returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.mouseMoveAction(System.Double,System.Double)">
+            <summary>
+            Reaction of ROI objects to the 'mouse button move' event: moving
+            the active ROI.
+            </summary>
+            <param name="newX">x coordinate of mouse event</param>
+            <param name="newY">y coordinate of mouse event</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.displayRect2(System.String,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏÏÔÊ¾rectangle2
+            </summary>
+            <param name="color">ÏÔÊ¾ÑÕÉ«</param>
+            <param name="row">¾ØÐÎÖÐÐÄÐÐ×ø±ê</param>
+            <param name="col">¾ØÐÎÖÐÐÄÁÐ×ø±ê</param>
+            <param name="phi">³¤ÖáÓëxÖáµÄ½Ç¶È</param>
+            <param name="length1">¿íµÄÒ»°ë</param>
+            <param name="length2">³¤µÄÒ»°ë</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.displayCircle(System.String,System.Double,System.Double,System.Double)">
+            <summary>
+            Ö¸¶¨Î»ÖÃÉÏÉú³ÉÔ²
+            </summary>
+            <param name="color">ÏÔÊ¾ÑÕÉ«</param>
+            <param name="row">ÖÐÐÄÐÐ×ø±ê</param>
+            <param name="col">ÖÐÐÄÁÐ×ø±ê</param>
+            <param name="radius">°ë¾¶</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.displayLine(System.String,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            Ö¸¶¨Î»ÖÃÉÏÏÔÊ¾Ïß
+            </summary>
+            <param name="color">ÏÔÊ¾ÑÕÉ«</param>
+            <param name="beginRow">ÆðµãÐÐ×ø±ê</param>
+            <param name="beginCol">ÆðµãÁÐ×ø±ê</param>
+            <param name="endRow">ÖÕµãÐÐ×ø±ê</param>
+            <param name="endCol">ÖÕµãÁÐ×ø±ê</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.displayPoint(System.String,System.Double,System.Double)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏÉú³Éµã
+            </summary>
+            <param name="color">µãµÄÑÕÉ«</param>
+            <param name="beginRow">µãµÄÐÐ×ø±ê</param>
+            <param name="beginCol">µãµÄÁÐ×ø±ê</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.genRect2(System.Double,System.Double,System.Double,System.Double,System.Double,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉú³ÉROI--Rectangle2
+            </summary>
+            <param name="row">ÖÐµãÐÐ×ø±ê</param>
+            <param name="col">ÖÐµãÁÐ×ø±ê</param>
+            <param name="phi">½Ç¶È</param>
+            <param name="length1">³¤</param>
+            <param name="length2">¿í</param>
+            <param name="rois">Êä³öµÄROI</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.genCircle(System.Double,System.Double,System.Double,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉú³ÉROI--Circle
+            </summary>
+            <param name="row">ÖÐµãÐÐ×ø±ê</param>
+            <param name="col">ÖÐµãÁÐ×ø±ê</param>
+            <param name="radius">°ë¾¶</param>
+            <param name="rois">Êä³öµÄRPI</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.genPolygon(GVS.HalconDisp.ViewWindow.Config.Polygon,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏÉú³É¶à±ßÐÎ
+            </summary>
+            <param name="polygon">¶à±ßÐÎ²ÎÊý</param>
+            <param name="rois">roi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.genPolygonLine(GVS.HalconDisp.ViewWindow.Config.PolygonLine,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏÉú³ÉÕÛÏß
+            </summary>
+            <param name="polygonLine">¶à±ßÐÎ²ÎÊý</param>
+            <param name="rois">roi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.genLine(System.Double,System.Double,System.Double,System.Double,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉú³ÉROI--Line
+            </summary>
+            <param name="beginRow">ÆðµãÐÐ×ø±ê</param>
+            <param name="beginCol">ÆðµãÁÐ×ø±ê</param>
+            <param name="endRow">ÖÕµãÐÐ×ø±ê</param>
+            <param name="endCol">ÖÕµãÁÐ×ø±ê</param>
+            <param name="rois">Êä³öµÄROI</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.genLine(GVS.HalconDisp.ViewWindow.Config.Line,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉú³ÉROI--Line
+            </summary>
+            <param name="line">ÏßµÄ²ÎÊýÀà</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.genLineSegment(GVS.HalconDisp.ViewWindow.Config.LineSegment,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉú³ÉROI--Ïß¶Î
+            </summary>
+            <param name="beginRow">ÆðµãÐÐ×ø±ê</param>
+            <param name="beginCol">ÆðµãÁÐ×ø±ê</param>
+            <param name="endRow">ÖÕµãÐÐ×ø±ê</param>
+            <param name="endCol">ÖÕµãÁÐ×ø±ê</param>
+            <param name="rois">Êä³öµÄROI</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.genLineCalliper(GVS.HalconDisp.ViewWindow.Config.LineCalliper,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            Ö¸¶¨Î»ÖÃÉú³ÉÏß¿¨³ß
+            </summary>
+            <param name="lineDraw">Ïß¿¨³ß²ÎÊý</param>
+            <param name="rois">Êä³öµÄROI</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.genPoint(GVS.HalconDisp.ViewWindow.Config.Point,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏÉú³Éµã
+            </summary>
+            <param name="point">µã²ÎÊýÀà</param>
+            <param name="rois">Êä³öµÄROI</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.genEllipse(GVS.HalconDisp.ViewWindow.Config.Ellipse,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏÉú³ÉÍÖÔ²
+            </summary>
+            <param name="ellipse">µã²ÎÊýÀà</param>
+            <param name="rois">Êä³öµÄROI</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.genRectanle2(GVS.HalconDisp.ViewWindow.Config.Rectangle2,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏÉú³É¾ØÐÎ2
+            </summary>
+            <param name="Rect2">¾ØÐÎ2²ÎÊý</param>
+            <param name="rois">Éú³ÉµÄROI</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.genRectangle1(GVS.HalconDisp.ViewWindow.Config.Rectangle1,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            Ö¸¶¨Î»ÖÃÉÏÉú³É¾ØÐÎ1
+            </summary>
+            <param name="rect1Draw">¾ØÐÎ1²ÎÊýÀà</param>
+            <param name="rois">roi¼¯ºÏ</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.genCircle(GVS.HalconDisp.ViewWindow.Config.Circle,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            Ö¸¶¨Î»ÖÃÉÏÉú³ÉÔ²
+            </summary>
+            <param name="circleDraw">Ô²²ÎÊýÀà</param>
+            <param name="rois">Êä³öroi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.genCircularAnnulusSection(GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            Éú³ÉÔ²»·
+            </summary>
+            <param name="circularAnnulusSection">Ô²»·²ÎÊý</param>
+            <param name="rois">ROI</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.genCircleCalliper(GVS.HalconDisp.ViewWindow.Config.CircleCalliper,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            »æÖÆÔ²¿¨³ß
+            </summary>
+            <param name="circleCalliper">Ô²¿¨³ß²ÎÊý</param>
+            <param name="rois">Êä³öµÄROI</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.smallestActiveROI(System.String@,System.Int32@)">
+            <summary>
+            »ñÈ¡µ±Ç°Ñ¡ÖÐROIµÄÐÅÏ¢
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.smallestActiveROI(System.Collections.Generic.List{System.Double}@,System.Int32@)">
+            <summary>
+            Ñ¡ÔñµÄ»î¶¯ROI
+            </summary>
+            <param name="data">Êä³öROIÊý¾Ý</param>
+            <param name="index">Ë÷Òý</param>
+            <returns>·µ»Øregion</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.removeActiveROI(System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            É¾³ýµ±Ç°Ñ¡ÖÐROI
+            </summary>
+            <param name="roi">É¾³ýµÄroi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.removeAllROI(System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            É¾³ýËùÓÐÑ¡ÖÐROI(ÍõÑÅÅô)
+            </summary>
+            <param name="roi">roi¼¯ºÏ</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.Remove(GVS.HalconDisp.ViewWindow.Model.ROI)">
+            <summary>
+            É¾³ýÄ³¸öROI
+            </summary>
+            <param name="temp"></param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.selectROI(System.Int32)">
+            <summary>
+            Ñ¡ÖÐ¼¤»îROI
+            </summary>
+            <param name="index"></param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.resetWindowImage">
+            <summary>
+            ¸´Î»´°¿ÚÏÔÊ¾
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.zoomWindowImage">
+            <summary>
+            Ëõ·Å
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.moveWindowImage">
+            <summary>
+            ÒÆ¶¯
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIController.noneWindowImage">
+            <summary>
+            ÎÞ²Ù×÷
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.RoiData">
+            <summary>
+            ROI的相关数据，类型，id等
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.ROILineSegment">
+            <summary>
+            内容摘要: 本文件的内容是线段的方法类
+            完成日期：2018年10月31日
+            版    本：V2.1
+            作者：王雅鹏
+            整理：王雅鹏
+            </summary> 
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROILineSegment.m_lineSegment">
+            <summary>
+            线参数
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROILineSegment.ho_arrowHandleXLD">
+            <summary>
+            箭头Xld
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineSegment.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineSegment.#ctor(GVS.HalconDisp.ViewWindow.Config.LineSegment)">
+            <summary>
+            带参数的构造函数
+            </summary>
+            <param name="beginRow">起始行坐标</param>
+            <param name="beginCol">起始列坐标</param>
+            <param name="endRow">终点行坐标</param>
+            <param name="endCol">终点列坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineSegment.createLineSegment(GVS.HalconDisp.ViewWindow.Config.LineSegment)">
+            <summary>
+            在指定位置上创建ROI
+            </summary>
+            <param name="beginRow">起始行坐标</param>
+            <param name="beginCol">起始列坐标</param>
+            <param name="endRow">终点行坐标</param>
+            <param name="endCol">终点列坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineSegment.createROI(System.Double,System.Double)">
+            <summary>
+            在鼠标位置创建ROI
+            </summary>
+            <param name="midX">x轴</param>
+            <param name="midY">y轴</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineSegment.draw(HalconDotNet.HWindow)">
+            <summary>
+            在显示窗口重绘roi
+            </summary>
+            <param name="window">显示窗口</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineSegment.distToClosestHandle(System.Double,System.Double)">
+            <summary>
+            计算返回鼠标位置与活动部分的距离
+            </summary>
+            <param name="x">鼠标x坐标</param>
+            <param name="y">鼠标y坐标</param>
+            <returns>返回距离</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineSegment.displayActive(HalconDotNet.HWindow)">
+            <summary>
+            用矩形突出选择的活动部分
+            </summary>
+            <param name="window">显示窗口</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineSegment.getRegion">
+            <summary>
+            获取与ROI数据一致的region
+            </summary>
+            <returns>返回region</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineSegment.getDistanceFromStartPoint(System.Double,System.Double)">
+            <summary>
+            计算线的起始点点到窗体的距离
+            </summary>
+            <param name="row">窗体行坐标</param>
+            <param name="col">窗体列坐标</param>
+            <returns></returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineSegment.getModelData">
+            <summary>
+            获取选中ROI的坐标信息
+            </summary>
+            <returns>以HTuple类型返回</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineSegment.moveByHandle(System.Double,System.Double)">
+            <summary>
+            对鼠标选择的活动部分移动
+            </summary>
+            <param name="newX">鼠标x</param>
+            <param name="newY">鼠标y</param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.ROIPoint">
+            <summary>
+            内容摘要: 本文件的内容是点工具实现类
+            完成日期：2018年10月23日
+            版    本：V1.0
+            作者：王雅鹏
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPoint.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPoint.#ctor(GVS.HalconDisp.ViewWindow.Config.Point)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="PointsDraw">点参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPoint.createPoint(GVS.HalconDisp.ViewWindow.Config.Point)">
+            <summary>
+            在指定位置上创建点
+            </summary>
+            <param name="pointDraw">点参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPoint.createROI(System.Double,System.Double)">
+            <summary>
+            在鼠标位置创建ROI
+            </summary>
+            <param name="dMidX">鼠标X坐标</param>
+            <param name="dMidY">鼠标Y坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPoint.draw(HalconDotNet.HWindow)">
+            <summary>
+            在窗口绘制ROI
+            </summary>
+            <param name="window">显示窗口</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPoint.distToClosestHandle(System.Double,System.Double)">
+            <summary>
+            返回活动部分与鼠标的距离
+            </summary>
+            <param name="x">x坐标</param>
+            <param name="y">y坐标</param>
+            <returns>返回距离</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPoint.displayActive(HalconDotNet.HWindow)">
+            <summary>
+            将选择活动部分用矩形突出
+            </summary>
+            <param name="window"></param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPoint.getRegion">
+            <summary>
+            获得与ROI参数一致的halconRegion
+            </summary>
+            <returns>返回 region</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPoint.getDistanceFromStartPoint(System.Double,System.Double)">
+            <summary>
+            获取该点与窗体上的点的距离
+            </summary>
+            <param name="row">点的行坐标</param>
+            <param name="col">点的列坐标</param>
+            <returns>返回距离</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPoint.getModelData">
+            <summary>
+            获取ROI的相关参数
+            </summary> 
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPoint.moveByHandle(System.Double,System.Double)">
+            <summary>
+            将鼠标位置坐标传递给活动部分，重绘
+            </summary>
+            <param name="newX">鼠标X</param>
+            <param name="newY">y</param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.ROILine">
+            <summary>
+            ÄÚÈÝÕªÒª: ±¾ÎÄ¼þµÄÄÚÈÝÊÇ´ø·½ÏòµÄÏß
+            Íê³ÉÈÕÆÚ£º2018Äê10ÔÂ31ÈÕ
+            °æ    ±¾£ºV2.1
+            ×÷Õß£ºÍõÑÅÅô
+            ÕûÀí£ºÍõÑÅÅô
+            </summary>   
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROILine.m_line">
+            <summary>
+            Ïß²ÎÊý
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROILine.arrowHandleXLD">
+            <summary>
+            ¼ýÍ·Xld
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILine.#ctor">
+            <summary>
+            ¹¹Ôìº¯Êý
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILine.#ctor(GVS.HalconDisp.ViewWindow.Config.Line)">
+            <summary>
+            ´ø²ÎÊýµÄ¹¹Ôìº¯Êý
+            </summary>
+            <param name="line">²ÎÊýÀà</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILine.createLine(GVS.HalconDisp.ViewWindow.Config.Line)">
+            <summary>
+            ÔÚÖ¸¶¨Î»ÖÃÉÏ´´½¨ROI
+            </summary>
+            <param name="line">²ÎÊýÀà</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILine.createROI(System.Double,System.Double)">
+            <summary>
+            ÔÚÊó±êÎ»ÖÃ´´½¨ROI
+            </summary>
+            <param name="midX">xÖá</param>
+            <param name="midY">yÖá</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILine.draw(HalconDotNet.HWindow)">
+            <summary>
+            ÔÚÏÔÊ¾´°¿ÚÖØ»æroi
+            </summary>
+            <param name="window">ÏÔÊ¾´°¿Ú</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILine.distToClosestHandle(System.Double,System.Double)">
+            <summary>
+            ¼ÆËã·µ»ØÊó±êÎ»ÖÃÓë»î¶¯²¿·ÖµÄ¾àÀë
+            </summary>
+            <param name="x">Êó±êx×ø±ê</param>
+            <param name="y">Êó±êy×ø±ê</param>
+            <returns>·µ»Ø¾àÀë</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILine.displayActive(HalconDotNet.HWindow)">
+            <summary>
+            ÓÃ¾ØÐÎÍ»³öÑ¡ÔñµÄ»î¶¯²¿·Ö
+            </summary>
+            <param name="window">ÏÔÊ¾´°¿Ú</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILine.getRegion">
+            <summary>
+            »ñÈ¡ÓëROIÊý¾ÝÒ»ÖÂµÄregion
+            </summary>
+            <returns>·µ»Øregion</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILine.getDistanceFromStartPoint(System.Double,System.Double)">
+            <summary>
+            ¼ÆËãÏßµÄÆðÊ¼µãµãµ½´°ÌåµÄ¾àÀë
+            </summary>
+            <param name="row">´°ÌåÐÐ×ø±ê</param>
+            <param name="col">´°ÌåÁÐ×ø±ê</param>
+            <returns></returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILine.getModelData">
+            <summary>
+            »ñÈ¡Ñ¡ÖÐROIµÄ×ø±êÐÅÏ¢
+            </summary>
+            <returns>ÒÔHTupleÀàÐÍ·µ»Ø</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILine.moveByHandle(System.Double,System.Double)">
+            <summary>
+            ¶ÔÊó±êÑ¡ÔñµÄ»î¶¯²¿·ÖÒÆ¶¯
+            </summary>
+            <param name="newX">Êó±êx</param>
+            <param name="newY">Êó±êy</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILine.updateArrowHandle">
+            <summary>
+            ¸¨Öú·½·¨
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.ROILineCalliper">
+            <summary>
+            ÄÚÈÝÕªÒª:±¾ÀàÊÇÏß¿¨³ß¹¤¾ßÊµÏÖ
+            Íê³ÉÈÕÆÚ£º2018Äê10ÔÂ30ÈÕ
+            °æ    ±¾£ºV2.1
+            ×÷    Õß:ÁõÓª¾ü
+            Õû    Àí£ºÍõÑÅÅô
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineCalliper.#ctor">
+            <summary>
+            ¹¹Ôìº¯Êý
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineCalliper.#ctor(GVS.HalconDisp.ViewWindow.Config.LineCalliper)">
+            <summary>
+            ¹¹Ôìº¯Êý
+            </summary>
+            <param name="lineDraw">Ïß¿¨³ß²ÎÊý</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineCalliper.createLineCalliper(GVS.HalconDisp.ViewWindow.Config.LineCalliper)">
+            <summary>
+            Éú³ÉÏß¿¨³ß
+            </summary>
+            <param name="lineDraw">Ïß²ÎÊý</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineCalliper.createROI(System.Double,System.Double)">
+            <summary>
+            ÔÚÊó±êÎ»ÖÃ´´½¨ROI
+            </summary>
+            <param name="dMidX">Êó±êX×ø±ê</param>
+            <param name="dMidY">Êó±êY×ø±ê</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineCalliper.draw(HalconDotNet.HWindow)">
+            <summary>
+            ÔÚ´°¿ÚÉÏÖØ»æROI
+            </summary>
+            <param name="window">halcon´°¿Ú</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineCalliper.distToClosestHandle(System.Double,System.Double)">
+            <summary>
+            ·µ»Øroi¸÷²¿·ÖÓëÊó±êÎ»ÖÃµÄ¾àÀë
+            </summary>
+            <param name="dX">Êó±êx×ø±ê</param>
+            <param name="dY">Êó±êy×ø±ê</param>
+            <returns>·µ»Ø¾àÀë</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineCalliper.displayActive(HalconDotNet.HWindow)">
+            <summary>
+            ÔÚ´°¿ÚÉÏÖØ»æROIÑ¡ÖÐ²»²¿·Ö
+            </summary>
+            <param name="window">halcon´°¿Ú</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineCalliper.getRegion">
+            <summary>
+            »ñÈ¡ÓëROIÍ¬²ÎÊýµÄregion
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineCalliper.getModelData">
+            <summary>
+            »ñÈ¡ROIµÄÄ£°å²ÎÊý
+            </summary> 
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROILineCalliper.moveByHandle(System.Double,System.Double)">
+            <summary>
+            ¸ù¾ÝÊó±êÎ»ÖÃ¶ÔROIµÄÑ¡ÖÐ²¿·ÖÖØ»æ
+            </summary>
+            <param name="dNewX">Êó±êx×ø±ê</param>
+            <param name="dNewY">Êó±êy×ø±ê</param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.ROIPolygon">
+            <summary>
+            内容摘要: 本文件的内容是多边形实现类
+            完成日期：2018年11月26日
+            版    本：V2.1
+            作者：王雅鹏
+            </summary> 
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygon.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygon.createPolygon(GVS.HalconDisp.ViewWindow.Config.Polygon)">
+            <summary>
+            创建矩形2
+            </summary>
+            <param name="polygon">矩形参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygon.createROI(System.Double,System.Double)">
+            <summary>
+            在鼠标位置创建ROI
+            </summary>
+            <param name="dMidX">x坐标</param>
+            <param name="dMidY">y坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygon.draw(HalconDotNet.HWindow)">
+            <summary>
+            在窗口上绘制
+            </summary>
+            <param name="window">显示窗口</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygon.distToClosestHandle(System.Double,System.Double)">
+            <summary> 
+            返回roi与鼠标位置的距离
+            </summary>
+            <param name="dX">x坐标</param>
+            <param name="dY">y坐标</param>
+            <returns> 
+             返回roi与鼠标位置的一组距离
+            </returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygon.displayActive(HalconDotNet.HWindow)">
+            <summary> 
+            在窗口上绘制活动的roi
+            </summary>
+            <param name="window">HALCON窗口</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygon.getRegion">
+            <summary>
+            生成与ROI参数一致的halconRegion
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygon.getModelData">
+            <summary>
+            获取交互的roi的模板数据
+            </summary> 
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygon.moveByHandle(System.Double,System.Double)">
+            <summary> 
+            根据活动的ROI重新计算roi与图片
+            的位置并进行重绘
+            </summary>
+            <param name="dNewX">鼠标x坐标</param>
+            <param name="dNewY">鼠标y坐标</param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.ROIPolygonLine">
+            <summary>
+            内容摘要: 本文件的内容是折线实现类
+            完成日期：2018年11月26日
+            版    本：V2.1
+            作者：王雅鹏
+            </summary> 
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygonLine.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygonLine.createPolygonLine(GVS.HalconDisp.ViewWindow.Config.PolygonLine)">
+            <summary>
+            创建矩形2
+            </summary>
+            <param name="polygonLine">矩形参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygonLine.createROI(System.Double,System.Double)">
+            <summary>
+            在鼠标位置创建ROI
+            </summary>
+            <param name="dMidX">x坐标</param>
+            <param name="dMidY">y坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygonLine.draw(HalconDotNet.HWindow)">
+            <summary>
+            在窗口上绘制
+            </summary>
+            <param name="window">显示窗口</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygonLine.distToClosestHandle(System.Double,System.Double)">
+            <summary> 
+            返回roi与鼠标位置的距离
+            </summary>
+            <param name="dX">x坐标</param>
+            <param name="dY">y坐标</param>
+            <returns> 
+             返回roi与鼠标位置的一组距离
+            </returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygonLine.displayActive(HalconDotNet.HWindow)">
+            <summary> 
+            在窗口上绘制活动的roi
+            </summary>
+            <param name="window">HALCON窗口</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygonLine.getRegion">
+            <summary>
+            生成与ROI参数一致的halconRegion
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygonLine.getModelData">
+            <summary>
+            获取交互的roi的模板数据
+            </summary> 
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIPolygonLine.moveByHandle(System.Double,System.Double)">
+            <summary> 
+            根据活动的ROI重新计算roi与图片
+            的位置并进行重绘
+            </summary>
+            <param name="dNewX">鼠标x坐标</param>
+            <param name="dNewY">鼠标y坐标</param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.ROIRectangle1">
+            <summary>
+            内容摘要:本类是矩形1工具实现
+            完成日期：2018年12月30日
+            版    本：V2.1
+            作    者:王雅鹏
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle1.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle1.createRect1(GVS.HalconDisp.ViewWindow.Config.Rectangle1)">
+            <summary>
+            创建矩形2
+            </summary>
+            <param name="rect1">矩形参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle1.createROI(System.Double,System.Double)">
+            <summary>
+            在鼠标位置创建ROI
+            </summary>
+            <param name="dMidX">x坐标</param>
+            <param name="dMidY">y坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle1.draw(HalconDotNet.HWindow)">
+            <summary>
+            在窗口上绘制
+            </summary>
+            <param name="window">显示窗口</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle1.distToClosestHandle(System.Double,System.Double)">
+            <summary> 
+            返回roi与鼠标位置的距离
+            </summary>
+            <param name="dX">x坐标</param>
+            <param name="dY">y坐标</param>
+            <returns> 
+             返回roi与鼠标位置的一组距离
+            </returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle1.displayActive(HalconDotNet.HWindow)">
+            <summary> 
+            在窗口上绘制活动的roi
+            </summary>
+            <param name="window">HALCON窗口</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle1.getRegion">
+            <summary>
+            生成与ROI参数一致的halconRegion
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle1.getModelData">
+            <summary>
+            获取交互的roi的模板数据
+            </summary> 
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle1.moveByHandle(System.Double,System.Double)">
+            <summary> 
+            根据活动的ROI重新计算roi与图片
+            的位置并进行重绘
+            </summary>
+            <param name="dNewX">鼠标x坐标</param>
+            <param name="dNewY">鼠标y坐标</param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.ROIRectangle2">
+            <summary>
+            内容摘要:本类是带方向矩形2工具实现
+            完成日期：2018年12月30日
+            版    本：V2.2
+            作    者:王雅鹏
+            整    理：王雅鹏
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROIRectangle2.m_hvArrowRow">
+            <summary>
+             箭头中心行坐标
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROIRectangle2.m_hvArrowCol">
+            <summary>
+             箭头中心列坐标
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROIRectangle2.m_hvArrowMoveRow">
+            <summary>
+             移动箭头的点行坐标
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewWindow.Model.ROIRectangle2.m_hvArrowMoveCol">
+            <summary>
+             移动箭头的点列坐标
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle2.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle2.createRect2(GVS.HalconDisp.ViewWindow.Config.Rectangle2)">
+            <summary>
+            创建矩形2
+            </summary>
+            <param name="rect2">矩形参数类</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle2.createROI(System.Double,System.Double)">
+            <summary>
+            在鼠标位置创建ROI
+            </summary>
+            <param name="dMidX">x坐标</param>
+            <param name="dMidY">y坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle2.draw(HalconDotNet.HWindow)">
+            <summary>
+            在窗口上绘制
+            </summary>
+            <param name="window">显示窗口</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle2.distToClosestHandle(System.Double,System.Double)">
+            <summary> 
+            返回roi与鼠标位置的距离
+            </summary>
+            <param name="dX">x坐标</param>
+            <param name="dY">y坐标</param>
+            <returns> 
+             返回roi与鼠标位置的一组距离
+            </returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle2.displayActive(HalconDotNet.HWindow)">
+            <summary> 
+            在窗口上绘制活动的roi
+            </summary>
+            <param name="window">HALCON窗口</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle2.getRegion">
+            <summary>
+            生成与ROI参数一致的halconRegion
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle2.getModelData">
+            <summary>
+            获取交互的roi的模板数据
+            </summary> 
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.Model.ROIRectangle2.moveByHandle(System.Double,System.Double)">
+            <summary> 
+            根据活动的ROI重新计算roi与图片
+            的位置并进行重绘
+            </summary>
+            <param name="dNewX">鼠标x坐标</param>
+            <param name="dNewY">鼠标y坐标</param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.Model.ROIRectangle2Halcon">
+            <summary>
+            ÄÚÈÝÕªÒª:±¾ÀàÊÇ´ø·½Ïò¾ØÐÎ¹¤¾ßÊµÏÖ
+            Íê³ÉÈÕÆÚ£º2018Äê10ÔÂ30ÈÕ
+            °æ    ±¾£ºV2.1
+            ×÷    Õß:ÍõÑÅÅô
+            Õû    Àí£ºÍõÑÅÅô
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewWindow.ViewWindow">
+            <summary>
+            内容摘要:本类绘制工具相关方法，显示信息的相关方法
+            完成日期：2018年10月30日
+            版    本：V2.1
+            整    理：王雅鹏
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.#ctor(HalconDotNet.HWindowControl)">
+            <summary>
+            构造函数传入显示空间的引用
+            </summary>
+            <param name="hwindow">显示窗口</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.ClearWindow">
+            <summary>
+            清空所有显示内容
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.DisplayImage(HalconDotNet.HObject)">
+            <summary>
+            显示图像
+            </summary>
+            <param name="ho_img">显示的图像</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.NotDisplayRoi">
+            <summary>
+            不显示区域
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.GetRoiCount">
+            <summary>
+            获取当前窗口显示的roi数量
+            </summary>
+            <returns>roi的数量</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.SetDrawModel(System.Boolean)">
+            <summary>
+             是否开启缩放事件
+            </summary>
+            <param name="flag">是否开启标志，
+            true：缩放事件开；false：缩放事件关闭
+            </param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.SetMoveImageEnabled(System.Boolean)">
+            <summary>
+            设置是否平移事件
+            laoneng
+            </summary>
+            <param name="bflag">是否平移标志true:平移；
+            false：不平移</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.ResetWindowImage">
+            <summary>
+            复位窗口
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.MouseLeave">
+            <summary>
+            当鼠标离开时
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.ZoomWindowImage">
+            <summary>
+            放大缩小图像
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.MoveWindowImage">
+            <summary>
+            移动图像
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.NoneWindowImage">
+            <summary>
+            不显示图像
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.Repaint">
+            <summary>
+            重绘ROI
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.GenCircle(System.Double,System.Double,System.Double,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            画圆
+            </summary>
+            <param name="dRrow">圆的中心行坐标</param>
+            <param name="dCol">中心的列坐标</param>
+            <param name="dRadius">圆的半径</param>
+            <param name="listRois">生成的ROi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.GenLine(GVS.HalconDisp.ViewWindow.Config.Line,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            画线
+            laoneng
+            </summary>
+            <param name="line">线的参数类</param>
+            <param name="listRois">生成的roi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.GenLineSegment(GVS.HalconDisp.ViewWindow.Config.LineSegment,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            生成线段
+            </summary>
+            <param name="lineSegment">线段的参数类</param>
+            <param name="listRois">生成的roi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.GenLineCalliper(GVS.HalconDisp.ViewWindow.Config.LineCalliper,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            画带卡尺工具的线(王雅鹏)
+            </summary>
+            <param name="lineDraw">线卡尺参数引用</param>
+            <param name="listRois">生成的roi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.GenPolygon(GVS.HalconDisp.ViewWindow.Config.Polygon,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            多边形
+            </summary>
+            <param name="polygonDraw">多边形参数</param>
+            <param name="listRois">roi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.GenPolygonLine(GVS.HalconDisp.ViewWindow.Config.PolygonLine,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            折线
+            </summary>
+            <param name="polygonDraw">折线参数</param>
+            <param name="listRois">生成的ROI</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.GenPoint(GVS.HalconDisp.ViewWindow.Config.Point,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            画点工具
+            </summary>
+            <param name="point">点的参数引用</param>
+            <param name="listRois">生成roi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.GenEllipse(GVS.HalconDisp.ViewWindow.Config.Ellipse,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            画椭圆工具
+            </summary>
+            <param name="ellipse">点的参数引用</param>
+            <param name="listRois">生成roi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.GenRectangle2(GVS.HalconDisp.ViewWindow.Config.Rectangle2,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            画带方向的矩形2
+            </summary>
+            <param name="rect2Draw">矩形2参数引用</param>
+            <param name="listRois">生成的roi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.GetLineLocation(System.Double,System.Double,System.Double,System.Double,System.Double@)">
+            <summary>
+            获取线的位置
+            </summary>
+            <param name="dRowBegin">起始行坐标</param>
+            <param name="dColBegin">起始列坐标</param>
+            <param name="dRowEnd">终点行坐标</param>
+            <param name="dColEnd">终点列坐标</param>
+            <param name="dAngle">输出与X轴的角度</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.GenRectangle1(GVS.HalconDisp.ViewWindow.Config.Rectangle1,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            矩形1工具
+            </summary>
+            <param name="rect1Draw">矩形1参数</param>
+            <param name="listRois">生成的roi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.GenCircle(GVS.HalconDisp.ViewWindow.Config.Circle,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            圆工具
+            </summary>
+            <param name="circleDraw">圆参数类</param>
+            <param name="listRois">生成的roi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.GenCircularAnnuslusSection(GVS.HalconDisp.ViewWindow.Config.CircularAnnulusSection,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            圆环工具
+            </summary>
+            <param name="circularAnnulusSection">圆环参数类</param>
+            <param name="listRois">生成的ROI</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.GenCircleCalliper(GVS.HalconDisp.ViewWindow.Config.CircleCalliper,System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            圆卡尺工具
+            </summary>
+            <param name="m_circleAnnulusSection">圆卡尺参数</param>
+            <param name="listRois">生成的roi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.SmallestActiveROI(System.String@,System.Int32@)">
+            <summary>
+            获取选择的roi信息
+            </summary>
+            <param name="strName">选择roi的名称</param>
+            <param name="iIndex">所有</param>
+            <returns>返回信息</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.SmallestActiveROI(System.Collections.Generic.List{System.Double}@,System.Int32@)">
+            <summary>
+            获取获得的roi的相关信息
+            </summary>
+            <param name="listData">>获取焦点的roi类型</param>
+            <param name="iIndex">获取焦点的roi索引值</param>
+            <returns>返回焦点roi</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.SelectROI(System.Int32)">
+            <summary>
+            选中激活ROI
+            </summary>
+            <param name="iIndex">索引值</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.SelectROI(System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI},System.Int32)">
+            <summary>
+            选择ROI
+            </summary>
+            <param name="listRois">roi存储集合</param>
+            <param name="iIndex">索引</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.RemoveActiveROI(System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            移除ROI
+            </summary>
+            <param name="listRois">roi</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.RemoveAllROI(System.Collections.Generic.List{GVS.HalconDisp.ViewWindow.Model.ROI}@)">
+            <summary>
+            移除所有的ROI(王雅鹏)
+            </summary>
+            <param name="listRois">roi集合</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.Remove(GVS.HalconDisp.ViewWindow.Model.ROI)">
+            <summary>
+            lyj
+            删除某个ROI
+            </summary>
+            <param name="temp"></param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.SetActiveRoi(System.Int32)">
+            <summary>
+            激活ROI
+            </summary>
+            <param name="iIndex">激活的roi坐标</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.DisplayHobject(HalconDotNet.HObject,System.String)">
+            <summary>
+            显示区域、轮廓
+            </summary>
+            <param name="ho_obj">Hobject类型的区域</param>
+            <param name="strColor">显示的区域颜色</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.DisplayHobject(HalconDotNet.HObject,System.String,System.String)">
+            <summary>
+            显示区域、轮廓
+            </summary>
+            <param name="ho_obj">Hobject类型的区域</param>
+            <param name="strColor">显示的区域颜色</param>
+            <param name="strFillType">显示的区域填充类型</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.DisplayHobject(HalconDotNet.HObject)">
+            <summary>
+            显示的区域
+            </summary>
+            <param name="Ho_obj">Hobject类型的区域</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.DispMesage(System.String,System.String,System.Int32,System.Int32,System.Boolean)">
+            <summary>
+            显示信息(王雅鹏)
+            </summary>
+            <param name="strMessage">显示的信息</param>
+            <param name="strColor">显示的颜色</param>
+            <param name="iRow">显示的信息的行位置</param>
+            <param name="iCol">显示信息的列位置</param>
+            <param name="bBox">是否显示框,只能是true,false</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewWindow.ViewWindow.DispMesage(System.String,System.String,System.Int32,System.Int32,System.Boolean,System.String,System.String,System.Int32)">
+            <summary>
+            显示信息(王雅鹏)
+            </summary>
+            <param name="strMessage">显示的信息</param>
+            <param name="strColor">显示的颜色</param>
+            <param name="iRow">显示的信息的行位置</param>
+            <param name="iCol">显示信息的列位置</param>
+            <param name="bBox">是否显示框,只能是true,false</param>
+            <param name="strFontName">字体</param>
+            <param name="strFonStyle">字体类型</param>
+            <param name="iFontSize">字体大小</param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewROI.Config.HObjectWithColor">
+            <summary>
+            内容摘要:显示xld和region 带有颜色
+            完成日期：2018年10月30日
+            版    本：V2.2
+            整    理：王雅鹏
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Config.HObjectWithColor.HObject">
+            <summary>
+            显示对象
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Config.HObjectWithColor.Color">
+            <summary>
+            显示颜色
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Config.HObjectWithColor.FillType">
+            <summary>
+            填充类型
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewROI.Config.HObjectWithColor.#ctor(HalconDotNet.HObject,System.String)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="ho_hbj">显示对象</param>
+            <param name="strColor">显示颜色</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewROI.Config.HObjectWithColor.#ctor(HalconDotNet.HObject,System.String,System.String)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="ho_hbj">显示对象</param>
+            <param name="strColor">显示颜色</param>
+            /// <param name="strFillType">填充类型</param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewROI.Config.MessageWithColor">
+            <summary>
+            内容摘要:本类是信息显示参数类
+            完成日期：2018年10月30日
+            版    本：V2.1
+            作    者:王雅鹏
+            整    理：王雅鹏
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Config.MessageWithColor.Message">
+            <summary>
+            显示信息
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Config.MessageWithColor.Color">
+            <summary>
+            信息颜色显示
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Config.MessageWithColor.Row">
+            <summary>
+            信息显示行位置
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Config.MessageWithColor.Col">
+            <summary>
+            显示信息列位置
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Config.MessageWithColor.bBox">
+            <summary>
+            是否显示框
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Config.MessageWithColor.Size">
+            <summary>
+            字体大小
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Config.MessageWithColor.FontType">
+            <summary>
+            字体类型
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Config.MessageWithColor.FontStyle">
+            <summary>
+            黑体
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewROI.Config.MessageWithColor.#ctor(System.String,System.String,System.Int32,System.Int32,System.Boolean,System.String,System.String,System.Int32)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="strMessage">显示信息</param>
+            <param name="strColor">显示信息颜色</param>
+            <param name="iRow">显示信息行位置</param>
+            <param name="iCol">显示信息列位置</param>
+            <param name="bBox">显示信息行位置</param>
+            <param name="strFontType">字体类型</param>
+            <param name="FontStyle">字体设置</param>
+            <param name="iSize">字体大小</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewROI.Config.MessageWithColor.#ctor(System.String,System.String,System.Int32,System.Int32,System.Boolean)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="strMessage">显示信息</param>
+            <param name="strColor">显示信息颜色</param>
+            <param name="iRow">显示信息行位置</param>
+            <param name="iCol">显示信息列位置</param>
+            <param name="bBox">显示信息行位置</param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewROI.Config.PointEventArgs">
+            <summary>
+            内容摘要:本类是获取鼠标点的坐标类
+            完成日期：2018年10月30日
+            版    本：V2.1
+            作    者:王雅鹏
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewROI.Config.PointEventArgs.Row">
+            <summary>
+            Row
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewROI.Config.PointEventArgs.Col">
+            <summary>
+            Column
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewROI.Config.PointEventArgs.#ctor(System.Int32,System.Int32)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="iRow">点的行坐标</param>
+            <param name="iCol">点的列坐标</param>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewROI.Config.LocationEventArgs">
+            <summary>
+            内容摘要:本类是获取鼠标点的坐标类
+            完成日期：2019年3月4日
+            版    本：V2.2
+            作    者:王雅鹏
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewROI.Config.LocationEventArgs.Row1">
+            <summary>
+            Row1(左上角)
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewROI.Config.LocationEventArgs.Col1">
+            <summary>
+            Column1(左上角)
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewROI.Config.LocationEventArgs.Row2">
+            <summary>
+            Row2(右上角)
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.ViewROI.Config.LocationEventArgs.Col2">
+            <summary>
+            Column2(右上角)
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewROI.Config.LocationEventArgs.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewROI.Config.LocationEventArgs.#ctor(GVS.HalconDisp.ViewROI.Config.LocationEventArgs)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="currentLocation">当前位置</param>
+        </member>
+        <member name="M:GVS.HalconDisp.ViewROI.Program.Main">
+            <summary>
+            应用程序的主入口点。
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.ViewROI.Properties.Resources">
+            <summary>
+              一个强类型的资源类，用于查找本地化的字符串等。
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Properties.Resources.ResourceManager">
+            <summary>
+              返回此类使用的缓存的 ResourceManager 实例。
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Properties.Resources.Culture">
+            <summary>
+              使用此强类型资源类，为所有资源查找
+              重写当前线程的 CurrentUICulture 属性。
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Properties.Resources.Delete">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Properties.Resources.删除ROI">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.ViewROI.Properties.Resources.无标题">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.Control.HWindow_Final">
+            <summary>
+            内容摘要:本类是显示窗口相关操作方法的实现
+            halcon鼠标缩放控件 
+            描述:
+            1, 必须首先通过this.HobjectToHimage(HObject hobject)传入图片,此图片称为"背景图"
+            2, 有了背景图,就可以通过本控件自定义的 this.DispObj(HObject hObj)显示HObject,类似原方法
+            3,默认显示红色,DispObj(HObject hObj,string color)可显示其他颜色
+            完成日期：2018年10月30日
+            版    本：V2.1
+            整    理：王雅鹏
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.HWindow_Final.DispLocationEnabled">
+            <summary>
+            是否显示保存当前位置选项卡
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.HWindow_Final.ViewWindowMethod">
+            <summary>
+             ViewWindow类中方法
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.HWindow_Final.HWindowCtrl">
+            <summary>
+             当前halcon窗口
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.HWindow_Final.m_bMouseEnterFocus">
+            <summary>
+            鼠标进入控件获取焦点
+            lyj
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.HWindow_Final.RatioImage">
+            <summary>
+            图像的比率
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.HWindow_Final.HWindowHalconID">
+            <summary>
+            获得halcon窗体控件的句柄
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.HWindow_Final.HWindowHalconHandle">
+            <summary>
+            获得显示句柄
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.HWindow_Final.DrawModel">
+            <summary>
+            绘制模式下,
+            不允许缩放和鼠标右键菜单
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.HWindow_Final.Image">
+            <summary>
+            设置image,初始化控件参数
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.HWindow_Final.EventMouseUpPoint">
+            <summary>
+            鼠标按下时传出点的事件 lyj
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.HWindow_Final.EventSaveLocation">
+            <summary>
+            获取位置事件
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.HWindow_Final.EventGetMousePoint">
+            <summary>
+            获取鼠标当前位置
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.#ctor">
+            <summary>
+            初始化控件
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.mCtrl_HWindow_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+            <summary>
+            鼠标按下传出事件的方法
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.SetConMenuVisible(System.Boolean)">
+            <summary>
+            设置右键是否可见
+            </summary>
+            <param name="bFalg"></param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.SetFocus">
+            <summary>
+            设置显示控件的焦点
+            lyj
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.GetHWindowControl">
+            <summary>
+            窗口名称
+            </summary>
+            <returns>返回HWindowControl类型窗口</returns>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.barVisible_strip_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            状态条 显示/
+            隐藏 CheckedChanged事件
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.ShowStatusBar(System.Boolean)">
+            <summary>
+            设置是否显示下面的显示框
+            </summary>
+            <param name="bFlag">true:显示；false:不显示</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.SaveWindowDump">
+            <summary>
+            保存窗体截图到本地
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.SaveWindowDump(System.String,System.String)">
+            <summary>
+            保存窗体截图到本地
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.SaveImage">
+            <summary>
+            保存原始图片到本地
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.DispImageFit(HalconDotNet.HWindowControl)">
+            <summary>
+            图片适应大小显示在窗体
+            </summary>
+            <param name="hw_Ctrl">halcon窗体控件</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.MoveImageEnableChanged">
+            <summary>
+            设置是否可平移图像
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.HWindowControl_HMouseMove(System.Object,HalconDotNet.HMouseEventArgs)">
+            <summary>
+            鼠标在空间窗体里滑动,显示鼠标所在位置的灰度值
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.ClearWindow">
+            <summary>
+            清空窗口
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.HobjectToHimage(HalconDotNet.HObject)">
+            <summary>
+            Hobject转换为的临时Himage,显示背景图
+            </summary>
+            <param name="hobject">传递Hobject,必须为图像</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.GetPartImage(GVS.HalconDisp.ViewROI.Config.LocationEventArgs@)">
+            <summary>
+            获取要显示部分区域的大小(王雅鹏2019/3/1)
+            </summary>
+            <param name="currentLocation">当前位置</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.SetPartImage(GVS.HalconDisp.ViewROI.Config.LocationEventArgs)">
+            <summary>
+            设置要显示部分区域的大小(王雅鹏2019/3/1)
+            </summary>
+            <param name="currentLocation">当前位置</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.mCtrl_HWindow_MouseLeave(System.Object,System.EventArgs)">
+            <summary>
+            鼠标离开事件
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.mCtrl_HWindow_MouseEnter(System.Object,System.EventArgs)">
+            <summary>
+            回车键
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.SetMouseEnterFocus(System.Boolean)">
+            <summary>
+            设置鼠标进入获取焦点
+            lyj
+            </summary>
+            <param name="bFlag">true:获取焦点，false:不获取焦点</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.DispObj(HalconDotNet.HObject)">
+            <summary>
+            默认红颜色显示
+            </summary>
+            <param name="hObj">传入的region.xld,image</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.DispObj(HalconDotNet.HObject,System.String)">
+            <summary>
+            重新开辟内存保存 防止被传入的HObject在其他地方dispose后,不能重现
+            </summary>
+            <param name="hObj">传入的region.xld,image</param>
+            <param name="color">颜色</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.DispObj(HalconDotNet.HObject,System.String,System.String)">
+            <summary>
+            重新开辟内存保存 防止被传入的HObject在其他地方dispose后,不能重现
+            </summary>
+            <param name="hObj">传入的region.xld,image</param>
+            <param name="color">颜色</param>
+            <param name="strFillType">填充类型</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.DisplayMessage(System.String,System.Int32,System.Int32,System.String,System.Boolean)">
+            <summary>
+            按字体颜色显示信息
+            </summary>
+            <param name="strMessage">显示的信息</param>
+            <param name="iRow">行</param>
+            <param name="iCol">列</param>
+            <param name="strColor">颜色</param>
+            <param name="bBox">是否显示框</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.DisplayMessage(System.String,System.Int32,System.Int32,System.String,System.Boolean,System.String,System.String,System.Int32)">
+            <summary>
+            按字体颜色显示信息
+            </summary>
+            <param name="strMessage">显示的信息</param>
+            <param name="iRow">行</param>
+            <param name="iCol">列</param>
+            <param name="strColor">颜色</param>
+            <param name="bBox">是否显示框</param>
+            <param name="strFontType">字体类型</param>
+            <param name="iSize">字体大小</param>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.HWindow_Final.components">
+            <summary> 
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.Dispose(System.Boolean)">
+            <summary> 
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.HWindow_Final.InitializeComponent">
+            <summary> 
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.Control.InternalMethods">
+            <summary>
+            内容摘要: 本文件的内容是halcon中的外部函数
+            完成日期：2018年10月2日
+            版    本：V2.1
+            作    者：laoneng
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.InternalMethods.GetInstance">
+            <summary>
+            方法实例
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.InternalMethods.disp_message(HalconDotNet.HTuple,HalconDotNet.HTuple,HalconDotNet.HTuple,HalconDotNet.HTuple,HalconDotNet.HTuple,HalconDotNet.HTuple,HalconDotNet.HTuple)">
+            <summary>
+            信息显示方法
+            </summary>
+            <param name="hv_WindowHandle">窗口句柄</param>
+            <param name="hv_String">字符串信息</param>
+            <param name="hv_CoordSystem">显示在图片上还是窗口上</param>
+            <param name="hv_Row">显示行坐标</param>
+            <param name="hv_Column">显示列坐标</param>
+            <param name="hv_Color">显示颜色</param>
+            <param name="hv_Box">是否显示边框</param>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.CirclularAnnulusSectionCtrl.CirclullarAnnulusSectionPara">
+            <summary>
+            圆弧参数类
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.CirclularAnnulusSectionCtrl.DispWindow">
+            <summary>
+            显示窗口
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.CirclularAnnulusSectionCtrl.EventUpdateCircluarAnnulusSection">
+            <summary>
+            圆环数据更新事件
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.CirclularAnnulusSectionCtrl.UpdateParas">
+            <summary>
+            数据更新
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.CirclularAnnulusSectionCtrl.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.CirclularAnnulusSectionCtrl.components">
+            <summary> 
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.CirclularAnnulusSectionCtrl.Dispose(System.Boolean)">
+            <summary> 
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.CirclularAnnulusSectionCtrl.InitializeComponent">
+            <summary> 
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.Control.RegionTypeParas">
+            <summary>
+            内容摘要:本类是区域形状
+            完成日期：2018年12月30日
+            版    本：V2.2
+            作    者:王雅鹏
+            整    理：王雅鹏
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.RegionTypeParas.MyCircle">
+            <summary>
+            圆
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.RegionTypeParas.MyPolygon">
+            <summary>
+            多边形
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.RegionTypeParas.MyRect1">
+            <summary>
+            矩形1
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.RegionTypeParas.MyRect2">
+            <summary>
+            矩形2
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.RegionTypeParas.MyEllipse">
+            <summary>
+            椭圆
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.RegionTypeParas.MyCircularAnnulusSection">
+            <summary>
+            圆环
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.RegionTypeParas.RegType">
+            <summary>
+            区域的方式
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.RegionTypeParas.Reg">
+            <summary>
+            输出区域
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeParas.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeParas.CopyFrom(GVS.HalconDisp.Control.RegionTypeParas,HalconDotNet.HTuple)">
+            <summary>
+            复制变换
+            </summary>
+            <param name="Regs">输入区域</param>
+            <param name="hv_Affine">变换</param>
+            <returns></returns>
+        </member>
+        <member name="T:GVS.HalconDisp.Control.RegionType">
+            <summary>
+            区域形状
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.RegionType.图片">
+            <summary>
+            整幅图像
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.RegionType.矩形1">
+            <summary>
+            矩形1
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.RegionType.矩形2">
+            <summary>
+            矩形2
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.RegionType.圆">
+            <summary>
+            圆
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.RegionType.多边形">
+            <summary>
+            多边形
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.RegionType.椭圆">
+            <summary>
+            椭圆
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.RegionType.圆环">
+            <summary>
+            圆环
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.Control.ListPicCtrl">
+            <summary>
+            内容摘要:本类是带方向多窗口实现
+            完成日期：2020年3月25日
+            版    本：V2.1
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.ListPicCtrl.m_list">
+            <summary>
+            窗口个数存储
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.ListPicCtrl.Describe">
+            <summary>
+            每个窗口的描述
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.ListPicCtrl.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.ListPicCtrl.UpdataImageDisp(System.Int32,System.Collections.Generic.List{GVS.HalconDisp.Control.HWindow_Final}@)">
+            <summary>
+            更新显示图像列表
+            </summary>
+            <param name="DispNum">窗口的个数</param>
+            <param name="ListPic">传出图像控件的列表</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.ListPicCtrl.Display(System.Int32,System.Collections.Generic.List{GVS.HalconDisp.Control.HWindow_Final})">
+            <summary>
+            根据窗口个数显示
+            </summary>
+            <param name="DispNum">窗口个数</param>
+            <param name="ListPic">存储的窗口容器</param>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.ListPicCtrl.components">
+            <summary> 
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.ListPicCtrl.Dispose(System.Boolean)">
+            <summary> 
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.ListPicCtrl.InitializeComponent">
+            <summary> 
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.Control.PolygonCtrl">
+            <summary>
+            内容摘要:本类是多边形界面相关实现
+            完成日期：2018年11月26日
+            版    本：V2.1
+            作    者:王雅鹏
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonCtrl.m_dispWindow">
+            <summary>
+            显示窗口
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonCtrl.m_polygonPara">
+            <summary>
+            多边形参数
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonCtrl.m_listRoi">
+            <summary>
+            存储ROI
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonCtrl.MouseRow">
+            <summary>
+            鼠标行坐标
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonCtrl.MouseCol">
+            <summary>
+            鼠标列坐标
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonCtrl.m_hoImg">
+            <summary>
+            显示图像
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonCtrl.m_bUpdated">
+            <summary>
+            是否已经更新完成 lyj 20190130
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.PolygonCtrl.DisplayEditReg">
+            <summary>
+            是否允许更新显示
+            lyj 
+            20190220
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.PolygonCtrl.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.PolygonCtrl.AddPoint">
+            <summary>
+            添加点方法
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.PolygonCtrl.UpdateGideView">
+            <summary>
+            判断点击的是哪一行将添加数据更新至DataGrideView
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.PolygonCtrl.ComparePolygonPointDistance(System.Double,System.Double,System.Int32@)">
+            <summary>
+            计算与鼠标的距离，输出最小距离的索引
+            </summary>
+            <param name="dRow">鼠标Y</param>
+            <param name="dCol">鼠标X</param>
+            <param name="iIndex">输出索引</param>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonCtrl.components">
+            <summary> 
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.PolygonCtrl.Dispose(System.Boolean)">
+            <summary> 
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.PolygonCtrl.InitializeComponent">
+            <summary> 
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.Control.PolygonLineCtrl">
+            <summary>
+            内容摘要:本类是折线界面相关实现
+            完成日期：2018年11月26日
+            版    本：V2.1
+            作    者:王雅鹏
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonLineCtrl.m_dispWindow">
+            <summary>
+            显示窗口
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonLineCtrl.m_polygonLineParas">
+            <summary>
+            多边形参数
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonLineCtrl.m_listRoi">
+            <summary>
+            存储ROI
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonLineCtrl.MouseRow">
+            <summary>
+            鼠标行坐标
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonLineCtrl.MouseCol">
+            <summary>
+            鼠标列坐标
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonLineCtrl.m_hoImg">
+            <summary>
+            显示图像
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonLineCtrl.ho_polygonLine">
+            <summary>
+            输出的折线轮廓
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.PolygonLineCtrl.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.PolygonLineCtrl.AddPoint">
+            <summary>
+            添加点方法
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.PolygonLineCtrl.UpdateGideView">
+            <summary>
+            判断点击的是哪一行将添加数据更新至DataGrideView
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.PolygonLineCtrl.ComparePolygonLinePointDistance(System.Double,System.Double,System.Int32@)">
+            <summary>
+            计算与鼠标的距离，输出最小距离的索引
+            </summary>
+            <param name="dRow">鼠标Y</param>
+            <param name="dCol">鼠标X</param>
+            <param name="iIndex">输出索引</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.PolygonLineCtrl.GetPolygonLinePixels(GVS.HalconDisp.ViewWindow.Config.PolygonLine,HalconDotNet.HObject@,System.Collections.Generic.List{System.Double}@)">
+            <summary>
+            获取折线的所有像素点
+            </summary>
+            <param name="polygonLine">输入折线的参数</param>
+            <param name="ho_polygonLine">输出轮廓</param>
+            <param name="listDistance">相邻两点间的距离</param>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.PolygonLineCtrl.components">
+            <summary> 
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.PolygonLineCtrl.Dispose(System.Boolean)">
+            <summary> 
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.PolygonLineCtrl.InitializeComponent">
+            <summary> 
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="T:GVS.HalconDisp.Control.RegionTypeCtrl">
+            <summary>
+            内容摘要:本类是区域形状切换
+            完成日期：2018年12月30日
+            版    本：V2.2
+            作    者:王雅鹏
+            整    理：王雅鹏
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.RegionTypeCtrl.RegPara">
+            <summary>
+            参数类
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.RegionTypeCtrl.DispCtrl">
+            <summary>
+            显示控件
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.RegionTypeCtrl.HoImg">
+             <summary>
+            图片 
+             </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.RegionTypeCtrl.m_bLoad">
+            <summary>
+            窗体是否已经加载 lyj 20190213
+            </summary>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.RegionTypeCtrl.m_bChangedEnable">
+            <summary>
+            是否可以根据控件的值重绘
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.RegionTypeCtrl.DisplayEditReg">
+            <summary>
+            是否显示编辑区域
+            lyj 
+            20190220
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.UpdateRegionType">
+            <summary>
+            区域类型更新
+            </summary>
+        </member>
+        <member name="P:GVS.HalconDisp.Control.RegionTypeCtrl.ListROI">
+            <summary>
+            外部传入的区域集合
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.UpdatePara">
+            <summary>
+            数据更新
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.GenReg">
+            <summary>
+            生成可编辑的区域
+            lyj 20190220
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.UpdatePolygonPara">
+            <summary>
+            更新多边形数据
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.UpdateCirclularAnnulusSectinPara">
+            <summary>
+            更新圆环数据
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.UpdateCirclePara">
+            <summary>
+            更新圆数据
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.UpdateEllipseParas">
+            <summary>
+            更新椭圆数据
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.UpdateRect2Para">
+            <summary>
+            更新矩形2数据
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.UpdateRect1Paras">
+            <summary>
+            更新矩形1数据
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.VisiableControl(System.Boolean)">
+            <summary>
+            显示panel上的控件
+            </summary>
+            <param name="bFlag">false:不显示</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.VisiableCircleAnnuControl(System.Boolean)">
+            <summary>
+            显示panel上的控件
+            </summary>
+            <param name="bFlag">false:不显示</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.UpdateRect1Length1">
+            <summary>
+            更新矩形1边长1
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.UpdateRect2Length1">
+            <summary>
+            更新矩形2边长1
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.UpdateRect1Length2">
+            <summary>
+            更新矩形1边长2
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.UpdateRect2Length2">
+            <summary>
+            更新矩形2边长2
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.SetRegTypeGroup(GVS.HalconDisp.Control.RegionType[])">
+            <summary>
+            设置区域方式组
+            </summary>
+            <param name="types"></param>
+        </member>
+        <member name="F:GVS.HalconDisp.Control.RegionTypeCtrl.components">
+            <summary> 
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.Dispose(System.Boolean)">
+            <summary> 
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:GVS.HalconDisp.Control.RegionTypeCtrl.InitializeComponent">
+            <summary> 
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+    </members>
+</doc>

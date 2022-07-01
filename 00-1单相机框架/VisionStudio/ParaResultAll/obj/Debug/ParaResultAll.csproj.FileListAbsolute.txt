@@ -1,0 +1,483 @@
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\Native.ParaResultAll.manifest
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\11-SvsCheckRough.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\Basler.Pylon.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommonMethod.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommunicationTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DllInterface.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DoeModual.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\MvCameraControl.Net.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsBaslerCamera.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsBlob.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsComputeCenter.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsDoeTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsMVSCamera.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsPatMax.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsSingleCameraModual.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsTcpCommunicate.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsVision.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsFindLineTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\11-SvsCheckRough.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\Basler.Pylon.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommonMethod.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommonMethod.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommunicationTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommunicationTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DllInterface.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DllInterface.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DoeModual.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DoeModual.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\MvCameraControl.Net.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsBaslerCamera.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsBaslerCamera.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsBlob.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsComputeCenter.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsComputeCenter.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsDoeTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsDoeTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsFindCircleTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsMVSCamera.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsMVSCamera.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsSingleCameraModual.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsSingleCameraModual.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsTcpCommunicate.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsTcpCommunicate.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsVision.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsVision.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\obj\Debug\Native.ParaResultAll.manifest
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\obj\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\obj\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\Native.ParaResultAll.manifest
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\Basler.Pylon.dll
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\11-SvsCheckRough.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\Basler.Pylon.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommonMethod.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommonMethod.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommunicationTool.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommunicationTool.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DllInterface.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DllInterface.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DoeModual.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DoeModual.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\MvCameraControl.Net.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsBaslerCamera.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsBaslerCamera.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsBlob.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsComputeCenter.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsComputeCenter.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsDoeTool.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsDoeTool.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsFindCircleTool.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsMVSCamera.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsMVSCamera.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsSingleCameraModual.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsSingleCameraModual.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsTcpCommunicate.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsTcpCommunicate.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsVision.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsVision.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsFindLineTool.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\obj\Debug\ParaResultAll.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\obj\Debug\Native.ParaResultAll.manifest
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\obj\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\ParaResultAll\obj\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\Native.ParaResultAll.manifest
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\11-SvsCheckRough.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\Basler.Pylon.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommonMethod.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommunicationTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DllInterface.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DoeModual.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\MvCameraControl.Net.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsBaslerCamera.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsBlob.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsComputeCenter.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsDoeTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsMVSCamera.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsPatMax.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsSingleCameraModual.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsTcpCommunicate.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsVision.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\11-SvsCheckRough.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\Basler.Pylon.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommonMethod.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommonMethod.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommunicationTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\CommunicationTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DllInterface.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DllInterface.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DoeModual.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\DoeModual.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\MvCameraControl.Net.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsBaslerCamera.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsBaslerCamera.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsBlob.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsComputeCenter.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsComputeCenter.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsDoeTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsDoeTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsFindCircleTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsMVSCamera.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsMVSCamera.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsSingleCameraModual.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsSingleCameraModual.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsTcpCommunicate.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsTcpCommunicate.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsVision.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\SvsVision.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\obj\Debug\Native.ParaResultAll.manifest
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\obj\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\ParaResultAll\obj\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\ParaResultAll\obj\Debug\ParaResultAll.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\Native.ParaResultAll.manifest
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\11-SvsCheckRough.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\Basler.Pylon.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\CommonMethod.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\CommunicationTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\DllInterface.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\DoeModual.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\MvCameraControl.Net.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsBaslerCamera.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsBlob.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsComputeCenter.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsDoeTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsMVSCamera.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsPatMax.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsSingleCameraModual.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsTcpCommunicate.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsVision.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\11-SvsCheckRough.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\Basler.Pylon.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\CommonMethod.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\CommonMethod.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\CommunicationTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\CommunicationTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\DllInterface.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\DllInterface.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\DoeModual.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\DoeModual.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\MvCameraControl.Net.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsBaslerCamera.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsBaslerCamera.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsBlob.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsComputeCenter.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsComputeCenter.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsDoeTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsDoeTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsFindCircleTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsMVSCamera.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsMVSCamera.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsSingleCameraModual.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsSingleCameraModual.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsTcpCommunicate.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsTcpCommunicate.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsVision.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsVision.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\SvsFindLineTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\obj\Debug\ParaResultAll.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\obj\Debug\Native.ParaResultAll.manifest
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\obj\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\ParaResultAll\obj\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\Native.ParaResultAll.manifest
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\11-SvsCheckRough.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\Basler.Pylon.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\CommonMethod.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\CommunicationTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\DllInterface.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\DoeModual.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\MvCameraControl.Net.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsBaslerCamera.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsBlob.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsComputeCenter.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsDoeTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsMVSCamera.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsPatMax.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsSingleCameraModual.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsTcpCommunicate.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsVision.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsFindLineTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\11-SvsCheckRough.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\Basler.Pylon.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\CommonMethod.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\CommonMethod.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\CommunicationTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\CommunicationTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\DllInterface.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\DllInterface.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\DoeModual.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\DoeModual.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\MvCameraControl.Net.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsBaslerCamera.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsBaslerCamera.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsBlob.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsComputeCenter.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsComputeCenter.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsDoeTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsDoeTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsFindCircleTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsMVSCamera.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsMVSCamera.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsSingleCameraModual.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsSingleCameraModual.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsTcpCommunicate.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsTcpCommunicate.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsVision.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsVision.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsFindLineTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\SvsFindLineTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\obj\Debug\ParaResultAll.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\obj\Debug\Native.ParaResultAll.manifest
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\obj\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\ParaResultAll\obj\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsBlob.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsPatMax.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsBlob.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsFindCircleTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsBlob.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsFindCircleTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsPatMax.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsBlob.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsFindCircleTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsFindCircleTool.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsPatMax.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsPatMax.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.csprojResolveAssemblyReference.cache
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ParaResultAll.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ParaResultAll.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\halcondotnet.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvBlobTool.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvMask.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsBlob.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsFindCircleTool.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsPatMax.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\GVS.halconDispCtrl.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ToolInterFace.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvBlobTool.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvMask.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvMask.xml
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsBlob.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsFindCircleTool.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsFindCircleTool.xml
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsPatMax.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsPatMax.xml
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\GVS.halconDispCtrl.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\GVS.halconDispCtrl.xml
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ToolInterFace.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ToolInterFace.xml
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.csprojResolveAssemblyReference.cache
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ParaResultAll.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ParaResultAll.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\halcondotnet.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvBlobTool.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvMask.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsBlob.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsFindCircleTool.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsPatMax.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\GVS.halconDispCtrl.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ToolInterFace.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvBlobTool.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvMask.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvMask.xml
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsBlob.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsFindCircleTool.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsFindCircleTool.xml
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsPatMax.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsPatMax.xml
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\GVS.halconDispCtrl.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\GVS.halconDispCtrl.xml
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ToolInterFace.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ToolInterFace.xml
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.csprojResolveAssemblyReference.cache
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ParaResultAll.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ParaResultAll.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\GVS.halconDispCtrl.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ToolInterFace.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvMask.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvMask.xml
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsFindCircleTool.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsFindCircleTool.xml
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsPatMax.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsPatMax.xml
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\GVS.halconDispCtrl.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\GVS.halconDispCtrl.xml
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ToolInterFace.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\ToolInterFace.xml
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.csprojResolveAssemblyReference.cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvBlobTool.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvMask.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsFindCircleTool.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ParaResultAll\bin\Debug\SvsPatMax.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\ParaResultAll.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\ParaResultAll.pdb
+D:\00-1单相机框架\00-dll生成\ParaResultAll.dll
+D:\00-1单相机框架\00-dll生成\ParaResultAll.pdb
+D:\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.csprojAssemblyReference.cache
+D:\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.csproj.CopyComplete
+D:\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.dll
+D:\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.pdb
+D:\code2022\00-1单相机框架\00-dll生成\ParaResultAll.dll
+D:\code2022\00-1单相机框架\00-dll生成\ParaResultAll.pdb
+D:\code2022\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.csproj.AssemblyReference.cache
+D:\code2022\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.csproj.CoreCompileInputs.cache
+D:\code2022\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.csproj.CopyComplete
+D:\code2022\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.dll
+D:\code2022\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.pdb
+D:\code2022\备份\00-1单相机框架\00-dll生成\ParaResultAll.dll
+D:\code2022\备份\00-1单相机框架\00-dll生成\ParaResultAll.pdb
+D:\code2022\备份\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.csproj.AssemblyReference.cache
+D:\code2022\备份\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.csproj.CoreCompileInputs.cache
+D:\code2022\备份\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.csproj.CopyComplete
+D:\code2022\备份\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.dll
+D:\code2022\备份\00-1单相机框架\VisionStudio\ParaResultAll\obj\Debug\ParaResultAll.pdb

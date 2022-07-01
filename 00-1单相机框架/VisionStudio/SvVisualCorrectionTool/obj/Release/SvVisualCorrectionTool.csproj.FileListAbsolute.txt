@@ -1,0 +1,4 @@
+E:\通用软件\00-1单相机框架\VisionStudio\SvVisualCorrectionTool\obj\Release\SvVisualCorrectionTool.Properties.Resources.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvVisualCorrectionTool\obj\Release\SvVisualCorrectionTool.SvVisualCorrectionToolForm.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvVisualCorrectionTool\obj\Release\SvVisualCorrectionTool.csproj.GenerateResource.cache
+E:\通用软件\00-1单相机框架\VisionStudio\SvVisualCorrectionTool\obj\Release\SvVisualCorrectionTool.csprojAssemblyReference.cache

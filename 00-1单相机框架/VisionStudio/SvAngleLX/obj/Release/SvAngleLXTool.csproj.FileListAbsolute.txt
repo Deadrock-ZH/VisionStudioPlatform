@@ -1,0 +1,4 @@
+E:\通用软件\00-1单相机框架\VisionStudio\SvAngleLX\obj\Release\SvAngleLXTool.csprojAssemblyReference.cache
+E:\通用软件\00-1单相机框架\VisionStudio\SvAngleLX\obj\Release\SvAngleLXTool.Properties.Resources.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvAngleLX\obj\Release\SvAngleLX.SvAngleLXForm.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvAngleLX\obj\Release\SvAngleLXTool.csproj.GenerateResource.cache

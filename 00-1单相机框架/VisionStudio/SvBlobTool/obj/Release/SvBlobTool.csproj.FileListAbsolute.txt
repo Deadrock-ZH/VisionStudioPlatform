@@ -1,0 +1,4 @@
+E:\通用软件\00-1单相机框架\VisionStudio\SvBlobTool\obj\Release\SvBlobTool.csprojAssemblyReference.cache
+E:\通用软件\00-1单相机框架\VisionStudio\SvBlobTool\obj\Release\SvBlobTool.BlobToolForm.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvBlobTool\obj\Release\SvBlobTool.Properties.Resources.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvBlobTool\obj\Release\SvBlobTool.csproj.GenerateResource.cache

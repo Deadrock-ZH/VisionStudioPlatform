@@ -1,0 +1,149 @@
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\bin\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\bin\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLCTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvsPLC\bin\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvsPLC\bin\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvsPLC\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvsPLC\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvsPLC\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLCTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLCTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-00单相机框架\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvsPLC\bin\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvsPLC\bin\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvsPLC\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvsPLC\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvsPLC\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLCTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-1单相机框架\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLCTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvsPLC\obj\Debug\SvsPLCTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvsPLC\bin\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvsPLC\bin\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvsPLC\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvsPLC\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvsPLC\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvsPLC\obj\Debug\SvsPLCTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvsPLC\obj\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2 - 副本\SvsPLC\obj\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvsPLC\bin\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvsPLC\bin\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvsPLC\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvsPLC\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvsPLC\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvsPLC\obj\Debug\SvsPLCTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvsPLC\obj\Debug\SvsPLCTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvsPLC\obj\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2多个定位\SvsPLC\obj\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.pdb
+D:\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.pdb
+D:\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\System.Net.Http.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\System.Net.Http.xml
+D:\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+D:\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+D:\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csproj.GenerateResource.Cache
+D:\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.dll
+D:\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.pdb
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.pdb
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\System.Net.Http.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\System.Net.Http.xml
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csproj.GenerateResource.Cache
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.dll
+D:\通用软件\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.pdb
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\System.Net.Http.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\System.Net.Http.xml
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.dll
+E:\视觉模块 统一接口\00-1单相机框架\通用软件1\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csprojResolveAssemblyReference.cache
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csproj.GenerateResource.Cache
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csprojResolveAssemblyReference.cache
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csproj.GenerateResource.Cache
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsPLC\bin\Debug\SvsPLC.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csprojResolveAssemblyReference.cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csproj.GenerateResource.Cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvsPLC.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvsPLC.pdb
+D:\00-1单相机框架\00-dll生成\SvsPLC.dll
+D:\00-1单相机框架\00-dll生成\SvsPLC.pdb
+D:\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+D:\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+D:\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csproj.GenerateResource.cache
+D:\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csproj.CopyComplete
+D:\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.dll
+D:\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.pdb
+D:\code2022\00-1单相机框架\00-dll生成\SvsPLC.dll
+D:\code2022\00-1单相机框架\00-dll生成\SvsPLC.pdb
+D:\code2022\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csproj.AssemblyReference.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.PLCForm.resources
+D:\code2022\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.Properties.Resources.resources
+D:\code2022\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csproj.GenerateResource.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csproj.CoreCompileInputs.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLCTool.csproj.CopyComplete
+D:\code2022\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.dll
+D:\code2022\00-1单相机框架\VisionStudio\SvsPLC\obj\Debug\SvsPLC.pdb

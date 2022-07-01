@@ -1,0 +1,910 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CommunicationTool</name>
+    </assembly>
+    <members>
+        <member name="F:SvsCommunicationTool.FrmCommunication.m_PlcMethod">
+            <summary>
+            PLC通信方法类
+            </summary>
+        </member>
+        <member name="F:SvsCommunicationTool.FrmCommunication.m_ClientMethod">
+            <summary>
+            客户端方法类
+            </summary>
+        </member>
+        <member name="F:SvsCommunicationTool.FrmCommunication.m_ServerMethod">
+            <summary>
+            服务端方法类
+            </summary>
+        </member>
+        <member name="F:SvsCommunicationTool.FrmCommunication.m_bPLCConnect">
+            <summary>
+            PLC连接
+            </summary>
+        </member>
+        <member name="M:SvsCommunicationTool.FrmCommunication.#ctor(SvsCommunicationTool.CommunicationMethod,SvsTcpCommunicate.SvsTcpClientMethod,SvsTcpCommunicate.SvsTcpServerMethod)">
+            <summary>
+            构造方法
+            </summary>
+            <param name="PlcMethod">PLC方法类</param>
+            <param name="ClientMethod">客户端方法类</param>
+            <param name="ServerMethod">服务端方法类</param>
+        </member>
+        <member name="M:SvsCommunicationTool.FrmCommunication.UpdateParaToCtrl">
+            <summary>
+            更新参数至控件
+            </summary>
+        </member>
+        <member name="M:SvsCommunicationTool.FrmCommunication.GetPlcDataMethod(System.Object,System.EventArgs)">
+            <summary>
+            将从plc获取到的信息添加至控件
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:SvsCommunicationTool.FrmCommunication.StringToBytes16(System.String)" -->
+        <member name="F:SvsCommunicationTool.FrmCommunication.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:SvsCommunicationTool.FrmCommunication.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:SvsCommunicationTool.FrmCommunication.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:SvsCommunicationTool.CommunicationMethod">
+            <summary>
+            通信方法类
+            </summary>
+        </member>
+        <member name="F:SvsCommunicationTool.CommunicationMethod.EventGetPlcData">
+            <summary>
+            获取PLC发送数据的事件
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.CommunicationMethod.Para">
+            <summary>
+            参数类
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.CommunicationMethod.InputImage">
+            <summary>
+            输入图像
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.CommunicationMethod.RunTime">
+            <summary>
+            运行时间
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.CommunicationMethod.RunMsg">
+            <summary>
+            运行信息
+            </summary>
+        </member>
+        <member name="F:SvsCommunicationTool.CommunicationMethod.m_TcpClient">
+            <summary>
+            tcp
+            </summary>
+        </member>
+        <member name="F:SvsCommunicationTool.CommunicationMethod.m_UdpClient">
+            <summary>
+            ormonUDP
+            </summary>
+        </member>
+        <member name="F:SvsCommunicationTool.CommunicationMethod.m_NetReadstream">
+            <summary>
+            读取数据
+            </summary>
+        </member>
+        <member name="F:SvsCommunicationTool.CommunicationMethod.m_Readstream">
+            <summary>
+            读取数据
+            </summary>
+        </member>
+        <member name="F:SvsCommunicationTool.CommunicationMethod.m_sWriter">
+            <summary>
+            发送数据
+            </summary>
+        </member>
+        <member name="F:SvsCommunicationTool.CommunicationMethod.ReceivePLCThread">
+            <summary>
+            获取信息线程
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.CommunicationMethod.GetData">
+            <summary>
+            获取的消息
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.CommunicationMethod.SendData">
+            <summary>
+            要发送的数据
+            </summary>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationMethod.Save(System.Object,System.String)">
+            <summary>
+            保存成功
+            </summary>
+            <param name="obj">保存对象</param>
+            <param name="filename">路径</param>
+            <returns>true：保存成功</returns>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationMethod.Load(System.Type,System.String)">
+            <summary>
+            文件化XML反序列化
+            </summary>
+            <param name="type">对象类型</param>
+            <param name="filename">文件路径</param>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationMethod.Run">
+            <summary>
+            运行(发送)
+            </summary>
+            <returns>true：运行成功</returns>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationMethod.Send_OMRONUDP_PLC(System.String)">
+            <summary>
+            欧姆龙连接
+            </summary>
+            <param name="msg">连接信息</param>
+            <returns>true:连接成功</returns>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationMethod.Send_keyence_PLC(System.String)">
+            <summary>
+            基恩士发送数据，数据之间以空格隔开，1 2 3 4 
+            </summary>
+            <param name="strSendData">发送的数据，数据之间以空格隔开</param>
+            <returns>true：发送成功</returns>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationMethod.Send_Mitsubishi_PLC(System.String)">
+            <summary>
+            三菱发送数据，数据之间以空格隔开1 2 3 4
+            </summary>
+            <param name="strSendData">发送的数据</param>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationMethod.RepairZero(System.String,System.Int32)">
+            <summary>
+            数据转换，高低位互换
+            </summary>
+            <param name="strData">转换数据</param>
+            <param name="limitedLength">数据限制位数</param>
+            <returns>返回转换成功的数据</returns>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationMethod.Connect">
+            <summary>
+            连接
+            </summary>
+            <returns>true：连接成功</returns>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationMethod.Connect_keyence_PLC(System.String@)">
+            <summary>
+            基恩士连接方法
+            </summary>
+            <param name="msg">连接是否成功信息</param>
+            <returns>true：连接成功</returns>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationMethod.Connect_Mitsubishi_PLC(System.String@)">
+            <summary>
+            三菱连接
+            </summary>
+            <param name="msg">输出连接信息</param>
+            <returns>true:连接成功</returns>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationMethod.Connect_OMRONUDP_PLC(System.String@)">
+            <summary>
+            欧姆龙连接
+            </summary>
+            <param name="msg">连接信息</param>
+            <returns>true:连接成功</returns>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationMethod.Connect_OMRON_PLC(System.String@)">
+            <summary>
+            欧姆龙连接
+            </summary>
+            <param name="msg">连接信息</param>
+            <returns>true:连接成功</returns>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationMethod.Receive_keyence_Mitsubishi_Data">
+            <summary>
+            线程方法
+            </summary>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationMethod.ThreadStartReceive">
+            <summary>
+            基恩士、三菱获取信息线程
+            </summary>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationMethod.ThreadCloseReceive">
+            <summary>
+            基恩士、三菱关闭
+            </summary>
+        </member>
+        <member name="T:SvsCommunicationTool.CommunicationType">
+            <summary>
+            通信类型
+            </summary>
+        </member>
+        <member name="T:SvsCommunicationTool.PLCPara">
+            <summary>
+            通信总类
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.PLCPara.LocalIP">
+            <summary>
+            本地IP地址
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.PLCPara.ServerIP">
+            <summary>
+            服务端IP地址
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.PLCPara.Port">
+            <summary>
+            端口号
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.PLCPara.PlCType">
+            <summary>
+            通信类型
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.PLCPara.JESPara">
+            <summary>
+            基恩士参数类
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.PLCPara.SLPara">
+            <summary>
+            三菱参数类
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.PLCPara.OrmonPara">
+            <summary>
+            欧姆龙参数类
+            </summary>
+        </member>
+        <member name="M:SvsCommunicationTool.PLCPara.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="T:SvsCommunicationTool.CommunicationPara">
+            <summary>
+            单个通信类
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.CommunicationPara.IP">
+            <summary>
+            IP地址
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.CommunicationPara.Port">
+            <summary>
+            端口号
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.CommunicationPara.SLAddress">
+            <summary>
+            三菱头部固定
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.CommunicationPara.StartAddress">
+            <summary>
+            三菱起始地址
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.CommunicationPara.StandNo">
+            <summary>
+            三菱站号
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.CommunicationPara.DataLength">
+            <summary>
+            三菱请求数据长度
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.CommunicationPara.JESAddress">
+            <summary>
+            基恩士地址
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.CommunicationPara.DataNum">
+            <summary>
+            基恩士数据位数
+            </summary>
+        </member>
+        <member name="P:SvsCommunicationTool.CommunicationPara.FirstAddress">
+            <summary>
+            欧姆龙fins首地址
+            </summary>
+        </member>
+        <member name="M:SvsCommunicationTool.CommunicationPara.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="T:CommunicationTool.Paras">
+            <summary>
+            通信参数类
+            </summary>
+        </member>
+        <member name="P:CommunicationTool.Paras.ParaPLC">
+            <summary>
+            PLC参数类
+            </summary>
+        </member>
+        <member name="M:CommunicationTool.Paras.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="T:CommunicationTool.Properties.Resources">
+            <summary>
+              一个强类型的资源类，用于查找本地化的字符串等。
+            </summary>
+        </member>
+        <member name="P:CommunicationTool.Properties.Resources.ResourceManager">
+            <summary>
+              返回此类使用的缓存的 ResourceManager 实例。
+            </summary>
+        </member>
+        <member name="P:CommunicationTool.Properties.Resources.Culture">
+            <summary>
+              使用此强类型资源类，为所有资源查找
+              重写当前线程的 CurrentUICulture 属性。
+            </summary>
+        </member>
+        <member name="P:CommunicationTool.Properties.Resources._1498180">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:CommunicationTool.Properties.Resources._1601572">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:CommunicationTool.Properties.Resources._299004">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:CommunicationTool.Properties.Resources.q10">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:CommunicationTool.Properties.Resources.resizeApi123">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:CommunicationTool.Properties.Resources.resizeApi1234">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:CommunicationTool.Properties.Resources.保存1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:CommunicationTool.Properties.Resources.服务">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="F:SvsTcpCommunicate.FrmTCPServer.serverIP">
+            <summary>
+            IP 
+            </summary>
+        </member>
+        <member name="F:SvsTcpCommunicate.FrmTCPServer.port">
+            <summary>
+            端口
+            </summary>
+        </member>
+        <member name="F:SvsTcpCommunicate.FrmTCPServer.obj">
+            <summary>
+            锁
+            </summary>
+        </member>
+        <member name="F:SvsTcpCommunicate.FrmTCPServer.sendInt">
+            <summary>
+            发送信息
+            </summary>
+        </member>
+        <member name="F:SvsTcpCommunicate.FrmTCPServer.DicTreeIPEndPoint">
+            <summary>
+            Socket初始化
+            </summary>
+        </member>
+        <member name="F:SvsTcpCommunicate.FrmTCPServer.m_method">
+            <summary>
+            方法类
+            </summary>
+        </member>
+        <member name="M:SvsTcpCommunicate.FrmTCPServer.#ctor(SvsTcpCommunicate.SvsTcpServerMethod)">
+            <summary>
+            构造方法
+            </summary>
+            <param name="method">方法类</param>
+        </member>
+        <member name="M:SvsTcpCommunicate.FrmTCPServer.treeViewClientList_DrawNode(System.Object,System.Windows.Forms.DrawTreeNodeEventArgs)">
+            <summary>        
+            绘制颜色   
+            </summary>      
+             <param name="sender"></param>       
+             <param name="e"></param>   
+        </member>
+        <member name="M:SvsTcpCommunicate.FrmTCPServer.StartServerToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>       
+            开启服务      
+            </summary>    
+            <param name="sender"></param>    
+            <param name="e"></param>     
+        </member>
+        <member name="M:SvsTcpCommunicate.FrmTCPServer.StopServerToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>        
+            停止服务监听       
+            </summary>        
+            <param name="sender"></param>      
+            <param name="e"></param>  
+        </member>
+        <member name="M:SvsTcpCommunicate.FrmTCPServer.Rev(SvsTcpCommunicate.SocketPara)">
+            <summary>       
+            处理接收到客户端的请求和数据     
+            </summary>       
+            <param name="sks"></param>    
+        </member>
+        <member name="M:SvsTcpCommunicate.FrmTCPServer.FrmTCPServer_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+            <summary>       
+             关闭程序钱停止服务器实例  
+             </summary>     
+             <param name="sender"></param>     
+             <param name="e"></param>       
+        </member>
+        <member name="F:SvsTcpCommunicate.FrmTCPServer.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:SvsTcpCommunicate.FrmTCPServer.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:SvsTcpCommunicate.FrmTCPServer.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:SvsTcpCommunicate.FrmTCPClient.Rec(SvsTcpCommunicate.SocketPara)">
+            <summary>        
+            处理推送过来的消息     
+            </summary>       
+            <param name="rec"></param>    
+        </member>
+        <member name="F:SvsTcpCommunicate.FrmTCPClient.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:SvsTcpCommunicate.FrmTCPClient.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:SvsTcpCommunicate.FrmTCPClient.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:SvsTcpCommunicate.SocketObject.InitSocket(System.Net.IPAddress,System.Int32)">
+            <summary>        
+            初始化Socket方法       
+            </summary>       
+            <param name="ipAddress">ip</param>        
+            <param name="port">端口号</param>        
+        </member>
+        <member name="M:SvsTcpCommunicate.SocketObject.InitSocket">
+            <summary>        
+            初始化Socket方法       
+            </summary>           
+        </member>
+        <member name="M:SvsTcpCommunicate.SocketObject.InitSocket(SvsTcpCommunicate.SocketPara)">
+            <summary>
+            初始化Socket
+            </summary>
+            <param name="Para">参数类</param>
+        </member>
+        <member name="M:SvsTcpCommunicate.SocketObject.InitSocket(System.String,System.Int32)">
+            <summary>
+            初始化Socket方法
+            </summary>
+            <param name="ipAddress">Ip</param>
+            <param name="port">端口号</param>
+        </member>
+        <member name="M:SvsTcpCommunicate.SocketObject.Start">
+            <summary>       
+            Socket启动方法       
+            </summary>        
+        </member>
+        <member name="M:SvsTcpCommunicate.SocketObject.Stop">
+            <summary>        
+            Sockdet停止方法        
+            </summary>        
+        </member>
+        <member name="T:SvsTcpCommunicate.PushSockets">
+            <summary>
+            推送器
+            </summary>
+            <param name="sockets"></param>
+        </member>
+        <member name="T:SvsTcpCommunicate.SvsTcpClientMethod">
+            <summary>
+            本类是客户端通信方法类
+            </summary>
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpClientMethod.Para">
+            <summary>          
+            当前管理对象         
+            </summary>   
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpClientMethod.m_IsClose">
+            <summary>
+            是否关闭
+            </summary>
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpClientMethod.Client">
+            <summary>            
+            客户端对象          
+            </summary>          
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpClientMethod.m_IpAddress">
+            <summary>            
+            当前连接服务端地址      
+            </summary>            
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpClientMethod.m_Port">
+            <summary>           
+            当前连接服务端端口号         
+            </summary>            
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpClientMethod.m_ip">
+            <summary>     
+            服务端IP+端口          
+            </summary>            
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpClientMethod.Msg">
+            <summary>
+            错误信息
+            </summary>
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpClientMethod.m_nStream">
+            <summary>           
+            发送与接收使用的流         
+            </summary>            
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpClientMethod.InitSocket(System.String,System.Int32)">
+            <summary>            
+            初始化Socket         
+            </summary>            
+            <param name="IpAddress"></param>            
+            <param name="Port"></param>          
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpClientMethod.InitSocket">
+            <summary>            
+            初始化Socket         
+            </summary>                     
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpClientMethod.InitSocket(SvsTcpCommunicate.SocketPara)">
+            <summary>
+            初始化
+            </summary>
+            <param name="Para">参数类</param>
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpClientMethod.pushSockets">
+            <summary>
+            推送信息委托
+            </summary>
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpClientMethod.SendData(System.String)">
+            <summary>
+            发送数据
+            </summary>
+            <param name="SendData"></param>
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpClientMethod.InitSocket(System.Net.IPAddress,System.Int32)">
+            <summary>          
+            初始化Socket          
+            </summary>            
+            <param name="ipaddress"></param>            
+            <param name="port"></param>          
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpClientMethod.Connect">
+            <summary>
+            连接
+            </summary>
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpClientMethod.EndReader(System.IAsyncResult)">
+            <summary>
+            连接后读取信息
+            </summary>
+            <param name="ir">异步操作的状态</param>
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpClientMethod.Start">
+            <summary>            
+            重写Start方法,其实就是连接服务端    
+            </summary>            
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpClientMethod.Stop">
+            <summary>
+            断开连接
+            </summary>
+        </member>
+        <member name="T:SvsTcpCommunicate.SocketPara">
+            <summary>
+            本类是通信参数类
+            </summary>
+        </member>
+        <member name="P:SvsTcpCommunicate.SocketPara.RecBuffer">
+            <summary>
+            接收缓冲区大小8k
+            </summary>
+        </member>
+        <member name="P:SvsTcpCommunicate.SocketPara.SendBuffer">
+            <summary>
+            发送缓冲区大小8k
+            </summary>
+        </member>
+        <member name="P:SvsTcpCommunicate.SocketPara.Offset">
+            <summary>
+            异步接收后包的大小
+            </summary>
+        </member>
+        <member name="P:SvsTcpCommunicate.SocketPara.Ip">
+            <summary>
+            当前IP地址,端口号
+            </summary>
+        </member>
+        <member name="P:SvsTcpCommunicate.SocketPara.Client">
+            <summary>      
+            客户端主通信程序     
+            </summary> 
+        </member>
+        <member name="P:SvsTcpCommunicate.SocketPara.nStream">
+            <summary>        
+            承载客户端Socket的网络流      
+            </summary>   
+        </member>
+        <member name="P:SvsTcpCommunicate.SocketPara.ex">
+            <summary>        
+            发生异常时不为null.       
+            </summary> 
+        </member>
+        <member name="P:SvsTcpCommunicate.SocketPara.IP">
+            <summary>
+            IP地址
+            </summary>
+        </member>
+        <member name="P:SvsTcpCommunicate.SocketPara.Port">
+            <summary>
+            端口号
+            </summary>
+        </member>
+        <member name="P:SvsTcpCommunicate.SocketPara.NewClientFlag">
+            <summary>      
+            新客户端标识.如果推送器发现此标识为true,那么认为是客户端上线        
+            仅服务端有效        
+            </summary>      
+        </member>
+        <member name="P:SvsTcpCommunicate.SocketPara.ClientDispose">
+            <summary>        
+            客户端退出标识.如果服务端发现此标识为true,那么认为客户端下线        
+            客户端接收此标识时,认为客户端异常.       
+            </summary>       
+        </member>
+        <member name="P:SvsTcpCommunicate.SocketPara.ClientUse">
+            <summary>
+            客户端
+            </summary>
+        </member>
+        <member name="P:SvsTcpCommunicate.SocketPara.ServerUse">
+            <summary>
+            服务端
+            </summary>
+        </member>
+        <member name="M:SvsTcpCommunicate.SocketPara.#ctor(System.Net.IPEndPoint,System.Net.Sockets.TcpClient,System.Net.Sockets.NetworkStream)">
+            <summary>        
+            构造函数        
+            </summary>        
+            <param name="ip">ip节点</param>       
+            <param name="client">TCPClient客户端</param>      
+            <param name="ns">NetworkStream </param>       
+        </member>
+        <member name="M:SvsTcpCommunicate.SocketPara.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="T:SvsTcpCommunicate.SvsTcpServerMethod">
+            <summary>
+            本类时服务器方法类
+            </summary>
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpServerMethod.eventReceiveMsg">
+            <summary>
+            接收信息事件
+            </summary>
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpServerMethod.IsStop">
+            <summary>
+            箭头是否开启
+            </summary>
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpServerMethod.obj">
+            <summary>
+            锁
+            </summary>
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpServerMethod.pushSockets">
+            <summary>
+            推送委托
+            </summary>
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpServerMethod.semap">
+            <summary>        
+            信号量        
+            </summary>       
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpServerMethod.IsConnect">
+            <summary>
+            是否连接成功
+            </summary>
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpServerMethod.ClientList">
+            <summary>        
+            客户端列表集合        
+            </summary>       
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpServerMethod.Listener">
+            <summary>        
+            服务端实例对象      
+            </summary>      
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpServerMethod.IpAddress">
+            <summary>        
+            当前的ip地址        
+            </summary>        
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpServerMethod.InitMsg">
+            <summary>        
+            初始化消息        
+            </summary>        
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpServerMethod.Port">
+            <summary>        
+            监听的端口       
+            </summary>        
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpServerMethod.IP">
+            <summary>        
+            当前ip和端口节点对象     
+            </summary>        
+        </member>
+        <member name="F:SvsTcpCommunicate.SvsTcpServerMethod.Accth">
+            <summary>
+            监听线程
+            </summary>
+        </member>
+        <member name="P:SvsTcpCommunicate.SvsTcpServerMethod.Para">
+            <summary>
+            TCP通信参数类
+            </summary>
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpServerMethod.InitSocket(System.Net.IPAddress,System.Int32)">
+            <summary>        
+            初始化服务器对象       
+            </summary>        
+            <param name="ipAddress">IP地址</param>        
+            <param name="port">端口号</param>        
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpServerMethod.InitSocket(SvsTcpCommunicate.SocketPara)">
+            <summary>
+            初始化服务对象
+            </summary>
+            <param name="Para">参数类</param>
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpServerMethod.InitSocket">
+            <summary>
+            初始化Socket
+            </summary>
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpServerMethod.InitSocket(System.String,System.Int32)">
+            <summary>        
+            初始化服务器对象       
+            </summary>        
+            <param name="ipAddress"></param>       
+            <param name="port"></param>       
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpServerMethod.Start">
+            <summary>       
+            服务端启动监听，处理链接    
+            </summary>       
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpServerMethod.GetAcceptTcpClient">
+            <summary>      
+            获取处理新的链接请求   
+            </summary>      
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpServerMethod.EndReader(System.IAsyncResult)">
+            <summary>      
+            异步接收发送的的信息      
+            </summary>       
+            <param name="ir"></param>       
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpServerMethod.AddClientList(SvsTcpCommunicate.SocketPara)">
+            <summary>      
+            客户端加入队列       
+            </summary>        
+            <param name="sk"></param>     
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpServerMethod.Stop">
+            <summary>       
+            服务端停止监听     
+            </summary>     
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpServerMethod.SendToAll(System.String)">
+            <summary>        
+            向所有在线客户端发送消息     
+            </summary>        
+            <param name="SendData">消息内容</param>      
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpServerMethod.SendToClient(System.Net.IPEndPoint,System.String)">
+            <summary>       
+            向单独的一个客户端发送消息    
+            </summary>      
+            <param name="ip"></param>       
+            <param name="SendData"></param>      
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpServerMethod.Save(System.Object,System.String)">
+            <summary>
+            文件化XML序列化
+            </summary>
+            <param name="obj">对象</param>
+            <param name="filename">文件路径</param>
+        </member>
+        <member name="M:SvsTcpCommunicate.SvsTcpServerMethod.Load(System.Type,System.String)">
+            <summary>
+            文件化XML反序列化
+            </summary>
+            <param name="type">对象类型</param>
+            <param name="filename">文件路径</param>
+        </member>
+        <member name="T:SvsTcpCommunicate.ReceiveMsg">
+            <summary>
+            获取服务端传递信息
+            </summary>
+        </member>
+        <member name="P:SvsTcpCommunicate.ReceiveMsg.Msg">
+            <summary>
+            获取传递信息
+            </summary>
+        </member>
+    </members>
+</doc>

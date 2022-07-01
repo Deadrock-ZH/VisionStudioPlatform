@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DllInterface</name>
+    </assembly>
+    <members>
+        <member name="P:DllInterface.InterfaceDll`4.InputImage">
+            <summary>
+            输入图像
+            </summary>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.SetImage(`2)">
+            <summary>
+            对图像赋值方法
+            </summary>
+            <param name="InputImage">赋值的图像</param>
+        </member>
+        <member name="P:DllInterface.InterfaceDll`4.AffineHom">
+            <summary>
+            输入仿射矩阵
+            </summary>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.SetAffineHom(`3)">
+            <summary>
+            对仿射矩阵赋值
+            </summary>
+            <param name="AffineHom">仿射矩阵</param>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.GetAffineHom">
+            <summary>
+            输出仿射矩阵方法
+            </summary>
+            <returns>输出仿射矩阵</returns>
+        </member>
+        <member name="P:DllInterface.InterfaceDll`4.RunTime">
+            <summary>
+            算法运行时间
+            </summary>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.GetRunTime">
+            <summary>
+            输出运行时间方法
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:DllInterface.InterfaceDll`4.RunMsg">
+            <summary>
+            运行消息
+            </summary>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.GetRunMsg">
+            <summary>
+            输出运行消息方法
+            </summary>
+            <returns>输出的运行消息</returns>
+        </member>
+        <member name="P:DllInterface.InterfaceDll`4.Row">
+            <summary>
+            输出行坐标
+            </summary>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.GetRow">
+            <summary>
+            输出行坐标方法
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:DllInterface.InterfaceDll`4.Col">
+            <summary>
+            输出行坐标
+            </summary>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.GetCol">
+            <summary>
+            输出列坐标方法
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:DllInterface.InterfaceDll`4.Angle">
+            <summary>
+            输出角度
+            </summary>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.GetAngle">
+            <summary>
+            输出角度
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:DllInterface.InterfaceDll`4.ListRow">
+            <summary>
+            输出行坐标集合
+            </summary>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.GetListRow">
+            <summary>
+            获取行坐标集合方法
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:DllInterface.InterfaceDll`4.ListCol">
+            <summary>
+            列坐标集合
+            </summary>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.GetListCol">
+            <summary>
+            获取列坐标集合
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:DllInterface.InterfaceDll`4.ListResult">
+            <summary>
+            结果集合
+            </summary>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.GetListResult">
+            <summary>
+            获取结果集合
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.Run">
+            <summary>
+            运行方法
+            </summary>
+            <returns>true：运行成功</returns>
+        </member>
+        <member name="P:DllInterface.InterfaceDll`4.ListReg">
+            <summary>
+            输入区域
+            </summary>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.GetListReg">
+            <summary>
+            输出区域方法
+            </summary>
+            <returns>输出区域类型</returns>
+        </member>
+        <member name="P:DllInterface.InterfaceDll`4.Para">
+            <summary>
+            参数类
+            </summary>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.SetPara(`0)">
+            <summary>
+            给参数类赋值方法
+            </summary>
+            <param name="Para">参数类对象</param>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.GetPara">
+            <summary>
+            获取参数对象
+            </summary>
+            <returns>返回参数对象</returns>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.Save(`0)">
+            <summary>
+            保存方法
+            </summary>
+            <param name="Para">保存参数</param>
+            <returns>true:保存成功</returns>
+        </member>
+        <member name="M:DllInterface.InterfaceDll`4.Load">
+            <summary>
+            加载方法
+            </summary>
+        </member>
+    </members>
+</doc>

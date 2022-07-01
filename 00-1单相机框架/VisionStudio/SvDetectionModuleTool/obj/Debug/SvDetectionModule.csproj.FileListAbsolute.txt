@@ -1,0 +1,5 @@
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDetectionModuleTool\bin\Debug\SvDetectionModule.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDetectionModuleTool\bin\Debug\SvDetectionModule.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDetectionModuleTool\obj\Debug\SvDetectionModule.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDetectionModuleTool\obj\Debug\SvDetectionModule.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\SvDetectionModuleTool\obj\Debug\SvDetectionModule.pdb

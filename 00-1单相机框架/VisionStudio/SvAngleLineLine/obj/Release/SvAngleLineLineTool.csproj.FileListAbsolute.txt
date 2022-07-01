@@ -1,0 +1,4 @@
+E:\通用软件\00-1单相机框架\VisionStudio\SvAngleLineLine\obj\Release\SvAngleLineLineTool.Properties.Resources.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvAngleLineLine\obj\Release\SvAngleLineLineTool.SvAngleLineLineToolForm.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvAngleLineLine\obj\Release\SvAngleLineLineTool.csproj.GenerateResource.cache
+E:\通用软件\00-1单相机框架\VisionStudio\SvAngleLineLine\obj\Release\SvAngleLineLineTool.csprojAssemblyReference.cache

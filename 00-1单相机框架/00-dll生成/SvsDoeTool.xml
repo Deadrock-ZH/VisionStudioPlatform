@@ -1,0 +1,1285 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SvsDoeTool</name>
+    </assembly>
+    <members>
+        <member name="F:SvsDoeTool.DefectFrm.m_method">
+            <summary>
+            方法类
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DefectFrm.m_Para">
+            <summary>
+            参数类
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DefectFrm.m_hoImage">
+            <summary>
+            显示图片
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DefectFrm.m_Disp">
+            <summary>
+            显示控件
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DefectFrm.m_hoSelectRegion">
+            <summary>
+            选择区域
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DefectFrm.m_hoRegCheck">
+            <summary>
+            检测区域
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DefectFrm.m_bModual">
+            <summary>
+            是否为模块使用
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.DefectFrm.#ctor(SvsDoeTool.Method)">
+            <summary>
+            构造方法
+            </summary>
+            <param name="method">方法类</param>
+        </member>
+        <member name="M:SvsDoeTool.DefectFrm.#ctor">
+            <summary>
+            doe窗体
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.DefectFrm.UpdateParaToCtrl">
+            <summary>
+            数据更新到控件
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.DefectFrm.DGVYYM">
+            <summary>
+            更新阴阳面数据
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.DefectFrm.Dgv(System.String)">
+            <summary>
+            将数据更新至控件中
+            </summary>
+            <param name="strCheckType">检测类型</param>
+        </member>
+        <member name="M:SvsDoeTool.DefectFrm.DgvMC(System.String)">
+            <summary>
+            将数据更新至控件中
+            </summary>
+            <param name="strCheckType">检测类型</param>
+        </member>
+        <member name="F:SvsDoeTool.DefectFrm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.DefectFrm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:SvsDoeTool.DefectFrm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:SvsDoeTool.DoeBorderPara">
+            <summary>
+            边缘参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeBorderPara.PBPara">
+            <summary>
+            破边参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeBorderPara.BBPara">
+            <summary>
+            崩边参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeBorderPara.DLPara">
+            <summary>
+            多料
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeBorderPara.MSPara">
+            <summary>
+            毛丝参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeBorderPara.MCPara">
+            <summary>
+            毛刺参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeBorderPara.SPara">
+            <summary>
+            伤参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeBorderPara.YHPara">
+            <summary>
+            压痕参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeBorderPara.SJPara">
+            <summary>
+            水迹参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeBorderPara.JSPara">
+            <summary>
+            胶水参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeBorderPara.QPPara">
+            <summary>
+            气泡参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeBorderPara.BDPara">
+            <summary>
+            白点参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeBorderPara.HDPara">
+            <summary>
+            黑点参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeBorderPara.WDPara">
+            <summary>
+            污点参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeBorderPara.YWPara">
+            <summary>
+            异物参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeBorderPara.TJPara">
+            <summary>
+            脱胶参数类
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.DoeBorderPara.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="T:SvsDoeTool.CheckPara">
+            <summary>
+            检测参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.USE">
+            <summary>
+            检测类型是否使用
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MeanImageNuclear">
+            <summary>
+            平滑图像的核
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.EmphasizeNuclear">
+            <summary>
+            图像增强的核
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.EmphasizeGray">
+            <summary>
+            图像增强的灰度
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.GrayMinRange">
+            <summary>
+            灰度拉伸的最小值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.GrayMaxRange">
+            <summary>
+            灰度拉伸的最大值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MinGray">
+            <summary>
+            最小灰度值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MaxGray">
+            <summary>
+            最大灰度值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.Opening">
+            <summary>
+            开运算值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.Closing">
+            <summary>
+            闭运算值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MinRa">
+            <summary>
+            Ra最小值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MaxRa">
+            <summary>
+            Ra最大值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MinRb">
+            <summary>
+            Rb最小值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MaxRb">
+            <summary>
+            Rb最大值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MinDiameter">
+            <summary>
+            直径最小值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MaxDiameter">
+            <summary>
+            直径最大值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MinArea">
+            <summary>
+            面积最小值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MaxArea">
+            <summary>
+            面积最大值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MinCircularity">
+            <summary>
+            圆度最小值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MaxCircularity">
+            <summary>
+            圆度最大值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MinLength">
+            <summary>
+            最小长度
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MaxLength">
+            <summary>
+            最大长度
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.YYMMinGray">
+            <summary>
+            阴阳面最小灰度值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.YYMMaxGray">
+            <summary>
+            阴阳面最大灰度值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.YYMMeanGray">
+            <summary>
+            阴阳面平均灰度值
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.YYMDeviation">
+            <summary>
+            阴阳面方差
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.YYMMeanOffset">
+            <summary>
+            阴阳面平均灰度offset
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.YYMDevationOffset">
+            <summary>
+            阴阳面平均灰度offset
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.LineGaussMaxContrast">
+            <summary>
+            高斯线的对比度2
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MCNewMult">
+            <summary>
+            新的毛刺图像处理
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MCNewAdd">
+            <summary>
+            新的毛刺图像处理
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MCNewThreshold">
+            <summary>
+            新的毛刺提取Threshold
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MCNewCircular">
+            <summary>
+            新的毛刺圆度
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MCNewLength">
+            <summary>
+            新的毛刺长度
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.LineGaussWidth">
+            <summary>
+            高斯线的宽度
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MedianRadius">
+            <summary>
+            中值滤波的半径
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.SobelNuclear">
+            <summary>
+            sobel滤波的核
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.CheckPara.MinNum">
+            <summary>
+            极限缺陷的最小个数
+            </summary>
+        </member>
+        <member name="T:SvsDoeTool.DoeEffectivePara">
+            <summary>
+            有效区参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeEffectivePara.MSPara">
+            <summary>
+            毛丝参数类
+            </summary>       
+        </member>
+        <member name="P:SvsDoeTool.DoeEffectivePara.SPara">
+            <summary>
+            伤参数类
+            </summary>       
+        </member>
+        <member name="P:SvsDoeTool.DoeEffectivePara.YYMPara">
+            <summary>
+            阴阳面参数类
+            </summary>       
+        </member>
+        <member name="P:SvsDoeTool.DoeEffectivePara.YWPara">
+            <summary>
+            异物参数类
+            </summary>       
+        </member>
+        <member name="P:SvsDoeTool.DoeEffectivePara.BDPara">
+            <summary>
+            白点参数类
+            </summary>       
+        </member>
+        <member name="P:SvsDoeTool.DoeEffectivePara.HDPara">
+            <summary>
+            黑点参数类
+            </summary>       
+        </member>
+        <member name="P:SvsDoeTool.DoeEffectivePara.QPPara">
+            <summary>
+            气泡参数类
+            </summary>       
+        </member>
+        <member name="P:SvsDoeTool.DoeEffectivePara.JSPara">
+            <summary>
+            胶水参数类
+            </summary>       
+        </member>
+        <member name="P:SvsDoeTool.DoeEffectivePara.DJPara">
+            <summary>
+            断胶参数类
+            </summary>       
+        </member>
+        <member name="P:SvsDoeTool.DoeEffectivePara.TJPara">
+            <summary>
+            脱胶参数类
+            </summary>       
+        </member>
+        <member name="M:SvsDoeTool.DoeEffectivePara.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_Disp">
+            <summary>
+            显示控件
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_hoImage">
+            <summary>
+            显示图片
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_method">
+            <summary>
+            方法类
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_bModual">
+            <summary>
+            是否为模块使用
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_MS">
+            <summary>
+            毛丝区域组合
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_MC">
+            <summary>
+            毛刺区域组合
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_LB">
+            <summary>
+            留白区域组合
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_Eff">
+            <summary>
+            有效区区域组合
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_YYMDouble">
+            <summary>
+            阴阳面
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_MSCurrent">
+            <summary>
+            毛丝参数
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_MCCurrent">
+            <summary>
+            毛刺参数
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_LBCurrent">
+            <summary>
+            留白参数类
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_EffCurrent">
+            <summary>
+            有效区参数类
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_YYMDoubleCurrent">
+            <summary>
+            有效区参数类
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_listROI">
+            <summary>
+            存储ROI
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_MaskMethod">
+            <summary>
+            掩模方法类
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_currentLineCalliper">
+            <summary>
+            线卡尺
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_currentListLineCalliper">
+            <summary>
+            存储多个线卡尺集合
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_listLineCalliperRoi">
+            <summary>
+            存储ROI
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.m_dlgFindLine">
+            <summary>
+            找线界面
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.MainForm.#ctor(SvsDoeTool.Method)">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.MainForm.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.MainForm.UpdateParaToCtrl">
+            <summary>
+            更新参数到界面
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.MainForm.UpdateRegionGropToCtrl">
+            <summary>
+            将区域组合添加到界面
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.MainForm.AffinePara">
+            <summary>
+            将当前数据仿射回初始
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.MainForm.UpdateLineCalliperToDgv">
+            <summary>
+            将线卡尺更新到列表中
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.MainForm.UpdateResult">
+            <summary>
+            数据更新
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.MainForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.MainForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:SvsDoeTool.MainForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:SvsDoeTool.Method">
+            <summary>
+            本类是方法类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.ModualFormName">
+            <summary>
+            模块Form名
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.Method.Para">
+            <summary>
+            总参数类
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.Method.m_FindLineMethod">
+            <summary>
+            找线方法类
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.Method.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.Method.m_CheckPara">
+            <summary>
+            检测参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.Line">
+            <summary>
+            显示线
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.ListDistance">
+            <summary>
+            测量的距离
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.InputImage">
+            <summary>
+            输入图片
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.RunTime">
+            <summary>
+            运行时间
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.RunMsg">
+            <summary>
+            运行消息
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.AffineHom">
+            <summary>
+            仿射矩阵
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.ListRa">
+            <summary>
+            长度集合
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.ListRb">
+            <summary>
+            宽度度集合
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.ListDiameter">
+            <summary>
+            直径集合
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.ListArea">
+            <summary>
+            面积集合
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.MeanYYM">
+            <summary>
+            阴阳面灰度
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.DeviationYYM">
+            <summary>
+            阴阳面方差
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.ImageMask">
+            <summary>
+            y掩模后的区域图片
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.ImageMean">
+            <summary>
+            均值滤波图像
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.ImageMedian">
+            <summary>
+            中值滤波图像
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.ImageSobel">
+            <summary>
+            Sobel滤波图像
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.ImageGamma">
+            <summary>
+            gamma图像(针对有效区毛丝和黑点)
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.ImageEmphasize">
+            <summary>
+            增强图像
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.ScaledRegion">
+            <summary>
+            灰度拉伸后的留白区域
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.ThresholdRegion">
+            <summary>
+            二值化区域提取
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.Opening">
+            <summary>
+            开运算结果
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.Closing">
+            <summary>
+            闭运算结果
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.Connection">
+            <summary>
+            联通后的区域
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.ListReg">
+            <summary>
+            选择的区域
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Method.OK">
+            <summary>
+            是否为OK品
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.Method.Run">
+            <summary>
+            运行
+            </summary>
+            <returns>true:运行成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.MeasureSize(System.Boolean@)">
+            <summary>
+            尺寸差错
+            </summary>
+            <param name="bOK">是否存在缺陷</param>
+            <returns>true：该方法运行成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.PBRun(HalconDotNet.HObject@)">
+            <summary>
+            破边检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true：检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.GetSelectRegionData(HalconDotNet.HObject)">
+            <summary>
+            获取选择区域的面积长宽直径
+            </summary>
+            <param name="SelecctRegion">选择区域</param>
+        </member>
+        <member name="M:SvsDoeTool.Method.BBRun(HalconDotNet.HObject@)">
+            <summary>
+            崩边检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true:检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.DLRun(HalconDotNet.HObject@)">
+            <summary>
+            多料检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true:检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.SRun(HalconDotNet.HObject@)">
+            <summary>
+            伤检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true:检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.YHRun(HalconDotNet.HObject@)">
+            <summary>
+            压痕检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true:检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.SJRun(HalconDotNet.HObject@)">
+            <summary>
+            水迹检测方法
+            </summary>
+            <param name="SelecctRegion">检测区域</param>
+            <returns>true:检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.JSRun(HalconDotNet.HObject@)">
+            <summary>
+            胶水检测方法
+            </summary>
+            <param name="SelecctRegion">检测区域</param>
+            <returns>true:检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.BDRun(HalconDotNet.HObject@)">
+            <summary>
+            白点检测方法
+            </summary>
+            <param name="SelecctRegion">检测区域</param>
+            <returns>true:检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.QPRun(HalconDotNet.HObject@)">
+            <summary>
+            气泡检测方法
+            </summary>
+            <param name="SelecctRegion">检测区域</param>
+            <returns>true:检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.HDRun(HalconDotNet.HObject@)">
+            <summary>
+            黑点检测方法
+            </summary>
+            <param name="SelecctRegion">检测区域</param>
+            <returns>true:检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.WDRun(HalconDotNet.HObject@)">
+            <summary>
+            胶水检测方法
+            </summary>
+            <param name="SelecctRegion">检测区域</param>
+            <returns>true:检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.YWRun(HalconDotNet.HObject@)">
+            <summary>
+            异物检测方法
+            </summary>
+            <param name="SelecctRegion">检测区域</param>
+            <returns>true:检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.MSRun(HalconDotNet.HObject@)">
+            <summary>
+            毛丝检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true:检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.MCRun(HalconDotNet.HObject@)">
+            <summary>
+            毛刺检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true:检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.MCNewRun(HalconDotNet.HObject@)">
+            <summary>
+            毛刺检测新方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true:检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.TJRun(HalconDotNet.HObject@)">
+            <summary>
+            脱胶检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true:检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.SEffRun(HalconDotNet.HObject@)">
+            <summary>
+            有效区伤检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true：检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.JSEffRun(HalconDotNet.HObject@)">
+            <summary>
+            有效区胶水检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true：检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.BDEffRun(HalconDotNet.HObject@)">
+            <summary>
+            有效区白点检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true：检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.QPEffRun(HalconDotNet.HObject@)">
+            <summary>
+            有效区气泡检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true：检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.DJEffRun(HalconDotNet.HObject@)">
+            <summary>
+            有效区断胶检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true：检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.HDEffRun(HalconDotNet.HObject@)">
+            <summary>
+            有效区黑点检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true：检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.YWEffRun(HalconDotNet.HObject@)">
+            <summary>
+            有效区异物检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true：检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.MSEffRun(HalconDotNet.HObject@)">
+            <summary>
+            有效区毛丝检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true：检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.TJEffRun(HalconDotNet.HObject@)">
+            <summary>
+            有效区脱胶检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true：检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.YYMEffRun(HalconDotNet.HObject@)">
+            <summary>
+            有效区阴阳面检测方法
+            </summary>
+            <param name="SelecctRegion">检测到的区域</param>
+            <returns>true：检测成功</returns>
+        </member>
+        <member name="M:SvsDoeTool.Method.scale_image_range(HalconDotNet.HObject,HalconDotNet.HObject@,HalconDotNet.HTuple,HalconDotNet.HTuple)">
+            <summary>
+            灰度拉伸方法
+            </summary>
+            <param name="ho_Image">输入的图像</param>
+            <param name="ho_ImageScaled">拉伸后的图像</param>
+            <param name="hv_Min">拉伸的最小灰度范围</param>
+            <param name="hv_Max">拉伸的最大灰度范围</param>
+        </member>
+        <member name="M:SvsDoeTool.Method.calculate_lines_gauss_parameters(HalconDotNet.HTuple,HalconDotNet.HTuple,HalconDotNet.HTuple@,HalconDotNet.HTuple@,HalconDotNet.HTuple@)">
+            <summary>
+            计算高斯线使用参数
+            </summary>
+            <param name="hv_MaxLineWidth">检测线宽</param>
+            <param name="hv_Contrast">对比度：越大，检测越短越突出的线</param>
+            <param name="hv_Sigma">sigma</param>
+            <param name="hv_Low">低对比度</param>
+            <param name="hv_High">高对比度</param>
+        </member>
+        <member name="M:SvsDoeTool.Method.Save(System.Object,System.String)">
+            <summary>
+            文件化XML序列化
+            </summary>
+            <param name="obj">对象</param>
+            <param name="filename">文件路径</param>
+        </member>
+        <member name="M:SvsDoeTool.Method.Load(System.Type,System.String)">
+            <summary>
+            文件化XML反序列化
+            </summary>
+            <param name="type">对象类型</param>
+            <param name="filename">文件路径</param>
+        </member>
+        <member name="T:SvsDoeTool.DOEType">
+            <summary>
+             DOE检测类型
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.无">
+            <summary>
+            类型无
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.MSBorder">
+            <summary>
+            留白毛丝
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.MCBorder">
+            <summary>
+            留白毛刺
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.PBBorder">
+            <summary>
+            留白破边
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.BBBorder">
+            <summary>
+            留白崩边
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.DLBorder">
+            <summary>
+            留白多料
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.BDBorder">
+            <summary>
+            留白白点
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.HDBorder">
+            <summary>
+            留白黑点
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.WDBorder">
+            <summary>
+            留白污点
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.JSBorder">
+            <summary>
+            留白胶水
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.SJBorder">
+            <summary>
+            留白水迹
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.TJBorder">
+            <summary>
+            留白脱胶
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.SBorder">
+            <summary>
+            留白伤
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.YHBorder">
+            <summary>
+            留白压痕
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.QPBorder">
+            <summary>
+            留白气泡
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.YWBorder">
+            <summary>
+            留白异物
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.MSEffective">
+            <summary>
+            毛丝有效区
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.SEffective">
+            <summary>
+            伤有效区
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.YWEffective">
+            <summary>
+            异物有效区
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.BDEffective">
+            <summary>
+            白点有效区
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.HDEffective">
+            <summary>
+            黑点有效区
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.QPEffective">
+            <summary>
+            气泡有效区
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.JSEffective">
+            <summary>
+            胶伤有效区
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.DJEffective">
+            <summary>
+            断胶有效区
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.TJEffective">
+            <summary>
+            脱胶有效区
+            </summary>
+        </member>
+        <member name="F:SvsDoeTool.DOEType.YYMEffective">
+            <summary>
+            有效区阴阳面
+            </summary>
+        </member>
+        <member name="T:SvsDoeTool.Para">
+            <summary>
+            DOE检测参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Para.ParaBoder">
+            <summary>
+            边缘参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Para.ParaEffective">
+            <summary>
+             有效区参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Para.DoeCheckType">
+            <summary>
+            DOE检测类型
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Para.RegionGroupMSPara">
+            <summary>
+             毛丝区域组合
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Para.RegionGroupMCPara">
+            <summary>
+             毛刺区域组合
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Para.RegionGroupLBPara">
+            <summary>
+             留白区域组合
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Para.RegionGroupEFFPara">
+            <summary>
+             有效区域组合
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Para.RegionGroupYYMDoublePara">
+            <summary>
+             阴阳面区域组合
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Para.MaskMCPara">
+            <summary>
+            毛刺掩模参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Para.MaskMSPara">
+            <summary>
+            毛丝掩模参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Para.MaskLBPara">
+            <summary>
+            留白掩模参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Para.MaskEFFPara">
+            <summary>
+            有效区掩模参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Para.MaskDoublePara">
+            <summary>
+            阴阳面掩模参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Para.DoeSizeParas">
+            <summary>
+            DOE尺寸差错参数类
+            </summary>
+        </member>
+        <member name="T:SvsDoeTool.DoeSizePara">
+            <summary>
+            尺寸差错
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeSizePara.OffsetSize">
+            <summary>
+            尺寸差错偏差
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeSizePara.SizeLB">
+            <summary>
+            留白区尺寸
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeSizePara.Use">
+            <summary>
+            尺寸测量是否使用
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeSizePara.ListCalliper">
+            <summary>
+            找线参数类
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.DoeSizePara.K">
+            <summary>
+            K值
+            </summary>
+        </member>
+        <member name="M:SvsDoeTool.DoeSizePara.#ctor">
+            <summary>
+            构造方法
+            </summary>
+        </member>
+        <member name="T:SvsDoeTool.Properties.Resources">
+            <summary>
+              一个强类型的资源类，用于查找本地化的字符串等。
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Properties.Resources.ResourceManager">
+            <summary>
+              返回此类使用的缓存的 ResourceManager 实例。
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Properties.Resources.Culture">
+            <summary>
+              使用此强类型资源类，为所有资源查找
+              重写当前线程的 CurrentUICulture 属性。
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Properties.Resources.closed">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Properties.Resources.delete">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Properties.Resources.plus2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Properties.Resources.resizeApi1234">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Properties.Resources.resizeApi14">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Properties.Resources.resizeApiIZ3OKPNJ">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Properties.Resources.保存1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Properties.Resources.尺寸差错">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Properties.Resources.尺寸差错1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:SvsDoeTool.Properties.Resources.掩模">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+    </members>
+</doc>

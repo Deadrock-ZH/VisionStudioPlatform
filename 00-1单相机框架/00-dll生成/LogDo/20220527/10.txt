@@ -1,0 +1,13 @@
+2022-05-27 10:56:21.642 >>> 加载参数 >>> System.IO.FileNotFoundException: 未能找到文件“D:\00-1单相机框架\00-dll生成\半自动线”。
+文件名:“D:\00-1单相机框架\00-dll生成\半自动线”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   在 VisionStudio.Method.Load(Type type, String filename) 位置 D:\00-1单相机框架\VisionStudio\Interface2\Method.cs:行号 174
+2022-05-27 10:56:47.223 >>> 相机 >>> 设置自动运行
+2022-05-27 10:56:51.269 >>> 手动 >>> 手动测试0
+2022-05-27 10:57:02.722 >>> 登录界面 >>> 用户切换
+2022-05-27 10:57:07.638 >>> 检测 >>> 检测设置0
+2022-05-27 10:57:07.640 >>> 文件 >>> 保存文件
+2022-05-27 10:57:30.709 >>> 文件 >>> 保存文件
+2022-05-27 10:58:51.145 >>> 加载参数 >>> 

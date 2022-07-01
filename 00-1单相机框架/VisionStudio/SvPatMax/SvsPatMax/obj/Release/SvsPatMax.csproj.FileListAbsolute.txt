@@ -1,0 +1,13 @@
+E:\视觉模块\02-SvPatMax\SvsPatMax\bin\Release\SvsPatMax.dll
+E:\视觉模块\02-SvPatMax\SvsPatMax\bin\Release\SvsPatMax.pdb
+E:\视觉模块\02-SvPatMax\SvsPatMax\bin\Release\GVS.halconDispCtrl.dll
+E:\视觉模块\02-SvPatMax\SvsPatMax\bin\Release\halcondotnet.dll
+E:\视觉模块\02-SvPatMax\SvsPatMax\bin\Release\System.Net.Http.dll
+E:\视觉模块\02-SvPatMax\SvsPatMax\bin\Release\GVS.halconDispCtrl.pdb
+E:\视觉模块\02-SvPatMax\SvsPatMax\bin\Release\System.Net.Http.xml
+E:\视觉模块\02-SvPatMax\SvsPatMax\bin\Release\zh-Hans\System.Net.Http.resources.dll
+E:\视觉模块\02-SvPatMax\SvsPatMax\obj\Release\SvsPatMax.PatMaxForm.resources
+E:\视觉模块\02-SvPatMax\SvsPatMax\obj\Release\SvsPatMax.Properties.Resources.resources
+E:\视觉模块\02-SvPatMax\SvsPatMax\obj\Release\SvsPatMax.csproj.GenerateResource.Cache
+E:\视觉模块\02-SvPatMax\SvsPatMax\obj\Release\SvsPatMax.dll
+E:\视觉模块\02-SvPatMax\SvsPatMax\obj\Release\SvsPatMax.pdb

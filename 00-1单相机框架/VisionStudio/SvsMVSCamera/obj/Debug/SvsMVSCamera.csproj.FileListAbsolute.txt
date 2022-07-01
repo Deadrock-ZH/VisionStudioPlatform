@@ -1,0 +1,84 @@
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\obj\Debug\SvsMVSCamera.CameraForm.resources
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\obj\Debug\SvsMVSCamera.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\obj\Debug\SvsMVSCamera.pdb
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\obj\Debug\SvsMVSCamera.Properties.Resources.resources
+E:\视觉模块 统一接口\00-dll生成\SvsMVSCamera.pdb
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\SvsMVSCamera.exe.config
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\SvsMVSCamera.exe
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\SvsMVSCamera.pdb
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\halcondotnet.dll
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\MvCameraControl.Net.dll
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\MvCameraControl.Net.xml
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\bin\Debug\SvsMVSCamera.exe.config
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\bin\Debug\SvsMVSCamera.exe
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\bin\Debug\SvsMVSCamera.pdb
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\bin\Debug\MvCameraControl.Net.dll
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\bin\Debug\MvCameraControl.Net.xml
+E:\视觉模块 统一接口\00-dll生成\SvsMVSCamera.dll.config
+E:\视觉模块 统一接口\00-dll生成\SvsMVSCamera.dll
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\obj\Debug\SvsMVSCamera.csprojResolveAssemblyReference.cache
+E:\视觉模块 统一接口\00-dll生成\SvsMVSCamera.XML
+E:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\obj\Debug\SvsMVSCamera.dll
+F:\视觉模块 统一接口\00-dll生成\SvsMVSCamera.dll.config
+F:\视觉模块 统一接口\00-dll生成\SvsMVSCamera.XML
+F:\视觉模块 统一接口\00-dll生成\SvsMVSCamera.dll
+F:\视觉模块 统一接口\00-dll生成\SvsMVSCamera.pdb
+F:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\obj\Debug\SvsMVSCamera.csprojResolveAssemblyReference.cache
+F:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\obj\Debug\SvsMVSCamera.CameraForm.resources
+F:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\obj\Debug\SvsMVSCamera.Properties.Resources.resources
+F:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\obj\Debug\SvsMVSCamera.csproj.GenerateResource.Cache
+F:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\obj\Debug\SvsMVSCamera.dll
+F:\视觉模块 统一接口\14-SvsCameraDemo\MVSCameraDemo\SvsMVSCamera\obj\Debug\SvsMVSCamera.pdb
+F:\workspace20211122\00-dll生成\SvsMVSCamera.dll.config
+F:\workspace20211122\00-dll生成\SvsMVSCamera.XML
+F:\workspace20211122\00-dll生成\SvsMVSCamera.dll
+F:\workspace20211122\00-dll生成\SvsMVSCamera.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.csprojResolveAssemblyReference.cache
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.CameraForm.resources
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.Properties.Resources.resources
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.csproj.GenerateResource.Cache
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.pdb
+F:\通用软件维护版本\workspace20211122\00-dll生成\SvsMVSCamera.dll.config
+F:\通用软件维护版本\workspace20211122\00-dll生成\SvsMVSCamera.XML
+F:\通用软件维护版本\workspace20211122\00-dll生成\SvsMVSCamera.dll
+F:\通用软件维护版本\workspace20211122\00-dll生成\SvsMVSCamera.pdb
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.csprojResolveAssemblyReference.cache
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.CameraForm.resources
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.Properties.Resources.resources
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.csproj.GenerateResource.Cache
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.dll
+F:\通用软件维护版本\workspace20211122\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.csprojResolveAssemblyReference.cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.CameraForm.resources
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.Properties.Resources.resources
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.csproj.GenerateResource.Cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-dll生成\SvsMVSCamera.dll.config
+G:\装备部资料\视觉相关资料\通用软件\00-dll生成\SvsMVSCamera.XML
+G:\装备部资料\视觉相关资料\通用软件\00-dll生成\SvsMVSCamera.dll
+G:\装备部资料\视觉相关资料\通用软件\00-dll生成\SvsMVSCamera.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvsMVSCamera.dll.config
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvsMVSCamera.XML
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvsMVSCamera.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\SvsMVSCamera.pdb
+D:\code2022\00-1单相机框架\00-dll生成\SvsMVSCamera.dll.config
+D:\code2022\00-1单相机框架\00-dll生成\SvsMVSCamera.XML
+D:\code2022\00-1单相机框架\00-dll生成\SvsMVSCamera.dll
+D:\code2022\00-1单相机框架\00-dll生成\SvsMVSCamera.pdb
+D:\code2022\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.csproj.AssemblyReference.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.CameraForm.resources
+D:\code2022\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.Properties.Resources.resources
+D:\code2022\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.csproj.GenerateResource.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.csproj.CoreCompileInputs.cache
+D:\code2022\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.csproj.CopyComplete
+D:\code2022\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.dll
+D:\code2022\00-1单相机框架\VisionStudio\SvsMVSCamera\obj\Debug\SvsMVSCamera.pdb

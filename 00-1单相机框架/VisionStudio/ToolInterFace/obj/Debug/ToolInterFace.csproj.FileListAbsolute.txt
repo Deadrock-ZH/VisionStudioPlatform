@@ -1,0 +1,32 @@
+E:\视觉模块 统一接口\00-接口\Demo\ToolInterFace\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-接口\Demo\ToolInterFace\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-接口\Demo\ToolInterFace\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-dll生成\ToolInterFace.XML
+E:\视觉模块 统一接口\00-dll生成\ToolInterFace.dll
+E:\视觉模块 统一接口\00-dll生成\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-接口\Demo\ToolInterFace\obj\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-接口\Demo\ToolInterFace\obj\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-接口\Demo\ToolInterFace\obj\Debug\ToolInterFace.csprojResolveAssemblyReference.cache
+F:\workspace20211122\00-dll生成\ToolInterFace.XML
+F:\workspace20211122\00-dll生成\ToolInterFace.dll
+F:\workspace20211122\00-dll生成\ToolInterFace.pdb
+F:\workspace20211122\00-1单相机框架\VisionStudio\ToolInterFace\obj\Debug\ToolInterFace.csprojResolveAssemblyReference.cache
+F:\workspace20211122\00-1单相机框架\VisionStudio\ToolInterFace\obj\Debug\ToolInterFace.dll
+F:\workspace20211122\00-1单相机框架\VisionStudio\ToolInterFace\obj\Debug\ToolInterFace.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ToolInterFace\obj\Debug\ToolInterFace.csprojResolveAssemblyReference.cache
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ToolInterFace\obj\Debug\ToolInterFace.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\VisionStudio\ToolInterFace\obj\Debug\ToolInterFace.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-dll生成\ToolInterFace.XML
+G:\装备部资料\视觉相关资料\通用软件\00-dll生成\ToolInterFace.dll
+G:\装备部资料\视觉相关资料\通用软件\00-dll生成\ToolInterFace.pdb
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\ToolInterFace.XML
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\ToolInterFace.dll
+G:\装备部资料\视觉相关资料\通用软件\00-1单相机框架\00-dll生成\ToolInterFace.pdb
+D:\code2022\00-1单相机框架\00-dll生成\ToolInterFace.XML
+D:\code2022\00-1单相机框架\00-dll生成\ToolInterFace.dll
+D:\code2022\00-1单相机框架\00-dll生成\ToolInterFace.pdb
+D:\code2022\00-1单相机框架\VisionStudio\ToolInterFace\obj\Debug\ToolInterFace.csproj.AssemblyReference.cache
+D:\code2022\00-1单相机框架\VisionStudio\ToolInterFace\obj\Debug\ToolInterFace.csproj.CoreCompileInputs.cache
+D:\code2022\00-1单相机框架\VisionStudio\ToolInterFace\obj\Debug\ToolInterFace.csproj.CopyComplete
+D:\code2022\00-1单相机框架\VisionStudio\ToolInterFace\obj\Debug\ToolInterFace.dll
+D:\code2022\00-1单相机框架\VisionStudio\ToolInterFace\obj\Debug\ToolInterFace.pdb

@@ -1,0 +1,3 @@
+E:\通用软件\00-1单相机框架\VisionStudio\SvDetectionModuleTool\obj\Release\SvDetectionModuleTool.Properties.Resources.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvDetectionModuleTool\obj\Release\SvDetectionModuleTool.SvDetectionModuleToolForm.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvDetectionModuleTool\obj\Release\SvDetectionModuleTool.csproj.GenerateResource.cache

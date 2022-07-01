@@ -1,0 +1,38 @@
+E:\work\work26\C#\界面设计\Interface2\Interface2\bin\Debug\Interface2.exe
+E:\work\work26\C#\界面设计\Interface2\Interface2\bin\Debug\Interface2.pdb
+E:\work\work26\C#\界面设计\Interface2\Interface2\obj\Debug\Interface2.Form1.resources
+E:\work\work26\C#\界面设计\Interface2\Interface2\obj\Debug\Interface2.Properties.Resources.resources
+E:\work\work26\C#\界面设计\Interface2\Interface2\obj\Debug\Interface2.csproj.GenerateResource.cache
+E:\work\work26\C#\界面设计\Interface2\Interface2\obj\Debug\Interface2.exe
+E:\work\work26\C#\界面设计\Interface2\Interface2\obj\Debug\Interface2.pdb
+E:\work\work26\C#\界面设计\Interface2\Interface2\obj\Debug\Interface2.csprojAssemblyReference.cache
+E:\work\work26\C#\界面设计\Interface2\Interface2\obj\Debug\Interface2.csproj.CopyComplete
+E:\work\work26\C#\界面设计\Interface2\Interface2\obj\Debug\Interface2.PointTech_Camera.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\GVS.halconDispCtrl.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\halcondotnet.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\ToolInterFace.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\GVS.halconDispCtrl.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\GVS.halconDispCtrl.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\ToolInterFace.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\ToolInterFace.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\obj\Debug\Interface2.Form1.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\obj\Debug\Interface2.PointTech_Camera.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\obj\Debug\Interface2.csproj.GenerateResource.Cache
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\SvBlobTool.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\SvMask.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\SvBlobTool.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\SvMask.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\SvMask.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\CommonMethod.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\SvsMVSCamera.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\MvCameraControl.Net.dll
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\CommonMethod.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\CommonMethod.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\SvsMVSCamera.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\SvsMVSCamera.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\MvCameraControl.Net.xml
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\obj\Debug\VisionStudio.Properties.Resources.resources
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\VisionStudio.exe
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\bin\Debug\VisionStudio.pdb
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\obj\Debug\VisionStudio.exe
+E:\视觉模块 统一接口\00-1单相机框架\Interface2\Interface2\obj\Debug\VisionStudio.pdb

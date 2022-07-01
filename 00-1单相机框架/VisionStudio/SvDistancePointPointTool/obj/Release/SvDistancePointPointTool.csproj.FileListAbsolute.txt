@@ -1,0 +1,4 @@
+E:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointPointTool\obj\Release\SvDistancePointPointTool.csprojAssemblyReference.cache
+E:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointPointTool\obj\Release\SvDistancePointPointTool.Properties.Resources.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointPointTool\obj\Release\SvDistancePointPointTool.SvDistancePointPointToolForm.resources
+E:\通用软件\00-1单相机框架\VisionStudio\SvDistancePointPointTool\obj\Release\SvDistancePointPointTool.csproj.GenerateResource.cache
